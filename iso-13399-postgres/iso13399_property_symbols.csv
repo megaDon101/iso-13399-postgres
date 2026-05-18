@@ -1,0 +1,204 @@
+symbol,description
+ADJLX,adjustment limit maximum
+ADJRG,adjustment range
+ALF,clearance angle radial
+ALP,clearance angle axial
+AN,clearance angle major
+ANN,clearance angle minor
+APMX,depth of cut maximum
+AS,clearance angle wiper edge
+ASP,adjusting screw protrusion
+AZ,plunge depth maximum
+B,shank width
+BBD,balanced by design
+BCH,corner chamfer length
+BD,body diameter
+BDX,body diameter maximum
+BHCC,bolt hole circle count
+BHTA,body half taper angle
+BMC,body material code
+BS,wiper edge length
+BSR,wiper edge radius
+CASC,cartridge size code
+CB,chip breaker face count
+CBDP,connection bore depth
+CBMD,chip breaker manufacturers designation
+CBP,chip breaker property
+CCMS,connection code machine side
+CCWS,connection code workpiece side
+CCP,chamfer corner property
+CDI,insert cutting diameter
+CDX,cutting depth maximum
+CEATC,tool cutting edge angle type code
+CECC,cutting edge condition code
+CEDC,cutting edge count
+CF,spot chamfer
+CHW,corner chamfer width
+CICT,cutting item count
+CNC,corner count
+CND,coolant entry diameter
+CNSC,coolant entry style code
+CNT,coolant entry thread size
+CP,coolant pressure
+CRE,spot radius
+CRKS,connection retention knob thread size
+CSP,coolant supply property
+CTP,coating property
+CTX,cutting point translation X-direction
+CTY,cutting point translation Y-direction
+CUTDIA,work piece parting diameter maximum
+CUB,connection unit basis
+CW,cutting width
+CWX,cutting width maximum
+CXD,coolant exit diameter
+CXSC,coolant exit style code
+CZC,connection size code
+D1,fixing hole diameter
+DAH,diameter access hole
+DAXN,axial groove outside diameter minimum
+DAXX,axial groove outside diameter maximum
+DBC,diameter bolt circle
+DC,cutting diameter
+DCB,connection bore diameter
+DCBN,connection bore diameter minimum
+DCBX,connection bore diameter maximum
+DCC,design configuration style code
+DCCB,counterbore diameter connection bore
+DCIN,cutting diameter internal
+DCINN,cutting diameter internal minimum
+DCINX,cutting diameter internal maximum
+DCN,cutting diameter minimum
+DCON,connection diameter
+DCONMS,connection diameter machine side
+DCONWS,connection diameter workpiece side
+DCSC,cutting diameter size code
+DCSFMS,contact surface diameter machine side
+DCX,cutting diameter maximum
+DF,flange diameter
+DHUB,hub diameter
+DMIN,minimum bore diameter
+DMM,shank diameter
+DN,neck diameter
+DRVA,drive angle
+EPSR,insert included angle
+FHA,flute helix angle
+FHCSA,fixing hole countersunk angle
+FHCSD,fixing hole countersunk diameter
+FLGT,flange thickness
+FMT,form type
+FXHLP,fixing hole property
+GAMF,rake angle radial
+GAMN,rake angle normal
+GAMO,rake angle orthogonal
+GAMP,rake angle axial
+GAN,insert rake angle
+H,shank height
+HA,thread height theoretical
+HAND,hand
+HBH,head bottom offset height
+HBKL,head back offset length
+HBKW,head back offset width
+HBL,head bottom offset length
+HC,thread height actual
+HF,functional height
+HHUB,hub height
+HTB,body height
+IC,inscribed circle diameter
+IFS,insert mounting style code
+IIC,insert interface code
+INSL,insert length
+KAPR,tool cutting edge angle
+KCH,corner chamfer angle
+KRINS,cutting edge angle major
+KWL,Keyway length
+KWW,keyway width
+KYP,keyway property
+L,cutting edge length
+LAMS,inclination angle
+LB,body length
+LBB,chip breaker width
+LBX,body length maximum
+LCCB,counterbore depth connection bore
+LCF,length chip flute
+LDRED,reduced body diameter length
+LE,cutting edge effective length
+LF,functional length
+LFA,a dimension on lf
+LH,head length
+LPR,protruding length
+LS,shank length
+LSC,clamping length
+LSCN,clamping length minimum
+LSCX,clamping length maximumLTALTA length (length from MCS to CRP)
+LU,usable length
+LUX,usable length maximum
+M,m-dimension
+M2,m2-dimension
+MHA,mounting hole angle
+MHD,mounting hole distance
+MHH,mounting hole height
+MIID,master insert identification
+MTP,clamping type code
+NCE,cutting end count
+NOF,flute count
+NOI,insert index count
+NT,tooth count
+OAH,overall height
+OAL,overall length
+OAW,overall width
+PDPT,profile depth insert
+PDX,profile distance ex
+PDY,profile distance ey
+PFS,profile style code
+PL,point length
+PNA,profile included angle
+PSIR,tool lead angle
+PSIRL,cutting edge angle major left hand
+PSIRR,cutting edge angle major right hand
+RAL,relief angle left hand
+RAR,relief angle right hand
+RCP,rounded corner property
+RE,corner radius
+REL,corner radius left hand
+RER,corner radius right hand
+RMPX,ramping angle maximum
+RPMX,rotational speed maximum
+S,insert thickness
+S1,insert thickness total
+SC,insert shape code
+SDL,step diameter length
+SIG,point angle
+SSC,insert seat size code
+SX,shank cross section shape code
+TC,tolerance class insert
+TCE,tipped cutting edge code
+TCTR,thread tolerance class
+TD,thread diameter
+THFT,thread form type
+THL,threading length
+THLGTH,thread length
+THSC,tool holder shape code
+THUB,hub thickness
+TP,thread pitch
+TPI,threads per inch
+TPIN,threads per inch minimum
+TPIX,threads per inch maximum
+TPN,thread pitch minimum
+TPT,thread profile type
+TPX,thread pitch maximum
+TQ,torque
+TSYC,tool style code
+TTP,thread type
+ULDR,usable length diameter ratio
+UST,unit system
+W1,insert width
+WEP,wiper edge property
+WF,functional width
+WF2,Distance between the cutting reference point and the front seating surface of a turning tool
+WFS,functional width secondary
+WT,weight of item
+ZEFF,face effective cutting edge count
+ZEFP,peripheral effective cutting edge count
+ZNC,cutting edge center count
+ZNF,face mounted insert count
+ZNP,peripheral mounted insert count

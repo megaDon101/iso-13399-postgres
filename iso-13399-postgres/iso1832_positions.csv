@@ -1,0 +1,14 @@
+position_number,property_name,description,standard
+1,Insert Shape,"Geometric shape of the insert (rhombic, square, triangle, etc.). First letter of any standard ISO 1832-1 turning insert designation. Example: 'C' in CNMG = rhomboid 80°.",ISO 1832-1
+2,Clearance Angle,"Insert clearance angle measured at side. Second letter. Example: 'N' in CNMG = 0° (negative).",ISO 1832-1
+3,Tolerance Class,"Manufacturing tolerance class for insert dimensions. Third letter. Example: 'M' in CNMG = standard turning tolerance.",ISO 1832-1
+4,Geometry and Clamping Type,"Hole type, chipbreaker presence (single/double sided), section shape. Fourth letter. Example: 'G' in CNMG = with cylindrical hole, double-sided chipbreaker.",ISO 1832-1
+5,Cutting Edge Length,"Length of cutting edge in millimeters (or inscribed circle in 1/32 inch for ANSI). Position 5-6 in turning insert designation. Example: '12' in CNMG12 = 12 mm cutting edge length.",ISO 1832-1
+6,Thickness,"Insert thickness code. Two digits after cutting edge length. Example: '04' in CNMG1204 = 4.76 mm thickness.",ISO 1832-1
+7,Corner Radius,"Insert corner radius. Two digits after thickness. Example: '08' in CNMG120408 = 0.8 mm corner radius (0.0312 inch).",ISO 1832-1
+8,Cutting Edge Form,"Edge preparation form: F=sharp, E=honed, T=T-land (chamfered), S=honed T-land (chamfered + rounded). Position 8 — often omitted in basic designations.",ISO 1832-1
+9,Insert Hand,"Hand of insert (R=right, L=left, N=neutral). Position 9 — often omitted in basic designations.",ISO 1832-1
+10,Manufacturer Extension,"Optional vendor-specific suffix codes (e.g. -RP for Kennametal Roughing Positive chipbreaker, -PR for Sandvik Roughing). Not standardized — varies by vendor.",ISO 1832-1 (vendor ext)
+11,Edge Prep Class,"Kennametal-specific edge prep severity (Hard Turning section): L=Light, G=General, H=Heavy. Embedded in Hard Turning part numbers as a position after the cutting edge form.",Kennametal extension
+12,Rake Face Angle,"Rake face angle code (Kennametal milling section): N=0°, A=3°, B=5°, C=7°, P=11°, D=15°, E=20°, F=25°, G=30°. Standardized angle convention used across many manufacturers.",ISO 1832-1
+13,Added Info,"Optional suffix for special features: J=polished rake face, P=partial T-land, W=wiper/radiused facet.",ISO 1832-1 (vendor ext)

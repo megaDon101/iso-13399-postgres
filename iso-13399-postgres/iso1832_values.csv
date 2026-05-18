@@ -1,0 +1,78 @@
+position_number,code,meaning,sort_order
+1,A,Parallelogram (85° nose angle),1
+1,C,Rhomboid (80° nose angle),2
+1,D,Rhomboid (55° nose angle),3
+1,E,Rhomboid (75° nose angle),4
+1,H,Hexagon (120° nose angle),5
+1,K,Parallelogram (55° nose angle),6
+1,L,Rectangle (90° nose angle),7
+1,M,Rhomboid (86° nose angle),8
+1,O,Octagon (135° nose angle),9
+1,P,Pentagon (108° nose angle),10
+1,R,Round,11
+1,S,Square (90° nose angle),12
+1,T,Triangle (60° nose angle),13
+1,V,Rhomboid (35° nose angle),14
+1,W,Trigon (80° nose angle),15
+1,X,Kennametal standard form,16
+2,A,Clearance angle 3°,1
+2,B,Clearance angle 5°,2
+2,C,Clearance angle 7°,3
+2,D,Clearance angle 15°,4
+2,E,Clearance angle 20°,5
+2,F,Clearance angle 25°,6
+2,G,Clearance angle 30°,7
+2,N,Clearance angle 0° (negative),8
+2,P,Clearance angle 11°,9
+3,A,"Tolerance class A: ±0.001 cutting edge / ±0.0002 thickness M / ±0.001 thickness T (small inserts)",1
+3,B,"Tolerance class B: ±0.001 / ±0.0002 / ±0.005",2
+3,C,"Tolerance class C: ±0.001 / ±0.0005 / ±0.001",3
+3,D,"Tolerance class D: ±0.001 / ±0.0005 / ±0.005",4
+3,E,"Tolerance class E: ±0.001 / ±0.001 / ±0.001",5
+3,F,"Tolerance class F: ±0.0005 / ±0.0002 / ±0.001",6
+3,G,"Tolerance class G: ±0.001 / ±0.001 / ±0.005",7
+3,H,"Tolerance class H: ±0.0005 / ±0.0005 / ±0.001",8
+3,J,"Tolerance class J: ±0.002-0.005 / ±0.0002 / ±0.001",9
+3,K,"Tolerance class K: ±0.002-0.005 / ±0.0005 / ±0.001",10
+3,L,"Tolerance class L: ±0.002-0.005 / ±0.001 / ±0.001",11
+3,M,"Tolerance class M: ±0.002-0.004 / ±0.002-0.010 / ±0.005 (most common turning insert tolerance)",12
+3,N,"Tolerance class N: ±0.002-0.004 / ±0.002-0.010 / ±0.001",13
+3,P,"Tolerance class P (Kennametal standard only): ±0.0015 / ±0.0015 / ±0.0015",14
+3,U,"Tolerance class U: ±0.003-0.010 / ±0.005-0.012 / ±0.005",15
+4,A,"With cylindrical hole, no chipbreaker (without)",1
+4,B,"Partly cylindrical hole 70-90°, no chipbreaker (without)",2
+4,C,"Partly cylindrical hole 70-90°, no chipbreaker (without)",3
+4,F,"Without hole, double-sided chipbreaker",4
+4,G,"With cylindrical hole, double-sided chipbreaker (most common turning insert clamping)",5
+4,H,"With countersink (70-90°), single-sided chipbreaker",6
+4,J,"With double countersink (70-90°), double-sided chipbreaker",7
+4,M,"With cylindrical hole, single-sided chipbreaker",8
+4,N,"Without hole, no chipbreaker (single sided)",9
+4,Q,"Partly cylindrical hole 40-60°, no chipbreaker (without)",10
+4,R,"Without hole, no chipbreaker (single sided)",11
+4,T,"With countersink (40-60°), single-sided chipbreaker",12
+4,U,"With double countersink (40-60°), double-sided chipbreaker",13
+4,W,"Partly cylindrical hole 40-60°, no chipbreaker (without)",14
+4,X,Special design,15
+8,F,"Cutting edge form: sharp",1
+8,E,"Cutting edge form: honed",2
+8,T,"Cutting edge form: T-land (chamfered)",3
+8,S,"Cutting edge form: honed T-land (chamfered + rounded)",4
+9,L,"Hand: left",1
+9,N,"Hand: neutral",2
+9,R,"Hand: right",3
+11,L,"Light edge prep — sharp or lightly honed and/or T-landed",1
+11,G,"General edge prep — medium hone and/or T-land",2
+11,H,"Heavy edge prep — large hone and/or T-land",3
+12,N,"Rake face angle: 0° or less",1
+12,A,"Rake face angle: 3°",2
+12,B,"Rake face angle: 5°",3
+12,C,"Rake face angle: 7°",4
+12,P,"Rake face angle: 11°",5
+12,D,"Rake face angle: 15°",6
+12,E,"Rake face angle: 20°",7
+12,F,"Rake face angle: 25°",8
+12,G,"Rake face angle: 30°",9
+13,J,"Polished rake face",1
+13,P,"Partial T-land",2
+13,W,"Wiper / radiused facet",3

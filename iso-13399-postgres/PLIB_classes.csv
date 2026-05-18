@@ -1,0 +1,539 @@
+plib_code,mnemonic,full_name,description,bsu_version,owner_entity_type
+71ED66B162A10,FLK,FLK flange connector Kennametal,connection with flanged mating surfaces located by a central boss on the workpiece side connector and secured by screws into the machine side connector with dimensions conforming to the Kennametal flange connector,001,FEATURE_CLASS
+71EF08050689D,FLK-02,variant 02 of FLK flange connection Kennametal,version of FLK flange connector Kennametal conforming to the dimensions of the design NCM-F,001,FEATURE_CLASS
+71FC81BA3ECE9,shmscw,shim screw,externally threaded fastener for holding a shim in a pocket with a central threaded through hole into which an insert screw can go to hold the insert,002,ITEM_CLASS
+71EAD70F1B95A,nest,nest,assembly item that contains a seat or pocket that cradles and positions a replaceable cutting item but does not lock the replaceable cutting item by itself,001,ITEM_CLASS
+71EC56BAC1A7E,insclps,insert clamping system,family of assemblies of objects for holding a cutting item on a tool item,001,ITEM_CLASS
+71EC6588A8C9E,lvicp,lever insert clamping,assembly for applying a holding force by the action of the end of a lever pressing on the inside of a hole in the cutting item,001,ITEM_CLASS
+71CE7A72B6DA7,ctl,cutting tool library,"library of items that are characterised by their association with machine cutting tools, their components and their assembly",002,ITEM_CLASS
+71CE7A795C05C,hardware,assembly item type,family of objects that enable the combination of items to form a cutting tool ,001,ITEM_CLASS
+71ED80DFB6371,lvr,insert lever,object that rotates about a pivot to apply a force to hold an insert onto a tool item,001,ITEM_CLASS
+71E01A00BD93C,drill,drill,family of items designed for use mainly in drilling operations,003,ITEM_CLASS
+71FACDBFF369F,CDB,CDB Coromant Duobore,connection between a dual boring cartridge assembly and another adaptive item ,001,FEATURE_CLASS
+71FACDC0554A1,CDB-01,variant 01 of CDB Coromant Duobore,version of a connection between a dual boring cartridge assembly and another adaptive item with radial adjustment and axial adjustment by the addition of a shim,001,FEATURE_CLASS
+71EF0BB840816,CBC-01,variant 01 of CBC Coromant bridge connection,normal version of CBC Coromant Bridge Connection,001,FEATURE_CLASS
+71ED66B9CF5A0,MKG,MKG Morse taper,connection between concial mating surfaces with specific details of the design,001,FEATURE_CLASS
+71EC56D71B815,lvtcp,lever top clamping,assembly for applying a holding force on the top surface of a cutting item by the rotation of a lever about a pivot,001,ITEM_CLASS
+71E01A06A8A08,cskdrill,countersink drill,tool item for creating a countersink section of a hole,003,ITEM_CLASS
+71EC5A6E9F6F0,,retaining ring,annular shaped object that fits into a groove to prevent the separation of two components,001,ITEM_CLASS
+71EF0BB775C8C,CFB-03,variant 03 of CFB Coromant Fine Boring,version of CFB Fine Boring to connect a boring unit into a boring bar secured by three screws into the machine side connector to enable the assembly of a fine boring tool ,001,FEATURE_CLASS
+71EF0BB74011A,CFB,CFB Coromant Fine Boring,connections to enable the assembly of a fine boring tool conforming to the dimensions of a Coromant Fine Boring Unit,001,FEATURE_CLASS
+71EC56D828198,wgcp,wedge clamping,assembly  for applying a holding force by the lateral movement of one or more wedge surfaces,001,ITEM_CLASS
+71FAD547E744B,intclp,integrated clamping,assembly for holding a cutting item in a tool item by the deflection of part of the tool item,001,ITEM_CLASS
+71ED66AF2175B,ZYL,ZYL cylindrical shank connection,connection to a cylindrical mating surface by either a jaw chuck or a screw clamp,001,FEATURE_CLASS
+71F8F4B54FA0D,ZYL-10,variant 10 of ZYL cylindrical shank connection,version of ZYL cylindrical shank connection with plain clamping surface without planar contact surface,001,FEATURE_CLASS
+71F8F4AD0700A,SZC-01,variant 01 of SZC collet connection Coromant,version of SZC collet connection Coromant called Hydrogrip where the compression is applied by hydualic force actuated and maintained in use by a screw,001,FEATURE_CLASS
+71EF0BB934E10,FLC,FLC flange connection Coromant,connection with cylindrical mounting surface on the workpies side connector and a flange connectorion for the machine side located with a pine and secured by four screws,001,FEATURE_CLASS
+71F8F4AD0A9D3,SZC-02,variant 02 of SZC collet connection Coromant,version of SZC collet connection Coromant called Corogrip that uses hydraulic compression to activate and release a self-locking mechanism to hold the tool,001,FEATURE_CLASS
+71ED66BA0F1F7,SKG,SKG Steep taper,connection between conical mating surfaces with a clindrical extension of the end sections,001,FEATURE_CLASS
+71EF2248594F2,SKG-11,variant 11 of SKG Steep taper,version of SKG Steep taper conforming to the dimensions of  DIN 68971 form AD with central coolant entry,001,FEATURE_CLASS
+71EF0BB792410,CKB,CKB Kaiser bore connection,connection of cylindrical form with cylindrical mating surfaces located with two diametrical keys on the machine side connector and secured by a pin through the two components with dimensions conforming to Kaiser bore connection,001,FEATURE_CLASS
+71EF0BB8284F3,CBC,CBC Coromant Bridge Connection,connection to a slide ina bridge by means of a keyway slot,001,FEATURE_CLASS
+71FAD54EABA17,wdgclp,wedge clamp,object with the shape of a wedge that applies a downward force to an insert and presses the insert against the centre pin,001,ITEM_CLASS
+71FACDC1144DE,CDB-02,variant 02 of CDB Coromant Duobore,version of a connection between a dual boring cartridge assembly and another adaptive item with radial adjustment and axial adjustment by movement of a cartridge,001,FEATURE_CLASS
+71E01A0769982,,trepanning drill,tool item used to cut a deep face groove leaving a plug of material equal to the inner diameter,002,ITEM_CLASS
+71ED66B653708,FTS,FTS Flexible Tooling System Kennametal,connection with serrated mating surfaces witha radial arrangement of serrations conforming to the dimensions of the Kennametal Flexible Tooling System,001,FEATURE_CLASS
+71E01A067F73C,stpdrill,step drill,tool item for creating a stepped hole,002,ITEM_CLASS
+71EF1E9030508,PMC,PMC prismatic connection Coromant,connection between sepecially profiled mating surfaces conforming to the dimensions of Sandvik Coromant design 470,001,FEATURE_CLASS
+71EF0BAE19FE3,AIF,AIF Adjustable Interface Dihart,connection of cylindrical external shape with a cylindrical mating surface on the workpiece side and a planar surface secured by screws from the machine side connection,001,FEATURE_CLASS
+71E01A04E0236,tap,threading tap,family of items designed to form an internal thread in an existing hole in a workpiece,002,ITEM_CLASS
+71FACDC80C1ED,CUD,CUD Coromant U-drill connection,connection for a drill with a whistle-notch shank and a driving lug,001,FEATURE_CLASS
+71E01A004C775,titp,tool item type,family of items that support or hold one or more cutting items in a cutting operation,003,ITEM_CLASS
+71D19F532AC75,mplane,mirror plane,YZ-plane in the primary coordinate system,003,ITEM_CLASS
+71ED66AEBC779,VLS,VLS Varilock System Coromant,connection of generally cylindrical form with a centering device formed by a boss with two diameters,001,FEATURE_CLASS
+71DFF83D21D50,ctp,cutting operation,removal of material from a workpiece by a defined cutting edge or edges,001,ITEM_CLASS
+71DFF83DD3EAA,drg,drilling,creating a new cylindrical hole in a workpiece where the depth of the hole is normally less than ten times the diameter of the hole,001,ITEM_CLASS
+71CF2968F7A9E,refsys,reference system,family of items that provide a reference basis for the definitions of properties,001,ITEM_CLASS
+71DF8C37D9115,connect,connection interface feature,family of features of those parts of a tool item or adaptive item that forms a coupling to another tool item or adaptive item or machine tool,002,FEATURE_CLASS
+71ED66ACCAECB,FDA,FDA milling arbor connection,connection between cylindrical mating surfaces with specific detailed design for a milling arbor,001,FEATURE_CLASS
+71DD6C9A21689,wpe,wiper edge,cutting edge with a wiper configuration,001,FEATURE_CLASS
+71D1AA6C8FC75,cins,cutting item type,family of items that can be held by a tool item or be part of a solid tool,002,ITEM_CLASS
+71EF0BAEE28FC,BUF,BUF boring and chamfer system,connection with cylindrical mating surfaces with components located by a guiding pin and secured by a locking screw,001,FEATURE_CLASS
+71EF0BB70F7C7,CCM,CCM Coromant Cap Mounting,connection of cylindrical form to connect a milling cutter to an arbor secured by screws,001,FEATURE_CLASS
+71EF224817F39,SKG-10,variant 10 of SKG Steep taper,version of SKG Steep taper conforming to the dimensions of DIN 69871 form A without coolant supply,001,FEATURE_CLASS
+71DDA089C8D1E,irregular insert,specific profile insert,type of cutting item that possess a defined profile shape,003,ITEM_CLASS
+71ED66B62F072,Coromant 580,BKC boring head connection Coromant,connection of generally cylindrical form conforming to the dimensions of the Cormant system 580  for connecting boring tool items secured by locking screws from the periphery of the machine side conector locating in threads in the work piece side connector,001,FEATURE_CLASS
+71ED66B6D07DD,BFA,BFA drill chuck connection,connection with conical mating surfaces held by an interference fit between the two surfaces,001,FEATURE_CLASS
+71ED66AD3543F,GRL,GRL Granlund connection,connection between cylindrical mating surfaces with a flattened cylindrical surface on the machine side connector and a flat section on the workpiece side connector,001,FEATURE_CLASS
+71ED66B709CAF,CCS,CCS Coromant Capto system,connection with mating surfaces in the form of a tapered hollow polygon ,001,FEATURE_CLASS
+71EF1E8F6F981,MKG-42,variant 42 of MKG Morse taper,version of MKG Morse taper with attachment thread and positive drive and with radial coolant entry,001,FEATURE_CLASS
+71ED66AC44D48,ABS,ABS System Komet,connection of a cylindrical external shape with cylindrical mating surfaces with the values of dimensions conformin to Komet ABS with a sliding pin though the machine side connection to locate iinto the body of the workpiece side,001,FEATURE_CLASS
+71E01A07ECCCF,prfream,profile reamer,tool item for reaming a non-regular surface,001,ITEM_CLASS
+71FC2098BC963,thmtex,thread metric external,external tool thread with dimensions conforming to ISO  724,001,FEATURE_CLASS
+71EC56D908782,ecscp,eccentric screw clamping,assembly for applying a holding force by the eccentric rotation of a portion of a screw ,001,ITEM_CLASS
+71EF16FEFE0AF,MBS,MBS Multi Blade System Coromant,connection between a grooving or parting blade and a tool shank with dimensions conforming to the Coromant multi Blade System,001,FEATURE_CLASS
+71ED66B71F0A5,HSK,HSK hollow taper shank,connection between conical mating surfaces confoming to the dimensionsof the Kennametal HSK design,001,FEATURE_CLASS
+71ED66B6EEC90,BRP,BRP Bridgeport connection,connection with cylindrical mounting surfaces with a conical section at the entry where the machine side connector is located by a pin from the machine side connector that locates in a groove in the workpiece side connector and the assembly is secured by a screw into the workpiece side connector,001,FEATURE_CLASS
+71EF29566E0D4,UTS,UTS UTS Widia,connection between stepped conical mating surfaces,001,FEATURE_CLASS
+71EF080049770,CMS,CMS Coromant Modular Serrated mounting,connection with a serrated mating surface locked together with screws with the values of the dimensions corresponding to Coromant 570 or Coromant SL,001,FEATURE_CLASS
+71ED66AC8B274,BKA,BKA boring head connection,connection with flanged mating surfaces located by a central boss and secured by srews into the machine side connector,001,FEATURE_CLASS
+71ED66B999EED,KVT,KVT KV system Kennametal,connection between conical mating surfaces with a central location for the workpiece side connector and conforming to the dimensions of the Kennametal KV system,001,FEATURE_CLASS
+71EF0BB7DFCAE,CKS,CKS Kaiser shank connection,connection of cylindrical form with cylindrical mating surfaces located with two diametrical keys on the machine side connector and secured by a pin through the two components with dimensions conforming to Kaiser shank connection,001,FEATURE_CLASS
+71D1AE11B8B77,eqlnqa,equilateral nonequiangular,type of cutting item of regular geometric shape with sides of equal length and non-equal included angles,003,ITEM_CLASS
+71EF0BAE640B8,AWN,AWN Prisma connection Schwanog,connection with dovetail mating surfaces conforming to the dimensionsof the Schwanog Prisma system,001,FEATURE_CLASS
+71ED66ACB787C,FCM,FCM Flexible Coupling Modular system,connection of generally cylindrical form with specific detailed design,001,FEATURE_CLASS
+71EF0BC29E34D,HFS,HFS head fitting system Mapal,connection between conical mating surfaces with dimensions conforming to the Mapal head fitting system,001,FEATURE_CLASS
+71ED66B17CDFB,KKH,KKH  ISO cartridge mounting,connection to enable the mounting of a cartridge specified in ISO 5611,001,FEATURE_CLASS
+71ED66AD18B20,GMS,GMS Graflex Modular System SECO,connection between cylindrical mating surfaces with a rectangular boss to locate the machine side connection and with dimensions conforming to the SECO Grflaex Modular System,001,FEATURE_CLASS
+71FAE07C0A4A6,dfscw,differential screw,externally threaded fastener without a head with double threaded shank with right hand and left hand threaded portions mainly used for fastening insert wedges,001,ITEM_CLASS
+71EF16F97D172,KMM,KMM Kennametal Micro system,connectionbetween conical mating surfaces with the female location on the workpiece side connector and conforming to the dimensions of the Kennametal Micro System,001,FEATURE_CLASS
+71EF0BC1B193C,HEE,HEE HE-/HF-system EMUGE,connection between cylindrical mating surfaces with dimensions conforming to the HE and HF systems of EMUGE,001,FEATURE_CLASS
+71ED66B983935,KRS,KRS Kennametal Romicron system,connection between conical mating surfaces and making a connection to a screw protruding from the machine,001,FEATURE_CLASS
+71EF0BC91557B,KKG,KKG stub taper,connection between conical mating surfaces with specific detailed design,001,FEATURE_CLASS
+71ED66AE29B8D,,STH automotive shank,connection between cylindrical mating surfaces with a Woodruf key on the workpiece side,001,FEATURE_CLASS
+71ED66AD7B0D9,HSZ,HSZ hollow cylindrical shank,connection of generally cylindrical form with specific profiled mating surfaces conforming to the dimensions of the Kennametal hollow cylindrical shank,001,FEATURE_CLASS
+71EF22489E8A3,SKG-17,variant 17 of SKG Steep taper,version of SKG Steep taper conforming to the dimensions of  DIN 69871 form AD/B with central and decentral coolant entry,001,FEATURE_CLASS
+71EF25FC490BF,SRT,SRT SECO R2 shank,connection witha profiled prismatic male surface on the  workpiece side connector and secured by screws through the machine side connector and conforming to the dimensions of the SECO R2 design,001,FEATURE_CLASS
+71ED66AF4BEFE,ZYV,ZYV VDI shank,connection of between cylindrical mating surfaces with a location bore,001,FEATURE_CLASS
+71EF2956584ED,URM,URM Urma connection,connection between cylindrical mating surfaces with different diameters,001,FEATURE_CLASS
+71ED66B5FAE04,VKT,VKT rectangular connection,connection of between rectangular cross section mating surfaces,001,FEATURE_CLASS
+71ED6A7959A34,primary feed direction,feed direction primary,direction of movement of a cutting tool to achieve the main cutting function of the tool,001,ITEM_CLASS
+71ED66AEA108B,VAS,VAS Variant System Coromant,connection of generally cylindrical form with a bayonet connection secured by a nut,001,FEATURE_CLASS
+71ED66BA26E2E,SZD,SZD collet connection standard,connection by means of a slotted sleeve that can be compressed into a conical mating surface,001,FEATURE_CLASS
+71DF0A3C6BB36,trp,tool rake plane,plane that contains the cutting edges of a master insert or of a solid tool,001,ITEM_CLASS
+71DD6C82F72DA,cif,cutting item feature,characteristic of a cutting item that cannot exist independently of the cutting item,001,FEATURE_CLASS
+71DD70030304C,ciprf,cutting item profile,shape traced out by the cutting edges of a cutting item,001,FEATURE_CLASS
+71DD700C151B5,thprf,threading profile,shape of the perimeter of a cutting item that creates a screw thread,003,FEATURE_CLASS
+71DF0A34A8156,tcep,tool cutting edge plane,plane perpendicular to the XZ-plane through the major cutting edge of a master insert or of a solid tool,002,ITEM_CLASS
+71DD7014BF2A1,fxhl,fixing hole,hole through the body of an replaceable cutting item that is used for attaching the cutting item to a tool item,001,FEATURE_CLASS
+71F8F4B863718,ZYV-01,variant 01 of ZYV VDI shank,version of ZYV VDI shank with a serrated section on the surface to provide location and holding,001,FEATURE_CLASS
+71FAE07B90EEC,ecscw,eccentric screw,externally threaded fastener with a round head that is not concentric with the shank,002,ITEM_CLASS
+71EF2242E8099,SCA,SCA SECO cartridge mounting,connection for the mounting of a cartridge,001,FEATURE_CLASS
+71DF0A38E1098,tfp,tool feed plane,plane perpendicular to the XZ-plane and that is parallel to the primary feed direction of the tool and that is tangential to the cutting corner of a master insert or of a solid tool,002,ITEM_CLASS
+71DD70163AA42,flwe,flank wiper edge,flank of a cutting item that has a wiper edge,001,FEATURE_CLASS
+71DD70155A4B1,flnk,flank,surface or surfaces of a cutting item that pass over the transient surface of the workpiece,002,FEATURE_CLASS
+71E01A04A8AEC,ream,ream,family of items designed for use mainly in reaming operations,003,ITEM_CLASS
+71D1A2CB23A32,irpos,irregular insert position,location of an irregular cutting item on the primary coordinate system,002,ITEM_CLASS
+71FC20991AEE8,thinex,thread inch external,external tool thread with dimensions conforming to ISO 725,001,FEATURE_CLASS
+71DD9D01038CF,coating,cutting item coating,additional material deposited on the surface of a cutting item,001,FEATURE_CLASS
+71DD703BE6B82,material,cutting item material,substance from which a cutting item is made,001,FEATURE_CLASS
+71DD70376771D,tif,tool item feature,characteristic of a tool item that cannot exist independently of the tool item,001,FEATURE_CLASS
+71DD701618C71,flmn,flank minor,surface of a cutting item that does not move over the transient surface of the workpiece,001,FEATURE_CLASS
+71DD7032B51CD,insc,inscribed circle,circle to which all edges of a equilateral and round regular insert are tangental,001,FEATURE_CLASS
+71DD6C8B42A9E,ctedg,cutting edge,junction between two surfaces that performs the cutting operation,001,FEATURE_CLASS
+71E01A05104CF,turn,turn,family of items designed for use mainly in internal and external turning operations,003,ITEM_CLASS
+71E01A0E9CBA9,brgbar,boring bar,tool item with cylindrical cross section shank mainly used for internal turning operations,001,ITEM_CLASS
+71D1AA486FF89,eqleqa,equilateral equiangular,type of cutting item of regular geometric shape with sides of equal length and equal included angles,004,ITEM_CLASS
+71D188F971983,yzp,yz-plane,plane in the primary coordinate system that contains the Y and Z axes with the normal of the plane in the positive X direction,001,ITEM_CLASS
+71DFF83FE65D6,thint,threading internal,creating a screw thread on an internal surface of a workpiece with a cutting tool,001,ITEM_CLASS
+71D188FC65486,xyp,xy-plane,plane in the primary coordinate system that contains the X and Y axes with the normal of the plane in the positive Z direction,001,ITEM_CLASS
+71D1AE120D96E,nqleqa,nonequilateral equiangular,type of cutting item of regular geometric shape with sides of non-equal length and equal included angles,004,ITEM_CLASS
+71DD6C961D7FE,cemn,cutting edge minor,junction between the face and the minor flank that does not contribute to the creation of the transient surface on the workpiece.,001,FEATURE_CLASS
+71DD68D829217,sqins,square insert,replaceable cutting item with four equal sides and four equal internal angles,001,ITEM_CLASS
+71DD68D73218C,trigins,trigon insert,replaceable cutting item with a generally triangular shape  with enlarged included angles,001,ITEM_CLASS
+71ED80DF6F976,insclp,insert clamp,object to apply a clamping force to an insert,002,ITEM_CLASS
+71DD68D7CB4FA,octins,octagonal insert,replaceable cutting item with eight equal sides and eight equal internal angles,001,ITEM_CLASS
+71DD7015F073B,flmj,flank major,surface of a cutting item that moves over the transient surface of the workpiece,001,FEATURE_CLASS
+71FAE7B6D87BC,theoretical sharp corner,theoretical sharp point,intersection in the tool rake plane of the two planes that are perpendicular to the XZ-plane through the major and the minor cutting edges of a cutting item,002,ITEM_CLASS
+71ED66B5E2C68,PMK,PMK prismatic connection Kennametal,connection betwee prismatic mating surfaces of specific detailed design conforming to the dimensions of a Kennametal prismatic conection,001,FEATURE_CLASS
+71DD68D7A8E5F,hexin,hexagonal insert,replaceable cutting item with six equal sides and six equal internal angles,001,ITEM_CLASS
+71DD68D8446CE,trianins,triangular insert,replaceable cutting item with three equal sides and three equal internal angles,001,ITEM_CLASS
+71DD68D301C30,rhmbins,rhombic insert,"replaceable cutting item with two cutting corners, four sides of equal length and four internal angles none of which are equal to ninety degrees",001,ITEM_CLASS
+71DD6C870BCCA,cbkr,chip breaker,modification of the face of a cutting item to control or break the chip,001,FEATURE_CLASS
+71DD68D91938A,rectins,rectangular insert,replaceable cutting item with four sides and four equal internal angles,001,ITEM_CLASS
+71DD6C8A9985E,rndc,rounded corner,curved transition between two cutting edges,001,FEATURE_CLASS
+71DD6C87BB5E1,corner,cutting corner,Transition between two cutting edges,001,FEATURE_CLASS
+71DD700BFD9B9,gpprf,grooving parting profile,shape of the perimeter of a cutting item that creates the profile of a groove,004,FEATURE_CLASS
+71DFF84016666,,trepanning,creating a new annular hole that leaves the central portion of the hole intact,001,ITEM_CLASS
+71EF0BBF67333,FLK-14,variant 14 of FLK flange connection Kennametal,version of FLK flange connector Kennametal conforming to the dimensions of the design CLRR UNIVERSAL TURRET,001,FEATURE_CLASS
+71EF0BBF4C436,FLK-13,variant 13 of FLK flange connection Kennametal,version of FLK flange connector Kennametal conforming to the dimensions of the design NCA-DS16B (KM32),001,FEATURE_CLASS
+71EC56D97E8B0,dfscp,deflection screw clamping,assembly for applying a holding force by the bending of a symmetric screw caused by interference with the tool item,001,ITEM_CLASS
+71DFF83E67286,drlsp,drilling step,creating a new hole with more than one diameter by a single operation,001,ITEM_CLASS
+71EF0BBEBE60D,FLK-08,variant 08 of FLK flange connection Kennametal,version of FLK flange connector Kennametal conforming to the dimensions of the design CLN2NT-BC,001,FEATURE_CLASS
+71D0181931BAE,ripos,regular insert position,location of a reular cutting item on the primary coordinate system,002,ITEM_CLASS
+71DFF83EE1225,mlprf,milling profile,creating curved surfaces on a workpiece by a rotating cutting tool,001,ITEM_CLASS
+71EF0BBF7F75A,FLK-15,variant 15 of FLK flange connection Kennametal,version of FLK flange connector Kennametal conforming to the dimensions of the design CLANN UNIVERSAL TURRET,001,FEATURE_CLASS
+71DFF83F56124,part,parting,separating a rotating workpiece into two parts with a stationary cutting tool,001,ITEM_CLASS
+71EF0BBF1AD8C,FLK-11,variant 11 of FLK flange connection Kennametal,version of FLK flange connector Kennametal conforming to the dimensions of the designs NACA and RACA,001,FEATURE_CLASS
+71EF0BBEFDE0D,FLK-10,variant 10 of FLK flange connection Kennametal,version of FLK flange connector Kennametal conforming to the dimensions of the design SA-CLNT,001,FEATURE_CLASS
+71EF2242B4D39,SAC,SAC screw connection Coromant,connection formed by a screwed-in thread,001,FEATURE_CLASS
+71EF0BBEE8C20,FLK-09,variant 09 of FLK flange connection Kennametal,version of FLK flange connector Kennametal conforming to the dimensions of the design SA-CLNS,001,FEATURE_CLASS
+71ED66AE75E58,MVS,MVS modular connection system Wohlhaupter,connection between cylindrical mating surfaces with the connection located with a dowel on the machine side connector and with the workpiece side connector secured by a screw through the machine side conector,001,FEATURE_CLASS
+71EF0BBFBD19F,FLK-17,variant 17 of FLK flange connection Kennametal,version of FLK flange connector Kennametal conforming to the dimensions of the design NCM-F/EF Micro 4 Bolt,001,FEATURE_CLASS
+71EF2955D5933,SZC,SZC collet connection Coromant,connection by means of a slotted sleeve that can be compressed onto a cylindrical mating surface,001,FEATURE_CLASS
+71DFF83EA9476,mlfc,milling face,creating a single flat external surface on a workpiece by a rotating tool,001,ITEM_CLASS
+71EF0BBF43055,FLK-12,variant 12 of FLK flange connection Kennametal,version of FLK flange connector Kennametal conforming to the dimensions of the design NCA-DS,001,FEATURE_CLASS
+71ED66ADFAA9B,SPK,SPK holding arbor,connection between cylindrical mating surfaces with specific detailed design,001,FEATURE_CLASS
+71DFF83F6CC6E,rmcyl,reaming cylindrical,changing the diameter of an existing cylindrical hole to achieve a close tolerance on the diameter and to improve the surface finish,001,ITEM_CLASS
+71DFF83F249B1,mlslt,milling slot,creating multiple connected surfaces in the workpiece by a rotating cutting tool,001,ITEM_CLASS
+71EF25FB3DCEC,holding arbor size 55,variant 08 of SPK holding arbor,version of SPK holding arbor with a bolt hole circle diameter 120.6 mm,001,FEATURE_CLASS
+71DD6C8C4F46C,ctec,cutting edge condition,the possession by the cutting edge of specific characteristics,001,FEATURE_CLASS
+71DFF83EF5A57,mlshd,milling shoulder,creating perpendicular connected surfaces on a workpiece by a rotating cutting tool,001,ITEM_CLASS
+71ED66ADD852B,RFX,RFX Rotaflex system Widia,connection between stepped cylindrical mating surfaces conforming to the dimensions of the Widia Rotaflex system,001,FEATURE_CLASS
+71EC56B608ADC,wedge,insert wedge,object with at least two surfaces inclined to each other used for holding an insert,001,ITEM_CLASS
+71DFF83F888E5,rmprf,reaming profile,changing the diameter of an existing profiled hole to achieve a close tolerance on the diameter and to improve the surface finish,001,ITEM_CLASS
+71EC56BD5DCD8,shim,insert shim,object placed between a cutting item and a tool item,001,ITEM_CLASS
+71DFF84041924,trnext,turning external,creation of a new external surface on a rotating workpiece with a stationary cutting tool,001,ITEM_CLASS
+71DD6C9466F30,cemj,cutting edge major,junction between the face and the main flank that performs the cutting action to create the transient surface on a workpiece,001,FEATURE_CLASS
+71D1066F279AD,cartridge,cartridge,tool item that carries a solid cutting edge or locks a replaceable insert and is designed to be mounted onto either an adaptive item or a tool item,002,ITEM_CLASS
+71FAD54E2FE26,lvtclp,lever top clamp,object to apply a downward force on an insert by the action of a lever,001,ITEM_CLASS
+71EF0BAF5FE3B,BUF-01,variant 01 of BUF boring and chamfer system,normal version of BUF boring and chamfer system,001,FEATURE_CLASS
+71EF0BB74922A,CFB-01,variant 01 of CFB Coromant Fine Boring,version of CFB Coromant Fine Boring to hold a cartridge to enable the assembly of a fine boring tool ,001,FEATURE_CLASS
+71F8F4ADCFB28,SZD-01,variant 01 of SZD collet connection standard,version of SZD collet connection standard with 1:10 taper,001,FEATURE_CLASS
+71EF0BB763D01,CFB-02,variant 02 of CFB Coromant Fine Boring,version  of CFB Coromant Fine Boring to connect a boring head to a boring adaptor to enable the assembly of a fine boring tool ,001,FEATURE_CLASS
+71FAE7AAE8247,crdrl,core drill,tool item without a central cutting point or means of starting a hole ,001,ITEM_CLASS
+71E01A04C377D,broach,broach,family of items designed for use mainly in broaching operations,003,ITEM_CLASS
+71E01A0838E9B,psmbroach,prismatic broach,tool item with a constant rectangular cross section used for changing the dimensions of an existing profile and that has cutting items on one side of the cross section,002,ITEM_CLASS
+71EF0BAE384FA,AIF-01,variant 01 of AIF Adjustable Interface Dihart,normal version of AIF Adjustable Interface Dihart,001,FEATURE_CLASS
+71DFF83E92592,gvg,grooving,creating multiple connected surfaces on a circular section of a workpiece,001,ITEM_CLASS
+71ED66B65F546,KMB,KMB Kennametal ModBore system ,connection between serrated mating surfaces with a parallel arrangement of serrations and with dimensions conforming to the Kennametal ModBore System,001,FEATURE_CLASS
+71E01A008D13F,mill,mill,family of rotating tool items intended mainly for use in milling operations,003,ITEM_CLASS
+71EF07E037025,full side mill,slotting cutter,milling cutter that cuts on the periphery and both sides,003,ITEM_CLASS
+71ED66B1C3A98,MCS,MCS modular cartridge system Kennametal,connection to enable the holding of a cartridge for specific applications,001,FEATURE_CLASS
+71ED6E3F84723,yzwp,yzw-plane,plane in the primary coordinate system related to the yz-plane in the coordinate axis system by the  rotation angle RHO about the Y-axis in a counter-clockwise direction and a distance YZWD from the origin of the coordinate axis system,001,ITEM_CLASS
+71ED6E3E9AECB,xzwp,xzw-plane,plane in the primary coordinate system related to the xz-plane in the primary coordinate system by the  rotation angle KAPPA about the Z-axis in a counter-clockwise direction and a distance XZWD from the origin of the coordinate axis system,001,ITEM_CLASS
+71ED80E1EC9F6,nzl,nozzle,object with an aperture to direct the flow of a liquid or a gas,001,ITEM_CLASS
+71F8F4B4A6D29,URM-01,variant 01 of URM Urma connection,normal version of URM Urma connection,001,FEATURE_CLASS
+71DFF83FA2ED7,sltg,slitting,separating a stationary workpiece into two parts with a rotating tool,001,ITEM_CLASS
+71EF07FB6287C,FDA-12,variant 12 of FDA milling arbor,version of FDA milling arbor connection with transverse key drive with cutter retaining screw,001,FEATURE_CLASS
+71EF0BC00EF7A,HSK-01,variant 01 of HSK hollow taper shank,"version of HSK hollow taper shank with small planar contact surface with dimensions conforming to the Style A, or C",001,FEATURE_CLASS
+71EC56D8A655A,scwcp,insert screw clamping,assembly for applying a holding force by the bearing surface of a symmetric screw acting on the surface of a hole in the cutting item,001,ITEM_CLASS
+71EF07FC4228F,FDA-23,variant 23 of FDA milling arbor,version of FDA milling arbor connection with longitudinal and transverse key drive with socket head cap screw,001,FEATURE_CLASS
+71ED6E3F268C6,xywp,xyw-plane,plane in the primary coordinate system related to the xy-plane in the primary coordinate system by the  rotation angle PHI about the X-axis in a counter-clockwise direction and a distance XYWD from the origin of the primary coordinate system,001,ITEM_CLASS
+71D1AA489FD6E,nqlnqa,nonequilateral nonequiangular,type of cutting item of regular geometric shape with sides of non-equal lengths and non-equal included angles,005,ITEM_CLASS
+71ED80E62E75A,cndf,coolant deflector,device to change the direction of flow of a coolant supply,001,ITEM_CLASS
+71EF08001A258,BKC-01,variant 01 of BKC boring head connection Coromant,normal version of BKC boring head connection Coromant,001,FEATURE_CLASS
+71F8F4B5B212B,ZYL-21,variant 21 of ZYL cylindrical shank connection,version of ZYL cylindrical shank connection with driving squares,001,FEATURE_CLASS
+71EF00655FB61,csw,coordinate system workpiece side,"right-handed rectangular Cartesian system in three dimensional space with three axes labelled XW, YW and ZW that are the intersections of the xyw-plane, the xzw-plane and the yzw-plane respectively",002,ITEM_CLASS
+71EF07FF67B22,BFA-01,variant 01 of BFA drill chuck connection,version of BFA drill chuck connection with dimensions conforming to a Morse taper type,001,FEATURE_CLASS
+71EF07E083383,tgvmill,threading grooving mill,milling cutter that cuts on its periphery to produce a groove or a thread ,003,ITEM_CLASS
+71ED884159C90,adj,adjustment,device for making an alteration to achieve a different position,001,FEATURE_CLASS
+71ED88419A97C,adjax,adjustment axial,device for making an alteration to achieve a different position in a direction parallel to the longitudinal axis of a component,001,FEATURE_CLASS
+71ED8841BA543,adjra,adjustment radial,device for making an alteration to achieve a different position in a direction perpendicular to the longitudinal axis of the component,001,FEATURE_CLASS
+71F8F4B57F583,ZYL-16,variant 16 of ZYL cylindrical shank connection,version of ZYL cylindrical shank connection with 2 degree inclined clamping surface with planar contact surface,001,FEATURE_CLASS
+71EE070754DE2,pdrl,pilot drill feature,part of a larger drill for guiding the main cutting operation,001,FEATURE_CLASS
+71EF07EABDA7A,ABS-01,variant 01 of ABS System Komet,normal version of ABS system Komet,001,FEATURE_CLASS
+71EF07FC94651,Guehring Modular System,variant 01 of GMS Graflex modular system,normal version of the GMS Graflex Modular System SECO,001,FEATURE_CLASS
+71F8F4ADDFD29,SZD-02,variant 02 of SZD collet connection standard,version of SZD collet connection standard with 8 degree taper,001,FEATURE_CLASS
+71EF07DFC283C,dhsmill,double half side mill,milling cutter that cuts on both sides and part of the periphery and is used for enlarging an existing slot.,003,ITEM_CLASS
+71F8F4B56FE57,ZYL-15,variant 15 of ZYL cylindrical shank connection,version of ZYL cylindrical shank connection with 15-20 degree inclined clamping surface without planar contact surface,001,FEATURE_CLASS
+71EF07F53004D,BKA-05,variant 05 of BKA boring head connection,version of BKA boring head connection with dimensions conforming to Erikson tenth set boring ring,001,FEATURE_CLASS
+71EF07FB0C25D,FDA-03,variant 03 of FDA milling arbor,version of FDA milling arbor connection with longitudinal and transverse key drive,001,FEATURE_CLASS
+71EF07EB0646B,ABS-02,variant 02 of ABS System Komet,version of ABS System Komet with tenon drive feature conforming to the dimensions of the ABS-N design ,001,FEATURE_CLASS
+71EDD2B858274,rnoutrd,runout radial,variation in the location of the circumference of a rotating tool item or adaptive item,001,FEATURE_CLASS
+71EF07F54F030,BKA-06,variant 06 of BKA boring head connection,version of BKA boring head connection with dimensions conforming to Erikson tenth set screw-on-boring head,001,FEATURE_CLASS
+71EF07F616F76,FDA-01,variant 01 of FDA milling arbor,version of FDA milling arbor connection with longitudinal key drive,001,FEATURE_CLASS
+71EF07F4BD4DB,BKA-02,variant 02 of BKA boring head connection,version of BKA boring head connection conforming to the dimensions of the Hertel boring heads system,001,FEATURE_CLASS
+71EF07F5962C7,FCM-01,variant 01 of FCM Flexible Coupling Modular system,normal version of FCM Flexible Coupling Modular system,001,FEATURE_CLASS
+71EF07F4EADA0,BKA-03,variant 03 of BKA boring head connection,"version of BKA boring head connection for use with adjustable boring heads ""A""",001,FEATURE_CLASS
+71FACDC87FE41,CUD-01,variant 01 of CUD Coromant U-drill connection,normal version of CUD Coromant U-drill connection,001,FEATURE_CLASS
+71EF07FB984BB,FDA-13,variant 13 of FDA milling arbor,version of FDA milling arbor connection with longitudinal and transverse key drive with cutter retaining screw,001,FEATURE_CLASS
+71EF08045D1DC,Coromant SL,variant 02 of CMS Coromant Modular Serrated system,version of 01 of CMS Coromant Modular Serrated system connection with a serrated mating surface with radiused ridges and valleys,001,FEATURE_CLASS
+71EF07FD3C287,GRL-01,variant 01 of GRL Granlund connection,normal version of GRL Granlund connection,001,FEATURE_CLASS
+71EF07FC1A78F,FDA-22,variant 22 of FDA milling arbor,version of FDA milling arbor connection with transverse key drive with socket head cap screw,001,FEATURE_CLASS
+71EF07F5CC5E9,FCM-02,variant 02 of FCM Flexible Coupling Modular system,FCM-F design of Flexible Coupling Modular system,001,FEATURE_CLASS
+71EF07FB3EFA1,FDA-11,variant 11 of FDA milling arbor,version of FDA milling arbor connection with longitudinal key drive with cutter retaining screw,001,FEATURE_CLASS
+71EF0BB5F2859,CCB,CCB Coromant CoroBore,connection to hold adjustable cartridges of a boring tool assembly conforming to the dimensions of the Coromant CoroBore system,001,FEATURE_CLASS
+71EF07F50A5F7,BKA-04,variant 04 of BKA boring head connection,version of of BKA boring head connection for use with interchangeable screw on heads,001,FEATURE_CLASS
+71EF07FF8342C,BFA-02,variant 02 of BFA drill chuck connection,version of BFA drill chuck connection with dimensions conforming to a Jacobs taper type,001,FEATURE_CLASS
+71EF07FF9A5F1,BFA-03,variant 03 of BFA drill chuck connection,version of BFA drill chuck connection with dimensions conforming to a tapered mandrel,001,FEATURE_CLASS
+71EF080072664,Coromant 570,variant 01 of CMS Coromant Modular Serrated system,version of 01 of CMS Coromant Modular Serrated system with truncated ridges and radiused valleys ,001,FEATURE_CLASS
+71EF07FD7F301,HSZ-01,variant 01 of HSZ hollow cylindrical shank,version of HSZ hollow cylindrical shank with a double connection cylinder with small planar contact surface,001,FEATURE_CLASS
+71EF0804C4329,BTS-01,variant 01 of BTS Block Tool System,normal version of BTS Block Tool System Coromant,001,FEATURE_CLASS
+71ED66B0A4FC6,BTS,BTS Block Tool System Coromant,connector with rectangular mating surfaces conforming to the dimensions of the Coromant Block Tool System and a locking mechanism using a male form on the machine side connector that can be withdrawn by a drawbar to expand the workpiece side connector,001,FEATURE_CLASS
+71EC56BA2E64E,threaded insert,screw thread lining,helical coil that modifies an existing internal thread,001,ITEM_CLASS
+71EF07FBDC4EF,FDA-21,variant 21 of FDA milling arbor,version of FDA milling arbor connection with longitudinal key drive with socket headed cap screw,001,FEATURE_CLASS
+71EF0BB99721C,FLK-03,variant 03 of FLK flange connection Kennametal,version of FLK flange connector Kennametal conforming to the dimensions of the design CL2NS-F,001,FEATURE_CLASS
+71ED66B19A2E0,KMC,KMC Kennametal cartridge mounting,connection to a specific detailed design for holding a cartridge,001,FEATURE_CLASS
+71E019C497CDF,gpy,guide pilot feature,portion of a cylindrical tool in front of the cutting portion that acts to limit the sideways movement of the tool in operation,001,FEATURE_CLASS
+71EF0BBE6A270,FLK-05,variant 05 of FLK flange connection Kennametal,version of FLK flange connector Kennametal conforming to the dimensions of the designs NCM-EF and CL2N-EF,001,FEATURE_CLASS
+71EF0804EB914,CCS-01,variant 01 of CCS Coromant Capto System,Coromant Capto System with both segment and center bolt clamping,001,FEATURE_CLASS
+71EF0BB804A8A,CKS-01,variant 01 of CKS Kaisernshank connection,normal version of CKS Kaisernshank connection,001,FEATURE_CLASS
+71EF0BB7BEFEC,CKB-01,variant 01 of CKB Kaiser bore connection,normal version of CKB Kaiser bore connection,001,FEATURE_CLASS
+71EF0804A302F,BRP-01,variant 01 of BRP Bridgeport connection,normal version of BRP Bridgeport connection with dimensions conforming to R8,001,FEATURE_CLASS
+71EF0BBE406B1,FLK-04,variant 04 of FLK flange connection Kennametal,version of FLK flange connector Kennametal conforming to the dimensions of the design CL2NT-F,001,FEATURE_CLASS
+71EF0BBE88271,FLK-06,variant 06 of FLK flange connection Kennametal,version of FLK flange connector Kennametal conforming to the dimensions of the design CLN-EF,001,FEATURE_CLASS
+71EF0BAE84362,AWN-01,variant 01 of AWN Prisma connection Schwanog,normal version of AWN Prisma connection Schwanog,001,FEATURE_CLASS
+71EF0BBEA15EE,FLK-07,variant 07 of FLK flange connection Kennametal,version of FLK flange connector Kennametal conforming to the dimensions of the design CLN2NS-BC,001,FEATURE_CLASS
+71EF0BB71801D,CCM-01,variant 01 of CCM Coromant Cap Mounting,normal version of a CCM Coromant Cap Mounting,001,FEATURE_CLASS
+71EF2956256D4,SZR,SZR collet KSF Roehm,connection by means of a sltted sleeve that can be compressed in the mating surface with dimensions specified by Roehm,001,FEATURE_CLASS
+71DFF83FB8E3A,thext,threading external,creating a screw thread on the external surface of a workpiece with a cutting tool,001,ITEM_CLASS
+71EF0BB94B9C4,FLC-01,variant 01 of FLC flange connection Coromant,normal version of FLC flange connection Coromant,001,FEATURE_CLASS
+71EF0BC053A2A,HSK-02,variant 02 of HSK hollow taper shank,version of HSK hollow taper shank with large planar contact surface with dimensions conforming to the Style B or D,001,FEATURE_CLASS
+71F8F4B4F1367,VLS-01,variant 01 of VLS Varilock System Coromant,normal version of VLS Varilock System Coromant,001,FEATURE_CLASS
+71EF29563BB7E,SZS,SZS collet Steinel Bohrmaster,connection by means of a slotted sleeve that can be compressed on a conical mating surface with dimensions specified by Steinel Bohrmaster,001,FEATURE_CLASS
+71EF2955F7771,SZE,SZE collet connection Erikson,connection by means of a slotted sleeve that can be compressed onto a conical mating surface with dimensions specified by Erikson,001,FEATURE_CLASS
+71F8F4AEBB269,SZE-04,variant 04 of SZE collet connection Erikson,version of SZE collet connection Erikson with dimensions conforming to the DK shortend design,001,FEATURE_CLASS
+71F8F4B457636,SZR-01,variant 01 of SZR collet KSF Roehm,"version of of SZR collet KSF Roehm conforming to the dimensions of KSF-16, KSF-25and KSF-30",001,FEATURE_CLASS
+71EF29560D5F6,SZP,SZP collet Eminent - Perman,connection by means of a lotted sleeve tat can be compressed on the mating surface with dimensions specified by Eminent-Perman,001,FEATURE_CLASS
+71F8F4AEABB7A,SZE-03,variant 03 of SZE collet connection Erikson,version of SZE collet connection Erikson with dimensions conforming to the DF design,001,FEATURE_CLASS
+71F8F4ADFFFF9,SZD-13,variant 13 of SZD collet connection standard,version of SZD collet connection standard with 45 degree taper,001,FEATURE_CLASS
+71F8F4B554639,ZYL-11,variant 11 of ZYL cylindrical shank connection,version of ZYL cylindrical shank connection with plain clamping surface without planar contact surface,001,FEATURE_CLASS
+71F8F4B47DB96,SZS-03,variant 03 of SZS collet Steinel Bohrmaster,version of SZS collet Steinel Bohrmaster with 20 degree taper,001,FEATURE_CLASS
+71F8F4B4C5B9A,UTS-01,variant 01 of UTS UTS Widia,normal version of UTS UTS Widia,001,FEATURE_CLASS
+71ED66AE588FA,SWB,SWB quick change connection,connection with profiled cylindrical surfaces that can easily be separated,001,FEATURE_CLASS
+71F8F4AAB6B82,SWB-01,variant 01 of SWB quick change connection,normal version of SWB quick change connection,001,FEATURE_CLASS
+71F8F4B53E3D2,ZYL-04,variant 04 of ZYL cylindrical shank connection,version of ZYL cylindrical shank connection with attachment thread with planar contact surface,001,FEATURE_CLASS
+71F8F4B479EA2,SZS-02,variant 02 of SZS collet Steinel Bohrmaster,version of SZS collet Steinel Bohrmaster with 15 degree taper,001,FEATURE_CLASS
+71F8F4ADE49F6,SZD-03,variant 03 of SZD collet connection standard,version of SZD collet connection standard with draw-in collets with 40 degree taper,001,FEATURE_CLASS
+71F8F4B56A63D,ZYL-14,variant 14 of ZYL cylindrical shank connection,version of ZYL cylindrical shank connection with plain and 2 degree inclined clamping surface without planar contact surface,001,FEATURE_CLASS
+71F8F4B4DF852,VAS-01,variant 01 of VAS Variant System Coromant,normal version of VAS Variant System Coromant,001,FEATURE_CLASS
+71F8F4ADF72B3,SZD-11,variant 11 of SZD collet connection standard,version of SZD collet connection standard with 26 degree taper,001,FEATURE_CLASS
+71EF2955BD8F5,SZB,SZB collet shortened design Biax,connection to a cylindrical mating surface by means of a slotted sleeve conforming to the dimensions of Biax type 7,001,FEATURE_CLASS
+71F8F4ACA903C,SZB-01,variant 01 of SZB collet shortened design Biax,nomral version of SZB collet shortened design Biax,001,FEATURE_CLASS
+71F8F4AFC5115,SZP-01,variant 01 of SZP collet Eminent - Perman,normal version of SZP collet Eminent - Perman,001,FEATURE_CLASS
+71F8F4B58A106,ZYL-18,variant 18 of ZYL cylindrical shank connection,version of ZYL cylindrical shank connection with plain and 2 degree inclined clamping surface with planar contact surface,001,FEATURE_CLASS
+71F8F4B475442,SZS-01,variant 01 of SZS collet Steinel Bohrmaster,version of SZS collet Steinel Bohrmaster with 10 degree taper,001,FEATURE_CLASS
+71F8F4ADFB413,SZD-12,variant 12 of SZD collet connection standard,version of SZD collet connection standard with 40 degree taper,001,FEATURE_CLASS
+71F8F4ADE904D,SZD-04,variant 04 of SZD collet connection standard,version of SZD collet connection standard of dead length type with 30 degree taper,001,FEATURE_CLASS
+71F8F4B832F8A,ZYL-53,variant 53 of ZYL cylindrical shank connection,version of ZYL cylindrical shank connection with 2 degree inclined clamping surface with a cylindrical shank end without a planar contact surface,001,FEATURE_CLASS
+71F8F4B56465A,ZYL-13,variant 13 of ZYL cylindrical shank connection,version of ZYL cylindrical shank connection  with 2 degree inclined clamping surface without planar contact surface,001,FEATURE_CLASS
+71F8F4B82CEDE,ZYL-50,variant 50 of ZYL cylindrical shank connection,version of ZYL cylindrical shank connection to a bf-drill shank,001,FEATURE_CLASS
+71F8F4B5390AF,ZYL-03,variant 03 of ZYL cylindrical shank connection,version of ZYL cylindrical shank connection with attachment thread without planar contact surface,001,FEATURE_CLASS
+71F8F4B5853C1,ZYL-17,variant 17 of ZYL cylindrical shank connection,version of ZYL cylindrical shank connection with plain clamping surface and attachment thread without planar contact surface,001,FEATURE_CLASS
+71F8F4B87213D,ZYV-02,variant 02 of ZYV VDI shank,version of ZYV VDI shank without a serrated section on the surface ,001,FEATURE_CLASS
+71F8F4B5C5EC2,ZYL-23,variant 23 of ZYL cylindrical shank connection,version of ZYL cylindrical shank connection with two plain clamping surfaces,001,FEATURE_CLASS
+71F8F4B5ACE12,ZYL-20,variant 20 of ZYL cylindrical shank connection,version of ZYL cylindrical shank connection with tenon,001,FEATURE_CLASS
+71EBAB85BB5FA,lock,locking mechanism,device that can be actuated to secure the coupling of two items together ,001,FEATURE_CLASS
+71F8F4B5B7D42,ZYL-22,variant 22 of ZYL cylindrical shank connection,version of ZYL cylindrical shank connection for boring bars,001,FEATURE_CLASS
+71F8F4B597D0B,ZYL-19,variant 19 of ZYL cylindrical shank connection,version of ZYL cylindrical shank connection with bayonet connection,001,FEATURE_CLASS
+71DF8C3C065EB,cool,coolant supply,system of channels to supply a fluid  to  reduce the temperature  of the cutting operation,001,FEATURE_CLASS
+71ED66B1DF8E1,PMD,PMD prismatic connection standard,connection between mating surfaces with a specific dovetail profile,001,FEATURE_CLASS
+71E01A0608FE4,twdrill,twist drill,solid tool item with helical chip flutes,002,ITEM_CLASS
+71EF224394D8C,SBA-01,variant 01 of SBA SBA-system Komet,normal version of SBA SBA-system Komet,001,FEATURE_CLASS
+71DF5C026BCE7,kwy,keyway,slot  in which a shaped piece of metal can be inserted to transfer torque between two connected items,001,FEATURE_CLASS
+71ED66B9B5DB8,MEG,MEG metric taper,connection between conical mating surfaces with specific details of the design and dimensions in metric units,001,FEATURE_CLASS
+71DFF83D897BB,ctbg,counterboring,creating an enlarged section of a hole to provide concentric holes with the transitory shoulder between the holes at 90 degrees to the axis of the holes,001,ITEM_CLASS
+71DF8C3FD03AF,chpmg,chip management,feature of the tool body or assembly to control the direction of motion of the chip,001,FEATURE_CLASS
+71DF5C02D0271,tihub,tool hub,central part of a disk-shaped tool item with increased thickness,001,FEATURE_CLASS
+71EF2242CDE99,SBA,SBA SBA-system Komet,connection of a profiled cylindrical mating surface on the workpiece side secured by a locking pin in the machine side connector,001,FEATURE_CLASS
+71ED66B9F6D76,NCT,NCT Novex-NC-Tools Walter,connection between conical mating surfaces with projecting lugs on the machine side connector that locate with slots in the workpiece side connector,001,FEATURE_CLASS
+71EF224302CF7,SCR,SCR SECO crownlock connection,connection between two mating surfaces with serrations intwo directions at right angles,001,FEATURE_CLASS
+71DD68D966F52,parins,parallelogram insert,replaceable cutting item with four sides and four internal angles none of wich are equal to ninety degrees,002,ITEM_CLASS
+71FAD54E5A5BF,flwdclp,floating wedge clamp,object to apply a downward force on an insert by movement of part of the object along the surface of a wedge,001,ITEM_CLASS
+71EF22434D3F1,Ejector system,variant 01 of SAC screw connection Coromant,version of SAC screw connection Coromant with a four-start square thread between a drilling head and a drilling tube in deep hole drilling with an second inner tube ,001,FEATURE_CLASS
+71CE7A7A5038B,tool,cutting tool,device or assembly of items for removing workpiece material through a shearing action at the edge or edges of the device,001,ITEM_CLASS
+71EF224ABDBD9,SMS,SMS SECO modular serrated connection,connection between serrated mating surfaces secured by screws and conforming to the dimensions of SECO SV21,001,FEATURE_CLASS
+71EF1E8A033CA,MKG-12,variant 12 of MKG Morse taper,version of MKG Morse taper with attachment thread and with radial coolant entry,001,FEATURE_CLASS
+71EF224AAA436,SMM,SMM SECO minimaster,connection between conical mating surfaces with a locking profle of specific design at the narrow end,001,FEATURE_CLASS
+71EF2243AFA09,SCA-01,variant 01 of SCA SECO cartridge mounting,version of of SCA SECO cartridge mounting with rectangular mating surfaces,001,FEATURE_CLASS
+721A8AA7F043E,CCS-02,variant 02 of CCS Coromant Capto System,Coromant Capto System with segment clamping only,001,FEATURE_CLASS
+71DD700BC8BE2,bnprf,ball nosed profile,shape of the perimeter of a cutting item that creates a semi-spherical profile,002,FEATURE_CLASS
+71E01A0E79239,hxldie,hexagonal die,threading die whose outside shape is hexagonal,001,ITEM_CLASS
+71EF2243CB404,SCA-02,variant 02 of SCA SECO cartridge mounting,version of of SCA SECO cartridge mounting with serrated mating surfaces,001,FEATURE_CLASS
+71EF0BB61BF20,Corobore 820,variant 01 of CCB Coromant Corobore,version of CCB Coromant Corobore with three cartridges with radial adjustments,001,FEATURE_CLASS
+71EF0BB6E82EB,CoroBore 825,variant 02 of CCB Coromant Corobore,version of CCB Coromant Corobore with one cartridge with radial adjustments,001,FEATURE_CLASS
+71EF224ADA70A,SMM-01,variant 01 of SMM SECO minimaster,normal version of SMM SECO minimaster,001,FEATURE_CLASS
+71EF2248B8EAB,SKG-20,variant 20 of SKG Steep taper,version of SKG Steep taper conforming to the dimensions of  DIN 2080 without coolant supply,001,FEATURE_CLASS
+71FC030E04050,dflscw,deflection screw,screw with a conical portion of the shaft that can deflect to bear on the insert to hold it in place,002,ITEM_CLASS
+721A8AAC340AF,CCS-04,variant 04 of CCS Coromant Capto System,Coromant Capto System with front clamping,001,FEATURE_CLASS
+721A8AA82F15E,CCS-03,variant 03 of CCS Coromant Capto System,Coromant Capto System with center bolt clamping only,001,FEATURE_CLASS
+71DD6C93E8F02,ceint,cutting edge interrupted,cutting edge with discontinuities of sufficient magnitude to prevent chip formation at the point where they occur,001,FEATURE_CLASS
+71E01A0A5355D,cyltap,cylindrical tap,tool item that creates internal cylindrical threads,001,ITEM_CLASS
+71FC1D22BF4CD,thdex,tool thread external,continuous and projecting helical ridge of uniform section on an external cylindrical surface,002,FEATURE_CLASS
+71FC1D25097D7,thit,tool thread internal,continuous and projecting helical ridge of uniform section on a cylindrical or conical internal surface,002,FEATURE_CLASS
+71E01A0EAF067,cutting unit,system tool,,001,ITEM_CLASS
+71E01A082DE72,,disk broach,disk shaped tool item used for changing the dimensions of an existing profile and that has the cutting edges on the periphery  of the disk,002,ITEM_CLASS
+71FC209A5C7F3,thmtin,thread metric internal,internal screw thread with dimensions conforming to ISO 724,001,FEATURE_CLASS
+71FC209B39D51,thtzin,thread trapezoidal internal,internal screw thread conforming to the dimensions in ISO 2904,001,FEATURE_CLASS
+71DD6C884C4BD,chcc,chamfered corner,linear transition between two cutting edges,001,FEATURE_CLASS
+71E0251F304E1,rotbor,rotating borer,"assembly of cutting item or items, tool item or items and adaptive item or items to enlarge an existing hole",003,ITEM_CLASS
+71E02C544BABE,burr,burr tool,small rotating tool item for removing areas of roughness from a machined edge,003,ITEM_CLASS
+71E01A05B627B,shell mill,face mill,milling cutter that produces a flat surface on the workpiece although the cutting edges on the periphery remove most of the workpiece material,003,ITEM_CLASS
+71E01A05EA320,hsdmill,half side mill,milling cutter that cuts on the periphery and one side ,002,ITEM_CLASS
+71E01A05D27A8,edmil,end mill,milling cutter with an integral shank ,003,ITEM_CLASS
+71E01A0600702,crankshaft mill,ring mill,milling cutter that cuts on the internal annular surface and both sides. ,003,ITEM_CLASS
+71E01A07D2A1B,tapream,tapered reamer,tool item for reaming a conical hole,001,ITEM_CLASS
+71E01A07BC535,cylream,cylindrical reamer,tool item used for reaming a cylindrical surface,001,ITEM_CLASS
+71E01A07FF350,stpream,stepped reamer,tool item for reaming a hole with more than one diameter,001,ITEM_CLASS
+71E01A065F635,dhdrill,deep hole drill,tool item for creating a hole usually deeper than ten times the diameter of the tool item,002,ITEM_CLASS
+71E01A073CA28,cntdrill,centre drill,tool item for creating a hole for the location of a subsequent  operation,002,ITEM_CLASS
+71E01A06BF88D,cbdrill,counterbore drill,tool item for creating a counterbore section of a hole,002,ITEM_CLASS
+71E01A0751456,cnldrill,conical drill,tool item for forming a cone shaped hole,003,ITEM_CLASS
+71E01D8A88F65,pilot,pilot drill,tool item that is added to a larger drill for guiding the main cutting operation,002,ITEM_CLASS
+71E01A081855D,tpbroach,tapered broach,tool item for changing the dimensions of an existing profile and that has continuously varying cross section with cutting edges surrounding the cross section,003,ITEM_CLASS
+71E01A0E4EE75,cyldie,cylindrical die,threading die whose outside shape is cylindrical,001,ITEM_CLASS
+71E01A04F70F7,die,threading die,family of items used for external threading operations,002,ITEM_CLASS
+71E01A069566C,cfdrill,chamfer drill,tool item for creating a chamfer in or on a hole,002,ITEM_CLASS
+71FC209ACEA25,thinit,thread inch internal,internal screw thread with dimensions conforming to ISO 725,001,FEATURE_CLASS
+71EF2243668E1,STS ,variant 02 of SAC screw connection Coromant,version of SAC screw connection Coromant with a four-start square thread between a drilling head and a single drilling tube in deep hole drilling,001,FEATURE_CLASS
+71EF2247CCF24,SCR-01,variant 01 of SCR SECO crownlock connection,normal version of SCR SECO crownlock connection,001,FEATURE_CLASS
+71EF224AEF279,SMS-01,variant 01 of SMS SECO modular serrated connection,normal version of SMS SECO modular serrated connection,001,FEATURE_CLASS
+71EF25FC62677,SRT-01,variant 01 of SRT SECO R2 shank,normal version of SRT SECO R2 shank,001,FEATURE_CLASS
+71EF1E8FFD738,NCT-01,variant 01 of NCT Novex-NC-Tools Walter,normal version of NCT Novex-NC-Tools Walter,001,FEATURE_CLASS
+71E0250E32A07,cylbch,cylindrical broach,tool item used for changing the dimensions of an existing profile that has a constant circular cross section and cutting edges around the whole circumference,002,ITEM_CLASS
+71E01A0E85121,prsmtool,prismatic tool holder,tool item with prismatic cross section shank mainly used for external turning operations,002,ITEM_CLASS
+71E01A0E34C7F,cnltap,conical tap,tool item that creates tapered internal threads,002,ITEM_CLASS
+71FC209969F43,thtzex,thread trapezoidal external,external tool thread with diensions conforming to ISO 2904,001,FEATURE_CLASS
+71EF1E8F8B318,MKG-43,variant 43 of MKG Morse taper,version of MKG Morse taper with attachment thread and positive drive and with axial and radial coolant entry,001,FEATURE_CLASS
+71EF2248775E3,SKG-16,variant 16 of SKG Steep taper,version of SKG Steep taper conforming to the dimensions of  DIN 69871 form B with decentral coolant entry on the collar,001,FEATURE_CLASS
+71EF2248CF17E,SKG-21,variant 21 of SKG Steep taper,version of SKG Steep taper conforming to the dimensions of DIN 2080 with central coolant entry,001,FEATURE_CLASS
+71EF22492256B,SKG-30,variant 30 of SKG Steep taper,version of SKG Steep taper conforming to the dimensions of  ANSI Caterpillar inch retention knob thread without coolant supply,001,FEATURE_CLASS
+71EF22490384F,SKG-27,variant 27 of SKG Steep taper,version of SKG Steep taper conforming to the dimensions of  DIN 2080 with dentral and decentral coolant entry on the collar,001,FEATURE_CLASS
+71EF2248DA3F5,SKG-26,variant 26 of SKG Steep taper,version of SKG Steep taper conforming to the dimensions of  DIN 2080 with decentral coolant entry on the collar,001,FEATURE_CLASS
+71EF2249532BC,SKG-36,variant 36 of SKG Steep taper,version of SKG Steep taper conforming to the dimensions of  ANSI Caterpillar inch retention knob thread w/ decentral coolant entry on the collar,001,FEATURE_CLASS
+71EF224948944,SKG-31,variant 31 of SKG Steep taper,version of SKG Steep taper conforming to the dimensions of  ANSI Caterpillar inch retention knob thread with central coolant entry,001,FEATURE_CLASS
+71EF2249B2AF9,SKG-41,variant 41 of SKG Steep taper,version of SKG Steep taper conforming to the dimensions of  ANSI Caterpillar metric retention knob thread with central coolant entry,001,FEATURE_CLASS
+71EF224996880,SKG-40,variant 40 of SKG Steep taper,version of SKG Steep taper conforming to the dimensions of  ANSI Caterpillar metric retention knob thread without coolant supply,001,FEATURE_CLASS
+71EF224979825,SKG-37,variant 37 of SKG Steep taper,version of SKG Steep taper conforming to the dimensions of  ANSI Caterpillar inch retention knob thread with central and decentral coolant entry ,001,FEATURE_CLASS
+71EF224A0E1FD,SKG-47,variant 47 of SKG Steep taper,version of SKG Steep taper conforming to the dimensions of  ANSI Caterpillar metric retention knob thread with central and decentral coolant entry,001,FEATURE_CLASS
+71EF2249D9BD8,SKG-46,variant 46 of SKG Steep taper,version of SKG Steep taper conforming to the dimensions of ANSI Caterpillar metric retention knob thread with decentral coolant entry,001,FEATURE_CLASS
+71EF224A59B6E,SKG-51,variant 51 of SKG Steep taper,version of SKG Steep taper conforming to the dimensions of  MAS BT with central coolant entry,001,FEATURE_CLASS
+71EF224A4275A,SKG-50,variant 50 of SKG Steep taper,version of SKG Steep taper conforming to the dimensions of  MAS BT without central coolant supply,001,FEATURE_CLASS
+71EF224A8BA27,SKG-57,variant 57 of SKG Steep taper,version of SKG Steep taper conforming to the dimensions of  MAS BT with central and decentral coolant entry,001,FEATURE_CLASS
+71EF224A70519,SKG-56,variant 56 of SKG Steep taper,version of SKG Steep taper conforming to the dimensions of  MAS BT with decentral coolant entry on the collar,001,FEATURE_CLASS
+71EF0BC26EC04,HEE-01,variant 01 of HEE HE-/HF system EMUGE,normal version of HEE HE-/HF-system EMUGE,001,FEATURE_CLASS
+71EF0BC2B94A3,HFS-01,variant 01 of HFS head fitting system Mapal,normal version of HFS head fitting system Mapal,001,FEATURE_CLASS
+71EF0BC9214D1,KKG-01,variant 01 of KKG stub taper,version of KKG stub taper conforming to the dimensions of the design from Bilz,001,FEATURE_CLASS
+71EF0BC949990,KKG-02,variant 02 of KKG stub taper,version of KKG stub taper conforming to the dimensions of the design from Dihart,001,FEATURE_CLASS
+71EF16F9BF2B6,KMM-02,variant 02 of KMM Kennametal micro system,version of KMM Kennametal Micro systemwith an enlarged flange design,001,FEATURE_CLASS
+71EF16F9A3BAE,KMM-01,variant 01 of KMM Kennametal micro system,normal version of KMM Kennametal Micro system,001,FEATURE_CLASS
+71EF16FF1EB17,MBS-01,variant 01 of MBS Multi Blade,normal version of the MBS Multi Blade System Coromant,001,FEATURE_CLASS
+71EF1E9082FF5,Coromant 470,variant 02 of PMC prismatic connection Coromant,version of PMC prismatic connection Coromant to make a   connection between a cutting head and a boring bar located and clamped by a lever,001,FEATURE_CLASS
+71EF1E906A58B,PMC-01,variant 01 of PMC prismatic connection Coromant,version of PMC prismatic connection Coromant  to mount a cut off blade ,001,FEATURE_CLASS
+71EF1E91159E3,PMC-07,variant 07 of PMC prismatic connection Coromant,version of PMC prismatic connection Coromant that is Capto screw mounted,001,FEATURE_CLASS
+71EF1E90F24F5,Capto 2085,variant 04 of PMC prismatic connection Coromant,version of PMC prismatic connection Coromant to amke a connection between a clamping unit and a tool post or turret disk held in place by an adjustable wedge,001,FEATURE_CLASS
+71EF1E91EFA2F,PMS-01,variant 01 of PMS prismatic connection SECO,normal version of PMS prismatic connection SECO,001,FEATURE_CLASS
+71EF1E91D5D4F,PMS,PMS prismatic connection SECO,connection between prismatic mating surfaces with detailed spoecific design conforming to the dimensions of SECO SPB,001,FEATURE_CLASS
+71EF2243E36FF,SCA-03,variant 03 of SCA SECO cartridge mounting,version of of SCA SECO cartridge mounting conforming to the dimensions of SECO system 230.19,001,FEATURE_CLASS
+71EF224379DA9,MSSC,variant 03 of SAC screw connection Coromant,version of SAC screw connection Coromant to provide a threaded connector for end-mills,001,FEATURE_CLASS
+71ED66B74D6DF,KMT,KMT KM-UTS system Kennametal/Widia,connection between complex conical mating surfaces conforming to the dimensions of the Kennemetal/Widia UTS system located by a pin through the two components,001,FEATURE_CLASS
+71EF0BC0CCD59,HSK-04,variant 04 of HSK hollow taper shank,version of HSK hollow taper shank with large planar contact surface with dimensions conforming to the Style F,001,FEATURE_CLASS
+71EF0BC085D25,HSK-03,variant 03 of HSK hollow taper shank,version of HSK hollow taper shank with small planar contact surface with dimensions conforming to the Style E,001,FEATURE_CLASS
+71EF1E87D60B5,MEG-12,variant 12 of MEG metric taper,version of MEG metric taper with attachment thread and with radial coolant entry,001,FEATURE_CLASS
+71EF1E87C88D7,MEG-11,variant 11 of MEG metric taper,version of MEG metric taper with attachment thread and with axial coolant entry,001,FEATURE_CLASS
+71EF1E87A1AFC,MEG-10,variant 10 of MEG metric taper,version of MEG metric taper with attachment thread but without coolant supply,001,FEATURE_CLASS
+71EF1E88337E1,MEG-20,variant 20 of MEG metric taper,with tenon without coolant supply,001,FEATURE_CLASS
+71EF1E87FABF2,MEG-13,variant 13 of MEG metric taper,version of MEG metric taper with attachment thread and with axial and radial coolant entry,001,FEATURE_CLASS
+71EF1E884C33B,MEG-21,variant 21 of MEG metric taper,version of MEG metric taper with tenon and with axial coolant entry,001,FEATURE_CLASS
+71EF1E88A9D3B,MEG-30,variant 30 of MEG metric taper,version of MEG metric taper with tenon and hold back key but without coolant supply,001,FEATURE_CLASS
+71EF1E887AC99,MEG-23,variant 23 of MEG metric taper,version of MEG metric taper with tenon and with axial and radial coolant entry,001,FEATURE_CLASS
+71EF1E886526B,MEG-22,variant 22 of MEG metric taper,version of MEG metric taper with tenon and with radial coolant entry,001,FEATURE_CLASS
+71EF1E89126E9,MEG-33,variant 33 of MEG metric taper,version of MEG metric taper with tenon and hold back key and with axial and radial coolant entry,001,FEATURE_CLASS
+71EF1E88F44A3,MEG-32,variant 32 of MEG metric taper,version of MEG metric taper with tenon and hold back key and with radial coolant entry,001,FEATURE_CLASS
+71EF1E88D832F,MEG-31,variant 31 of MEG metric taper,version of MEG metric taper with tenon and hold back key and with axial coolant entry,001,FEATURE_CLASS
+71EF1E895BA49,MEG-41,variant 41 of MEG metric taper,version of MEG metric taper with attachment thread and positive drive and with axial coolant entry,001,FEATURE_CLASS
+71EF1E8940F72,MEG-40,variant 40 of MEG metric taper,version of MEG metric taper with attachment thread and positive drive but without coolant supply,001,FEATURE_CLASS
+71EF1E899E483,MEG-43,variant 43 of MEG metric taper,version of MEG metric taper with attachment thread and positive driveand with axial and radial coolant entry,001,FEATURE_CLASS
+71EF1E8983142,MEG-42,variant 42 of MEG metric taper,version of MEG metric taper with attachment thread and positive drive and with radial coolant entry,001,FEATURE_CLASS
+71EF16FED3D33,KVT-02,variant 02 of KVT KV system Kennametal,version of KVT KV system Kennametal with enlarged flange,001,FEATURE_CLASS
+71EF16FEBD7E4,KVT-01,variant 01 of KVT KV system Kennametal,normal version of the KVT KV system Kennametal,001,FEATURE_CLASS
+71EF16FE6C4DD,KRS-01,variant 01 of KRS Kennametal Romicron System,norman versio of KRS Kennametal Romicron system,001,FEATURE_CLASS
+71EF16FE88AAB,KRS-02,variant 02 of KRS Kennametal Romicron System,version of KRS Kennametal Romicron system conforming to the design of the SVU serrated flange mount,001,FEATURE_CLASS
+71EF1E89EB4C2,MKG-11,variant 11 of MKG Morse taper,version of MKG Morse taper with attachment thread and with axial coolant entry,001,FEATURE_CLASS
+71EF1E89BDD01,MKG-10,variant 10 of MKG Morse taper,version of MKG Morse taper with attachment thread but without coolant supply,001,FEATURE_CLASS
+71EF1E8A38E35,MKG-20,variant 20 of MKG Morse taper,version of MKG Morse taper with tenon but without coolant supply,001,FEATURE_CLASS
+71EF1E8A1AACC,MKG-13,variant 13 of MKG Morse taper,version of MKG Morse taper with attachment thread and with axial and radial coolant entry,001,FEATURE_CLASS
+71EF1E8E4A3B4,MKG-22,variant 22 of MKG Morse taper,version of MKG Morse taper with tenon and with radial coolant entry,001,FEATURE_CLASS
+71EF1E8E2EE7E,MKG-21,variant 21 of MKG Morse taper,version of MKG Morse taper with tenon and with axial coolant entry,001,FEATURE_CLASS
+71EF1E8E931E0,MKG-30,variant 30 of MKG Morse taper,version of MKG Morse taper with tenon and hold back key but without coolant supply,001,FEATURE_CLASS
+71EF1E8E797B3,MKG-23,variant 23 of MKG Morse taper,version of MKG Morse taper with tenon and with axial and radial coolant entry,001,FEATURE_CLASS
+71EF1E8EF27D8,MKG-33,variant 33 of MKG Morse taper,version of MKG Morse taper with tenon and hold back key and with axial and radial coolant entry,001,FEATURE_CLASS
+71EF1E8ECB31A,MKG-32,variant 32 of MKG morse taper,version of MKG Morse taper with tenon and hold back key and with radial coolant entry,001,FEATURE_CLASS
+71EF1E8EADB27,MKG-31,variant 31 of MKG Morse taper,version of MKG Morse taper with tenon and hold back key and with axial coolant entry,001,FEATURE_CLASS
+71EF1E8F42243,MKG-41,variant 41 of MKG Morse taper,version of MKG Morse taper with attachment thread and positive drive and with axial coolant entry,001,FEATURE_CLASS
+71EF1E8F157CF,MKG-40,variant 40 of MKG Morse taper,version of MKG Morse taper with attachment thread and positive drive but without coolant supply,001,FEATURE_CLASS
+71EF16F685CEF,KMC-02,variant 02 of KMC Kennametal cartridge mounting,version of KMC Kennametal cartridge mounting for holding a milling cartridge,001,FEATURE_CLASS
+71EF16F6F9430,KMC-05,variant 05 of KMC Kennametal cartridge mounting,version of KMC Kennametal cartridge mounting for holding Kendex units,001,FEATURE_CLASS
+71EF16F6E4567,KMC-04,variant 04 of KMC Kennametal cartridge mounting,version of KMC Kennametal cartridge mounting for holding a Fix Perfect cartridge,001,FEATURE_CLASS
+71EF16F74607B,KMC-08,variant 08 of KMC Kennametal cartridge mounting,version of KMC Kennametal cartridge mounting for holding an FAS Drill Chamfering cartridge,001,FEATURE_CLASS
+71EF16F730A50,KMC-07,variant 07 of KMC Kennametal cartridge mounting,version of KMC Kennametal cartridge mounting for holding an HTSR Drill cartridge,001,FEATURE_CLASS
+71EF16F71619F,KMC-06,variant 06 of KMC Kennametal cartridge mounting,version of KMC Kennametal cartridge mounting for holding an HTS Drill Cartridge,001,FEATURE_CLASS
+71EF16F773A6B,KMC-10,variant 10 of KMC Kennametal cartridge mounting,version of KMC Kennametal cartridge mounting for holding a Fix Perfect Milling Cartridge mounting conforming  to the dimension of 4.190,001,FEATURE_CLASS
+71EF16F75CACB,KMC-09,variant 09 of KMC Kennametal cartridge mounting,version of KMC Kennametal cartridge mounting for holding a Facemill Wiper Cartridge,001,FEATURE_CLASS
+71EF16F7D7E43,KMC-13,variant 13 of KMC Kennametal cartridge mounting,version of KMC Kennametal cartridge mounting for holding a Facemill Screw-on Cartridge,001,FEATURE_CLASS
+71EF16F7AF2F3,KMC-12,variant 12 of KMC Kennametal cartridge mounting,version of KMC Kennametal cartridge mounting for holding a Facemill Screw-on PCD cartridge (Aluminium body),001,FEATURE_CLASS
+71EF16F78E88A,KMC-11,variant 11 of KMC Kennametal cartridge mounting,version of KMC Kennametal cartridge mounting for holding a Facemill/Endmill Wedge Lock PCD Cartridge (Steel Body),001,FEATURE_CLASS
+71EF16F8038C3,KMC-15,variant 15 of KMC Kennametal cartridge mounting,version of KMC Kennametal cartridge mounting for holding a Romicron SVS Cartridge,001,FEATURE_CLASS
+71EF16F7F009F,KMC-14,variant 14 of KMC Kennametal cartridge mounting,version of KMC Kennametal cartridge mounting for holding a Endmill Screw-on Cartridge,001,FEATURE_CLASS
+71EF16F826471,KMC-17,variant 17 of KMC Kennametal cartridge mounting,version of KMC Kennametal cartridge mounting for holding a Romicron Modular Cartridge,001,FEATURE_CLASS
+71EF16F810899,KMC-16,variant 16 of KMC Kennametal cartridge mounting,version of KMC Kennametal cartridge mounting for holding a Romicron SVU Cartridge,001,FEATURE_CLASS
+71EF16F86F70F,KMC-20,variant 20 of KMC Kennametal cartridge mounting,version of KMC Kennametal cartridge mounting for holding a M900 Milling Cartridge,001,FEATURE_CLASS
+71EF16F858DB9,KMC-19,variant 19 of KMC Kennametal cartridge mounting,version of KMC Kennametal cartridge mounting for holding a M400 Milling Cartridge,001,FEATURE_CLASS
+71EF16F84D9E8,KMC-18,variant 18 of KMC Kennametal cartridge mounting,version of KMC Kennametal cartridge mounting for holding a Romicron Modular Unit,001,FEATURE_CLASS
+71EF16F89C4E9,KMC-22,variant 22 of KMC Kennametal cartridge mounting,version of KMC Kennametal cartridge mounting for holding a MODBORE Twin Cutter Cartridge,001,FEATURE_CLASS
+71EF16F884E83,KMC-21,variant 21 of KMC Kennametal cartridge mounting,version of KMC Kennametal cartridge mounting for holding a Dial Set Blade Set Cartridge,001,FEATURE_CLASS
+71EF16F8D168B,KMC-25,variant 25 of KMC Kennametal cartridge mounting,version of KMC Kennametal cartridge mounting for holding Cylindrical Clamping Cartridge with collars and chamfer rings,001,FEATURE_CLASS
+71EF16F8BCB2D,KMC-24,variant 24 of KMC Kennametal cartridge mounting,version of KMC Kennametal cartridge mounting for holding a MODBORE BT Rough Bore Head Cartridge,001,FEATURE_CLASS
+71EF16F8B170D,KMC-23,variant 23 of KMC Kennametal cartridge mounting,version of KMC Kennametal cartridge mounting for holding a MODBORE Fine Boring Head Cartridge,001,FEATURE_CLASS
+71EF16F91618D,KMC-26,variant 26 of KMC Kennametal cartridge mounting,version of KMC Kennametal cartridge mounting for holding a RR Wheel Turning MM Cartridge,001,FEATURE_CLASS
+71F8F4B51A785,VKT-01,variant 01 of VKT rectangular connection,normal version of VKT rectangular connection,001,FEATURE_CLASS
+71EF1E918967F,PMK-01,variant 01 of PMK prismatic connection Kennametal,version of PMK prismatic connection Kennametal to hold a cutoff support blade A1-A3,001,FEATURE_CLASS
+71EF1E915B0BD,PMD-01,variant 01 of PMD prismatic connection standard,normal versionof PMD prismatic connection standard,001,FEATURE_CLASS
+71EF0BBFDAEA7,FTS-01,variant 01 of FTS Flexible Tooling System Kennametal,norla version of the FTS Flexible Tooling System Kennametal,001,FEATURE_CLASS
+71EF0BCA2A5E6,KMB-02,variant 02 of KMB ModBore System Kennametal,version of KMB Kennametal ModBore system for making a bridge tool for fine boring heads,001,FEATURE_CLASS
+71EF0BC9FBDB7,KMB-01,variant 01 of KMB ModBore System Kennametal,version of KMB Kennametal ModBore system for making a bridge tool connection with extension bridges,001,FEATURE_CLASS
+71EF16FE1F4DB,KMT-03,variant 03 of KMT KM-UTS system Kennametal/Widia,version of KMT KM-UTS system Kennametal/Widia with three holes for an automatic tool changer,001,FEATURE_CLASS
+71EF16FA26760,KMT-02,variant 02 of KMT KM-UTS system Kennametal/Widia,version of KMT KM-UTS system Kennametal/Widia with an enlarged flange,001,FEATURE_CLASS
+71EF16F9D45A6,KMT-01,variant 01 of KMT KM-UTS system Kennametal/Widia,normal version of KMT KM-UTS system Kennametal/Widia,001,FEATURE_CLASS
+71EF16FE2A60C,KMT-04,variant 04 of KMT KM-UTS system Kennametal/Widia,version of KMT KM-UTS system Kennametal/Widia with four holes for an automatic tool changer,001,FEATURE_CLASS
+71EF0BC7E4010,HSZ-03,variant 03 of HSZ hollow cylindrical shank,version of HSZ hollow cylindrical shank with a single connection cylinder,001,FEATURE_CLASS
+71EF0BC790F48,HSZ-02,variant 02 of HSZ hollow cylindrical shank,version of HSZ hollow cylindrical shank with a double connection cylinder with large planar contact surface,001,FEATURE_CLASS
+71EF2242723DD,RFX-01,variant 01 of RFX Rotaflex system Widia,normal version of RFX Rotaflex system Widia,001,FEATURE_CLASS
+71EF0BC8D1F91,HTS-02,variant 02 of HTS deep drilling system Kennametal,version of HTS deep drilling system Kennametal conforming to the design HTS-C,001,FEATURE_CLASS
+71EF0BC823EAA,HTS-01,variant 01 of HTS deep drilling system Kennametal,normal version of HTS deep drilling system Kennametal,001,FEATURE_CLASS
+71ED66ADA5674,HTS,HTS deep drilling system,connection for deep drilling toools with cylindrical mating surfaces and projection lugs on the machine side connector and with dimensions comforming to the Kennametal HTS deep drilling system,001,FEATURE_CLASS
+71EF25FCB20D6,STH-01,variant 01 of STH automotive shank,normal version of STH automotive shank,001,FEATURE_CLASS
+71EF25FA05521,holding arbor size 40,variant 01 of SPK holding arbor,version of SPK holding arbor with a bolt hole circle diameter 66.7 mm,001,FEATURE_CLASS
+71EF25FAAB512,SPK-04,variant 04 of SPK holding arbor,version of SPK holding arbor with bolt hole circles of diameters 66.7mm and 177.8 mm,001,FEATURE_CLASS
+71EF25FA830B8,holding arbor size 60,variant 03 of SPK holding arbor,version of SPK holding arbor with a bolt hole circle diameter 177.8 mm,001,FEATURE_CLASS
+71EF25FA3739C,holding arbor size 50,variant 02 of SPK holding arbor,version of SPK holding arbor with a bolt hole circle diameter 101.6,001,FEATURE_CLASS
+71EF25FAF655C,holding arbor size 30,variant 06 of SPK holding arbor,version of SPK holding arbor with a bolt hole circle diameter 54 mm,001,FEATURE_CLASS
+71EF25FADB60F,SPK-05,variant 05 of SPK holding arbor,version of SPK holding arbor with bolt hole circles of diameters 101.6 mm and 177.8 mm,001,FEATURE_CLASS
+71EF25FB14928,holding arbor size 45,variant 07 of SPK holding arbor,version of SPK holding arbor with a bolt hole circle diameter 80 mm,001,FEATURE_CLASS
+71EF25FB8DE89,holding arbor size 70,variant 10 of SPK holding arbor,version of SPK holding arbor with a bolt hole circle diameter 265 mm,001,FEATURE_CLASS
+71EF25FB6D150,holding arbor size 65,variant 09 of SPK holding arbor,version of SPK holding arbor with a bolt hole circle diameter 220 mm,001,FEATURE_CLASS
+71EF25FC1BBDA,holding arbor size 80,variant 12 of SPK holding arbor,version of SPK holding arbor with a bolt hole circle diameter 400 mm,001,FEATURE_CLASS
+71EF25FBB4F22,holding arbor size 75,variant 11 of SPK holding arbor,version of SPK holding arbor with a bolt hole circle diameter 315 mm,001,FEATURE_CLASS
+71EF1E8FB6234,MVS-01,variant 01 of MVS modular connection system Wohlhaupter,normal version of the MVS modular connection system Wohlhaupter,001,FEATURE_CLASS
+71F8F4B5348DB,ZYL-01,variant 01 of ZYL cylindrical shank connection,version of ZYL cylindrical shank connection to a straight shank without any clamping features,001,FEATURE_CLASS
+71F8F4B5D1A6B,ZYL-24,variant 24 of ZYL cylindrical shank connection,version of ZYL cylindrical shank connection with four plain clamping surfaces,001,FEATURE_CLASS
+71EF0BC984FAA,KKH-01,variant 01 of KKH ISO cartridge mounting,normal version of KKH  ISO cartridge mounting,001,FEATURE_CLASS
+71EF0BBF9869E,FLK-16,variant 16 of FLK flange connection Kennametal,version of FLK flange connector Kennametal conforming to the dimensions of the design NCM-F/EF Micro 4 Bolt,001,FEATURE_CLASS
+71EF16FF96879,MCS-03,variant 03 of MCS modular cartridge system Kennametal,version of MCS modular cartridge system Kennametal for use for 411-VR,001,FEATURE_CLASS
+71EF16FF75F49,MCS-02,variant 02 of MCS modular cartridge system Kennametal,version of MCS modular cartridge system Kennametal for use for Kendex 2000,001,FEATURE_CLASS
+71EF16FF5C435,MCS-01,variant 01 of MCS modular cartridge system Kennametal,version of MCS modular cartridge system Kennametal for use for deep grooving,001,FEATURE_CLASS
+71EF16FFA94C6,MCS-04,variant 04 of MCS modular cartridge system Kennametal,version of MCS modular cartridge system Kennametal for use for ranger cartridge,001,FEATURE_CLASS
+71EF16F6CC58B,KMC-03,variant 03 of KMC Kennametal cartridge mounting,version of KMC Kennametal cartridge mounting for holding Erikson tenth set cartridges,001,FEATURE_CLASS
+71ED798F61BC2,inscw,insert screw,screw with countersunk bearing surface used mainly for holding a cutting item on a tool item,002,ITEM_CLASS
+71FAE07BCAC80,lvscw,lever screw,externally threaded fastener without a head and with a waist used for holding an insert lever in contact with the insert,002,ITEM_CLASS
+71FAD519268DE,ctpn,centre pin,elongated rigid object secured to the tool item that locates and holds a insert and or a shim by its central hole,001,ITEM_CLASS
+71DFF83D551E3,bchc,broaching circular,changing the dimensions of an existing surface profile by a single circular motion of a cutting tool,001,ITEM_CLASS
+71DFF83D3B0A4,brg,boring,changing the diameter of an existing hole in a workpiece with one or more passes of a cutting tool,001,ITEM_CLASS
+71DFF83D6FA17,bchl,broaching linear,changing the dimensions of an existing surface profile by a single linear motion of a cutting tool,001,ITEM_CLASS
+71DFF83E498D2,dpdg,drilling deep hole,creating a new cylindrical hole in a workpiece where the depth of the hole is normally more than ten times the diameter of the hole,001,ITEM_CLASS
+71DFF83DB5E40,cntsg,countersinking,creating an enlarged section of a hole to provide concentric holes with the transitory shoulder between the holes at an angle to the axis of the holes,001,ITEM_CLASS
+71DFF8404F82C,trnint,turning internal,creating a new internal surface on a rotating workpiece by a stationary cutting tool,001,ITEM_CLASS
+71EAC81A64368,rgnd,regrinding,modifying the shape of a component of a cutting tool to  restore the original shape or to create a new shape,002,FEATURE_CLASS
+71CF29A3CDE2F,xzp,xz-plane,plane in the coordinate axis system that contains the X and Z axes with the normal of the plane in the positive Y direction,001,ITEM_CLASS
+71D0808DA853B,minst,master insert,nominal replaceable cutting item used for defining the dimensions of a cutting tool,003,ITEM_CLASS
+71D188F129725,pcs,primary coordinate  system,"right-handed rectangular Cartesian system in three dimensional space with three principal axes labelled X, Y and Z",002,ITEM_CLASS
+71DD68D80B094,pentins,pentagonal insert,replaceable cutting item with five equal sides and five equal internal angles,001,ITEM_CLASS
+71D1AA6635E76,rndins,round insert,type of cutting item with circular edges,003,ITEM_CLASS
+71DD700BE1D04,drprf,drilling profile,shape of the perimeter of a cutting item that creates a drilled hole,003,FEATURE_CLASS
+71DF8C5B8F7B5,dpt,drill point,part of a drill that first makes contact with the workpiece,002,FEATURE_CLASS
+71EF07F6D9E5E,FDA-02,variant 02 of FDA milling arbor,transverse key drive,001,FEATURE_CLASS
+71EF07F476F41,BKA-01,variant 01 of BKA boring head connection,"version of BKA boring head connection for use with interchangeable heads system ""H""",001,FEATURE_CLASS
+725519360B134,SEH-02,variant 02 of SEH die shank connection,hexagonal shape connection,001,FEATURE_CLASS
+72551935C5F88,SEH-01,variant 01 of SEH die shank connection,round shape connection,001,FEATURE_CLASS
+7255193574D4A,SEH,SEH die shank connection,connection between a threading die and its holder,001,FEATURE_CLASS
+72550E1361C6C,drlins,drilling insert,type of cutting item  that is used for drilling operations,001,ITEM_CLASS
+72550A77D9DB9,gacir,gauge circle,circle established by a measurement device on a cutting item that does not have an inscribed circle,001,FEATURE_CLASS
+7224CCDD587CF,nrci,non replaceable cutting item,"cutting item that is permanently fixed to, or part of, a tool item",002,ITEM_CLASS
+71E02520881F1,bhcirc,bolt hole circle,arrangement of holes in a circle to enable a bolted connection,001,FEATURE_CLASS
+71EAD3871D313,cnvtr,converter,"adaptive item with a different connection type, style, and size on the machine side from the workpiece side",002,ITEM_CLASS
+71EAD385E51A0,red,reducer,adaptive item that diminishes the size of a connection in an assembled cutting tool,002,ITEM_CLASS
+71EAD388173EE,drvr,driver,adaptive item with the capability to rotate a cutting tool for cutting operations not on the main machine spindle axis,002,ITEM_CLASS
+71EEBDADB63BE,extdr,extender,adaptive item that increases the length of an assembled cutting tool,002,ITEM_CLASS
+71EAD37F18F34,ait,adaptive item type,family of objects for the assembly of a cutting tool classified by their main function ,002,ITEM_CLASS
+71EC5A767182E,flange,flange,projecting rim or edge on the outside of an object,001,FEATURE_CLASS
+71EDD2B84143C,rnoutax,runout axial,variation in the location of the end surface of the cutting reference point of a rotating tool item or the end surface of an adaptive item,001,FEATURE_CLASS
+71EC56B58A355,drvrn,driving ring,annular shaped object with integral keys or keyways that transmits torque from one component of an assembly to another,001,ITEM_CLASS
+71EC56B51596E,key,driving key,object that fits in slots in components of an assembly to transmit torque from one component to the other and or to locate the two components  ,001,ITEM_CLASS
+71EC56E0D4D19,sphd,helical disk spring,cylindrical spring formed from two intersecting coiled disks,001,ITEM_CLASS
+71EC56E04199D,sphc,helical coil spring,object where elastic energy is stored in a helix of either rectangular or circular cross-section wire,001,ITEM_CLASS
+71EC56E165BC7,spcp,cup spring,object where elastic energy is stored in the deflection of an annulus,001,ITEM_CLASS
+71EC56E106606,spfwc,flat wire compression spring,a cylindrical spring formed from waved strip,001,ITEM_CLASS
+71EC56E223664,splf,leaf spring,object where elastic energy is stored in the deflection of a bent strip,001,ITEM_CLASS
+71EC56E1C4C7D,spgs,gas spring,object where elastic energy  is stored in a compressed gas,001,ITEM_CLASS
+71EC56BA16ACB,spring,spring,object that can store elastic energy by deforming under an applied load and can release the energy and return to its original shape or position when the load is removed,001,ITEM_CLASS
+71EC56B5B6465,pin,pin,thin rod-shaped object with parallel or tapered form,001,ITEM_CLASS
+71EC56D6D0499,ctlclp,cantilever clamping,assembly  for applying a holding force by a rigid cantilever arm,001,ITEM_CLASS
+71EC56D7601AD,fwgcp,floating wedge clamping,assembly for applying a holding force by the combined effect of a downward force and the lateral movement actuated by the surface of a wedge,001,ITEM_CLASS
+71EC56BC68ED7,bearing,bearing,object  to support a load and reduce the friction between two surfaces,001,ITEM_CLASS
+71EC56BBA9A2E,,sleeve,cylindrical object with a inner surface that may be cylindrical or tapered or profiled that fits over a shaft  ,001,ITEM_CLASS
+71EC5A6E85D77,seal,sealing ring,annular shaped object that prevents the passage of a fluid or gas,001,ITEM_CLASS
+71EC5A6CFD68B,spcr,spacer,object that separates two components at a defined distance,001,ITEM_CLASS
+71EC61E726811,collet,collet,segmented band that can be expanded or contracted to grip a shaft,002,ITEM_CLASS
+71EC61E259139,bush,bush,hollow cylindrical object that fits in a hole,001,ITEM_CLASS
+71FAD54E002D6,cantclp,cantilever clamp,rigid object with an extended arm to apply a downward force to an insert,001,ITEM_CLASS

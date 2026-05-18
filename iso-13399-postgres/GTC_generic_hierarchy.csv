@@ -1,0 +1,477 @@
+modified_date,GTC_vendor_id,GTC_vendor_parent_id,GTC_vendor_node_name,GTC_vendor_preferred_name,GTC_vendor_icon,GTC_vendor_image,,GTC_properties,GTC_class_type,GTC_products_allowed,Change type
+2013-04-04 12:00:00,CTL,GTC-root,Cutting tool library,Cutting tool library,,,,,gtc-root,,
+2013-04-04 12:00:00,TL,CTL,  Tool item,  Tool item,042338,,,,gtc-root,,
+2013-04-04 12:00:00,TRN,TL,    Turning tool,    Turning tool,111512,,,,gtc-root,,
+2013-04-04 12:00:00,TRNG,TRN,"      Tool holder, general turning",      General turning tool,111271,,,,gtc-root,,
+2013-04-04 12:00:00,TRNGE,TRNG,        External turning tool,        External turning tool,111512,,,,gtc-root,,
+2013-04-04 12:00:00,TRNGEI,TRNGE,          indexable,          External turning tool - indexable,111271,,,TRNGEI,GTC-BASE,TRUE,
+2013-04-04 12:00:00,TRNGEI_W[insert_concept],TRNGEI,              [insert concept],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,TRNGEI_W[insert_concept]_M[connect_mach],TRNGEI_W[insert_concept],                [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,TRNGES,TRNGE,          solid,          External turning tool - solid,,,,TRNGES,GTC-BASE,TRUE,
+2013-04-04 12:00:00,TRNGES_M[connect_mach],TRNGES,            [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,TRNGI,TRNG,        Internal turning tool,        Internal turning tool,120633,,,,gtc-root,,
+2013-04-04 12:00:00,TRNGIB,TRNGI,          boring,          Boring bar/head,120633,,,,gtc-root,,
+2013-04-04 12:00:00,TRNGIBI,TRNGIB,            indexable,            Boring bar/head - indexable,120633,,,TRNGIBI,GTC-BASE,TRUE,
+2013-04-04 12:00:00,TRNGIBI_W[insert_concept],TRNGIBI,                [insert concept],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,TRNGIBI_W[insert_concept]_M[connect_mach],TRNGIBI_W[insert_concept],                  [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,TRNGIBS,TRNGIB,            solid,           Boring bar/head - solid,122768,,,TRNGIBS,GTC-BASE,TRUE,
+2013-04-04 12:00:00,TRNGIBS_M[connect_mach],TRNGIBS,              [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,TRNGIBB,TRNGI,          back boring,         Backboring bar/head,,,,,gtc-root,,
+2013-04-04 12:00:00,TRNGIBBI,TRNGIBB,            indexable,            Backboring bar/head - indexable,,,,TRNGIBBI,GTC-BASE,TRUE,
+2013-04-04 12:00:00,TRNGIBBI_W[insert_concept],TRNGIBBI,                [insert concept],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,TRNGIBBI_W[insert_concept]_M[connect_mach],TRNGIBBI_W[insert_concept],                  [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,TRNGIBBS,TRNGIBB,            solid,            Backboring bar/head - solid,,,,TRNGIBBS,GTC-BASE,TRUE,
+2013-04-04 12:00:00,TRNGIBBS_M[connect_mach],TRNGIBBS,              [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,TRNP,TRN,      Parting and grooving tool,      Parting and grooving tool,121063,,,,gtc-root,,
+2013-04-04 12:00:00,TRNPE,TRNP,        External parting and grooving tool,        External parting and grooving tool,121063,,,,gtc-root,,
+2013-04-04 12:00:00,TRNPEI,TRNPE,          indexable,          External parting and grooving tool - indexable,121063,,,TRNPEI,GTC-BASE,TRUE,
+2013-04-04 12:00:00,TRNPEI_W[insert_concept],TRNPEI,            [insert concept],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,TRNPEI_W[insert_concept]_M[connect_mach],TRNPEI_W[insert_concept],              [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,TRNPES,TRNPE,          solid,          External parting and grooving tool - solid,,,,TRNPES,GTC-BASE,TRUE,
+2013-04-04 12:00:00,TRNPES_M[connect_mach],TRNPES,            [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,TRNPI,TRNP,        Internal grooving tool,        Internal grooving tool,121090,,,,gtc-root,,
+2013-04-04 12:00:00,TRNPII,TRNPI,          indexable,          Internal grooving tool - indexable,121090,,,TRNPII,GTC-BASE,TRUE,
+2013-04-04 12:00:00,TRNPII_W[insert_concept],TRNPII,            [insert concept],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,TRNPII_W[insert_concept]_M[connect_mach],TRNPII_W[insert_concept],              [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,TRNPIS,TRNPI,          solid,          Internal grooving tool - solid,122772,,,TRNPIS,GTC-BASE,TRUE,
+2013-04-04 12:00:00,TRNPIS_M[connect_mach],TRNPIS,            [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,TRNPA,TRNP,        Axial grooving tool,        Grooving tool - axial,,,,,gtc-root,,
+2013-04-04 12:00:00,TRNPAI,TRNPA,          indexable,          Axial grooving tool - indexable,,,,TRNPAI,GTC-BASE,TRUE,
+2013-04-04 12:00:00,TRNPAI_W[insert_concept],TRNPAI,            [insert concept],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,TRNPAI_W[insert_concept]_M[connect_mach],TRNPAI_W[insert_concept],              [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,TRNPAS,TRNPA,          solid,          Axial grooving tool - solid,122771,,,TRNPAS,GTC-BASE,TRUE,
+2013-04-04 12:00:00,TRNPAS_M[connect_mach],TRNPAS,            [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,TRNTH,TRN,      Thread turning tool,      Thread turning tool,121065,,,,gtc-root,,
+2013-04-04 12:00:00,TRNTHE,TRNTH,        External thread turning tool,        External thread turning tool,121065,,,,gtc-root,,
+2013-04-04 12:00:00,TRNTHEI,TRNTHE,          indexable,          External thread turning tool - indexable,121065,,,TRNTHEI,GTC-BASE,TRUE,
+2013-04-04 12:00:00,TRNTHEI_W[insert_concept],TRNTHEI,            [insert concept],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,TRNTHEI_W[insert_concept]_M[connect_mach],TRNTHEI_W[insert_concept],              [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,TRNTHES,TRNTHE,          solid,          External thread turning tool - solid,,,,,gtc-root,,
+2013-04-04 12:00:00,TRNTHESF,TRNTHES,            full profile thread turning tool,            External full profile thread turning tool- solid,,,,TRNTHESF,GTC-BASE,TRUE,
+2013-04-04 12:00:00,TRNTHESF_M[connect_mach],TRNTHESF,              [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,TRNTHESP,TRNTHES,            partial profile thread turning tool,            External partial profile thread turning tool - solid,,,,TRNTHESP,GTC-BASE,TRUE,
+2013-04-04 12:00:00,TRNTHESP_M[connect_mach],TRNTHESP,              [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,TRNTHI,TRNTH,        Internal thread turning tool,        Internal thread turning tool,981329,,,,gtc-root,,
+2013-04-04 12:00:00,TRNTHII,TRNTHI,          indexable,         Internal thread turning tool - indexable,110878,,,TRNTHII,GTC-BASE,TRUE,
+2013-04-04 12:00:00,TRNTHII_W[insert_concept],TRNTHII,            [insert concept],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,TRNTHII_W[insert_concept]_M[connect_mach],TRNTHII_W[insert_concept],              [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,TRNTHIS,TRNTHI,          solid,          Internal thread turning tool - solid,,,,,gtc-root,,
+2013-04-04 12:00:00,TRNTHISF,TRNTHIS,            full profile thread turning tool,            Internal full profile thread turning tool - solid,,,,TRNTHISF,GTC-BASE,TRUE,
+2013-04-04 12:00:00,TRNTHISF_M[connect_mach],TRNTHISF,              [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,TRNTHISP,TRNTHIS,            partial profile thread turning tool,            Internal partial profile thread turning tool - solid,,,,TRNTHISP,GTC-BASE,TRUE,
+2013-04-04 12:00:00,TRNTHISP_M[connect_mach],TRNTHISP,              [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MIL,TL,    Milling cutter,    Milling cutter,111921,,,,gtc-root,,
+2013-04-04 12:00:00,MILF,MIL,      Face milling cutter,      Face milling cutter,111921,,,,gtc-root,,
+2013-04-04 12:00:00,MILFI,MILF,        indexable,        Face milling cutter - indexable,111921,,,MILFI,GTC-BASE,TRUE,
+2013-04-04 12:00:00,MILFI_W[insert_concept],MILFI,            [insert concept],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MILFI_W[insert_concept]_M[connect_mach],MILFI_W[insert_concept],              [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MILFS,MILF,        solid,        Face milling cutter - solid,092180,,,MILFS,GTC-BASE,TRUE,
+2013-04-04 12:00:00,MILFS_M[connect_mach],MILFS,          [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MILSQ,MIL,      Shoulder face mill,      Shoulder  milling cutter,111235,,,,gtc-root,,
+2013-04-04 12:00:00,MILSQI,MILSQ,        indexable,        Shoulder milling cutter - indexable,111235,,,MILSQI,GTC-BASE,TRUE,
+2013-04-04 12:00:00,MILSQI_W[insert_concept],MILSQI,            [insert concept],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MILSQI_W[insert_concept]_M[connect_mach],MILSQI_W[insert_concept],              [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MILSQS,MILSQ,        solid,        Shoulder milling cutter - solid,113585,,,MILSQS,GTC-BASE,TRUE,
+2013-04-04 12:00:00,MILSQS_M[connect_mach],MILSQS,          [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MILPL,MIL,      Plunge milling cutter,      Plunge milling cutter,,,,,gtc-root,,
+2013-04-04 12:00:00,MILPLI,MILPL,        indexable,        Plunge milling cutter - indexable,,,,MILPLI,GTC-BASE,TRUE,
+2013-04-04 12:00:00,MILPLI_W[insert_concept],MILPLI,            [insert concept],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MILPLI_W[insert_concept]_M[connect_mach],MILPLI_W[insert_concept],              [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MILPLS,MILPL,        solid,        Plunge milling cutter - solid,,,,MILPLS,GTC-BASE,TRUE,
+2013-04-04 12:00:00,MILPLS_M[connect_mach],MILPLS,          [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MILSF,MIL,      Side and face mill,      Slot milling cutter,,,,,gtc-root,,
+2013-04-04 12:00:00,MILSFF,MILSF,        Full slot side and face mill,        Full slot milling cutter ,,,,,gtc-root,,
+2013-04-04 12:00:00,MILSFFI,MILSFF,          indexable,          Full slot milling cutter - indexable,,,,MILSFFI,GTC-BASE,TRUE,
+2013-04-04 12:00:00,MILSFFI_W[insert_concept],MILSFFI,              [insert concept],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MILSFFI_W[insert_concept]_M[connect_mach],MILSFFI_W[insert_concept],                [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MILSFFS,MILSFF,          solid,          Full slot milling cutter - solid,,,,MILSFFS,GTC-BASE,TRUE,
+2013-04-04 12:00:00,MILSFFS_M[connect_mach],MILSFFS,            [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MILSFH,MILSF,        Half side and face mill,        Half side slot milling cutter,,,,,gtc-root,,
+2013-04-04 12:00:00,MILSFHI,MILSFH,          indexable,          Half side slot milling cutter - indexable,,,,MILSFHI,GTC-BASE,TRUE,
+2013-04-04 12:00:00,MILSFHI_W[insert_concept],MILSFHI,              [insert concept],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MILSFHI_W[insert_concept]_M[connect_mach],MILSFHI_W[insert_concept],                [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MILSFHS,MILSFH,          solid,          Half side slot milling cutter - solid,,,,MILSFHS,GTC-BASE,TRUE,
+2013-04-04 12:00:00,MILSFHS_M[connect_mach],MILSFHS,            [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MILSFDH,MILSF,        Double half side and face mill,        Double half side slot milling cutter,,,,,gtc-root,,
+2013-04-04 12:00:00,MILSFDHI,MILSFDH,          indexable,          Double half side slot milling cutter - indexable,,,,MILSFDHI,GTC-BASE,TRUE,
+2013-04-04 12:00:00,MILSFDHI_W[insert_concept],MILSFDHI,              [insert concept],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MILSFDHI_W[insert_concept]_M[connect_mach],MILSFDHI_W[insert_concept],                [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MILSFDHS,MILSFDH,          solid,          Double half side slot milling cutter - solid,,,,MILSFDHS,GTC-BASE,TRUE,
+2013-04-04 12:00:00,MILSFDHS_M[connect_mach],MILSFDHS,            [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MILG,MIL,      Groove milling cutter,      Groove milling cutter,,,,,gtc-root,,
+2013-04-04 12:00:00,MILGI,MILG,        indexable,        Groove milling cutter - indexable,,,,MILGI,GTC-BASE,TRUE,
+2013-04-04 12:00:00,MILGI_W[insert_concept],MILGI,            [insert concept],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MILGI_W[insert_concept]_M[connect_mach],MILGI_W[insert_concept],              [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MILGS,MILG,        solid,        Groove milling cutter - solid,,,,MILGS,GTC-BASE,TRUE,
+2013-04-04 12:00:00,MILGS_M[connect_mach],MILGS,          [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MILBN,MIL,      Ball nose milling cutter,      Ball nose milling cutter,113578,,,,gtc-root,,
+2013-04-04 12:00:00,MILBNS,MILBN,        Ball nose with straight side,        Ball nose milling cutter with straight side,113578,,,,gtc-root,,
+2013-04-04 12:00:00,MILBNSI,MILBNS,          indexable,          Ball nose milling cutter with straight side - indexable,,,,MILBNSI,GTC-BASE,TRUE,
+2013-04-04 12:00:00,MILBNSI_W[insert_concept],MILBNSI,              [insert concept],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MILBNSI_W[insert_concept]_M[connect_mach],MILBNSI_W[insert_concept],                [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MILBNSS,MILBNS,          solid,          Ball nose milling cutter with straight side - solid,113578,,,MILBNSS,GTC-BASE,TRUE,
+2013-04-04 12:00:00,MILBNSS_M[connect_mach],MILBNSS,            [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MILBNR,MILBN,        Ball nose with radius side,        Ball nose milling cutter with radius side,,,,,gtc-root,,
+2013-04-04 12:00:00,MILBNRI,MILBNR,          indexable,          Ball nose milling cutter with radius side - indexable,,,,MILBNRI,GTC-BASE,TRUE,
+2013-04-04 12:00:00,MILBNRI_W[insert_concept],MILBNRI,              [insert concept],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MILBNRI_W[insert_concept]_M[connect_mach],MILBNRI_W[insert_concept],                [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MILBNRS,MILBNR,          solid,          Ball nose milling cutter with radius side - solid,,,,MILBNRS,GTC-BASE,TRUE,
+2013-04-04 12:00:00,MILBNRS_M[connect_mach],MILBNRS,            [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MILC,MIL,      Chamfer milling cutter,      Chamfer milling cutter,110704,,,,gtc-root,,
+2013-04-04 12:00:00,MILCF,MILC,        Chamfer mill - front cutting,        Chamfer mill_front cutting,110704,,,,gtc-root,,
+2013-04-04 12:00:00,MILCFI,MILCF,          indexable,          Chamfer mill_front cutting - indexable,,,,MILCFI,GTC-BASE,TRUE,
+2013-04-04 12:00:00,MILCFI_W[insert_concept],MILCFI,              [insert concept],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MILCFI_W[insert_concept]_M[connect_mach],MILCFI_W[insert_concept],                [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MILCFS,MILCF,          solid,          Chamfer mill_front cutting - solid,121635,,,MILCFS,GTC-BASE,TRUE,
+2013-04-04 12:00:00,MILCFS_M[connect_mach],MILCFS,            [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MILCFB,MILC,        Chamfer mill - front and back cutting,        Chamfer mill_front and back cutting,,,,,gtc-root,,
+2013-04-04 12:00:00,MILCFBI,MILCFB,          indexable,          Chamfer mill_front and back cutting - indexable,,,,MILCFBI,GTC-BASE,TRUE,
+2013-04-04 12:00:00,MILCFBI_W[insert_concept],MILCFBI,              [insert concept],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MILCFBI_W[insert_concept]_M[connect_mach],MILCFBI_W[insert_concept],                [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MILCFBS,MILCFB,          solid,          Chamfer mill_front and back cutting - solid,,,,MILCFBS,GTC-BASE,TRUE,
+2013-04-04 12:00:00,MILCFBS_M[connect_mach],MILCFBS,            [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MILCB,MILC,        Chamfer mill - back cutting,        Chamfer mill_back cutting,,,,,gtc-root,,
+2013-04-04 12:00:00,MILCBI,MILCB,          indexable,          Chamfer mill_back cutting - indexable,,,,MILCBI,GTC-BASE,TRUE,
+2013-04-04 12:00:00,MILCBI_W[insert_concept],MILCBI,              [insert concept],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MILCBI_W[insert_concept]_M[connect_mach],MILCBI_W[insert_concept],                [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MILCBS,MILCB,          solid,          Chamfer mill_back cutting - solid,,,,MILCBS,GTC-BASE,TRUE,
+2013-04-04 12:00:00,MILCBS_M[connect_mach],MILCBS,            [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MILPR,MIL,      Profile milling cutter,      Profile milling cutter,,,,,gtc-root,,
+2016-09-22 12:00:00,MILPRFF,MILPR,        Freeform shape profile mill,       Freeform profile milling cutter,,,,,gtc-root,,New class
+2016-09-22 12:00:00,MILPRFFI,MILPRFF,          indexable,          Freeform profile milling cutter - indexable,,,,MILPRFFI,GTC-BASE,TRUE,New class
+2016-09-22 12:00:00,MILPRFFI_W[insert_concept],MILPRFFI,              [insert concept],,,,,,GTC-SUB,TRUE,New class
+2016-09-22 12:00:00,MILPRFFI_W[insert_concept]_M[connect_mach],MILPRFFI_W[insert_concept],                [connection interface],,,,,,GTC-SUB,TRUE,New class
+2016-09-22 12:00:00,MILPRFFS,MILPRFF,          solid,          Freeform profile milling cutter - solid,,,,MILPRFFS,GTC-BASE,TRUE,New class
+2016-09-22 12:00:00,MILPRFFS_M[connect_mach],MILPRFFS,            [connection interface],,,,,,GTC-SUB,TRUE,New class
+2016-09-22 12:00:00,MILPRVG,MILPR,        V-groove profile mill,       V-groove profile milling cutter,,,,,gtc-root,,New class
+2016-09-22 12:00:00,MILPRVGI,MILPRVG,          indexable,          V-groove profile milling cutter - indexable,,,,MILPRVGI,GTC-BASE,TRUE,New class
+2016-09-22 12:00:00,MILPRVGI_W[insert_concept],MILPRVGI,              [insert concept],,,,,,GTC-SUB,TRUE,New class
+2016-09-22 12:00:00,MILPRVGI_W[insert_concept]_M[connect_mach],MILPRVGI_W[insert_concept],                [connection interface],,,,,,GTC-SUB,TRUE,New class
+2016-09-22 12:00:00,MILPRVGS,MILPRVG,          solid,          V-groove profile milling cutter - solid,,,,MILPRVGS,GTC-BASE,TRUE,New class
+2016-09-22 12:00:00,MILPRVGS_M[connect_mach],MILPRVGS,            [connection interface],,,,,,GTC-SUB,TRUE,New class
+2016-09-22 12:00:00,MILPRDT,MILPR,        Dovetail profile mill,       Dovetail profile milling cutter,,,,,gtc-root,,New class
+2016-09-22 12:00:00,MILPRDTI,MILPRDT,          indexable,          Dovetail profile milling cutter - indexable,,,,MILPRDTI,GTC-BASE,TRUE,New class
+2016-09-22 12:00:00,MILPRDTI_W[insert_concept],MILPRDTI,              [insert concept],,,,,,GTC-SUB,TRUE,New class
+2016-09-22 12:00:00,MILPRDTI_W[insert_concept]_M[connect_mach],MILPRDTI_W[insert_concept],                [connection interface],,,,,,GTC-SUB,TRUE,New class
+2016-09-22 12:00:00,MILPRDTS,MILPRDT,          solid,          Dovetail profile milling cutter - solid,,,,MILPRDTS,GTC-BASE,TRUE,New class
+2016-09-22 12:00:00,MILPRDTS_M[connect_mach],MILPRDTS,            [connection interface],,,,,,GTC-SUB,TRUE,New class
+2016-09-22 12:00:00,MILPRQC,MILPR,        Quarter circle concave profile mill,        Profile milling cutter quarter circle concave,092183,,,,gtc-root,,Adjusted class name
+2016-09-22 12:00:00,MILPRQCI,MILPRQC,          indexable,          Profile milling cutter quarter circle concave - indexable,,,,MILPRQCI,GTC-BASE,TRUE,Adjusted class name
+2013-04-04 12:00:00,MILPRQCI_W[insert_concept],MILPRQCI,              [insert concept],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MILPRQCI_W[insert_concept]_M[connect_mach],MILPRQCI_W[insert_concept],                [connection interface],,,,,,GTC-SUB,TRUE,
+2016-09-22 12:00:00,MILPRQCS,MILPRQC,          solid,          Profile milling cutter quarter circle concave - solid,092183,,,MILPRQCS,GTC-BASE,TRUE,Adjusted class name
+2013-04-04 12:00:00,MILPRQCS_M[connect_mach],MILPRQCS,            [connection interface],,,,,,GTC-SUB,TRUE,
+2016-09-22 12:00:00,MILPRHC,MILPR,        Half circle concave profile mill,        Profile milling cutter_half circle concave,,,,,gtc-root,,Adjusted class name
+2016-09-22 12:00:00,MILPRHCI,MILPRHC,          indexable,          Profile milling cutter half circle concave - indexable,,,,MILPRHCI,GTC-BASE,TRUE,Adjusted class name
+2013-04-04 12:00:00,MILPRHCI_W[insert_concept],MILPRHCI,              [insert concept],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MILPRHCI_W[insert_concept]_M[connect_mach],MILPRHCI_W[insert_concept],                [connection interface],,,,,,GTC-SUB,TRUE,
+2016-09-22 12:00:00,MILPRHCS,MILPRHC,          solid,          Profile milling cutter half circle concave- solid,,,,MILPRHCS,GTC-BASE,TRUE,Adjusted class name
+2013-04-04 12:00:00,MILPRHCS_M[connect_mach],MILPRHCS,            [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MILTS,MIL,      T-slot milling cutter,      T-slot milling cutter,,,,,gtc-root,,
+2013-04-04 12:00:00,MILTSI,MILTS,        indexable,        T-slot milling cutter - indexable,,,,MILTSI,GTC-BASE,TRUE,
+2013-04-04 12:00:00,MILTSI_W[insert_concept],MILTSI,            [insert concept],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MILTSI_W[insert_concept]_M[connect_mach],MILTSI_W[insert_concept],              [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MILTSS,MILTS,        solid,        T-slot milling cutter - solid,,,,MILTSS,GTC-BASE,TRUE,
+2013-04-04 12:00:00,MILTSS_M[connect_mach],MILTSS,          [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MILTH,MIL,      Thread milling cutter,      Thread milling cutter,113529,,,,gtc-root,,
+2016-09-22 12:00:00,MILTHG,MILTH,        Thread mill cutter,        Thread milling cutter,113529,,,,gtc-root,,Adjusted class name
+2016-09-22 12:00:00,MILTHGI,MILTHG,          indexable,          Thread milling cutter - indexable,,,,MILTHGI,GTC-BASE,TRUE,Adjusted class name
+2013-04-04 12:00:00,MILTHGI_W[insert_concept],MILTHGI,              [insert concept],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MILTHGI_W[insert_concept]_M[connect_mach],MILTHGI_W[insert_concept],                [connection interface],,,,,,GTC-SUB,TRUE,
+2016-09-22 12:00:00,MILTHGS,MILTHG,          solid,          Thread milling cutter - solid,113529,,,MILTHGS,GTC-BASE,TRUE,Adjusted class name
+2013-04-04 12:00:00,MILTHGS_M[connect_mach],MILTHGS,            [connection interface],,,,,,GTC-SUB,TRUE,
+2016-09-22 12:00:00,MILTHD,MILTH,        Thread mill - with drill function ,        Thread mill - with drill function ,,,,,gtc-root,,New class (repl. MILTHDC)
+2016-09-22 12:00:00,MILTHDI,MILTHD,          indexable,          Thread milling cutter - with drill function - indexable,,,,MILTHDI,GTC-BASE,TRUE,New class (repl. MILTHDC)
+2016-09-22 12:00:00,MILTHDI_W[insert_concept],MILTHDI,              [insert concept],,,,,,GTC-SUB,TRUE,New class (repl. MILTHDC)
+2016-09-22 12:00:00,MILTHDI_W[insert_concept]_M[connect_mach],MILTHDI_W[insert_concept],                [connection interface],,,,,,GTC-SUB,TRUE,New class (repl. MILTHDC)
+2016-09-22 12:00:00,MILTHDS,MILTHD,          solid,          Thread milling cutter - with drill function - solid,,,,MILTHDS,GTC-BASE,TRUE,New class (repl. MILTHDC)
+2016-09-22 12:00:00,MILTHDS_M[connect_mach],MILTHDS,            [connection interface],,,,,,GTC-SUB,TRUE,New class (repl. MILTHDC)
+2013-04-04 12:00:00,DRL,TL,    Drill,    Drill,111681,,,,gtc-root,,
+2013-04-04 12:00:00,DRLF,DRL,      Cylindrical hole drill,     Cylindrical hole drill,111681,,,,gtc-root,,
+2013-04-04 12:00:00,DRLFI,DRLF,        indexable,        Indexable drill,110324,,,DRLFI,GTC-BASE,TRUE,
+2016-05-02 14:00:00,DRLFI_W[insert_concept],DRLFI,            [insert concept],,,,,,GTC-SUB,TRUE,New class (repl. A/S/GP)
+2016-05-02 14:00:00,DRLFI_W[insert_concept]_M[connect_mach],DRLFI_W[insert_concept],              [connection interface],,,,,,GTC-SUB,TRUE,New class (repl. A/S/GP)
+2013-04-04 12:00:00,DRLFS,DRLF,        solid,        Solid drill,111946,,,DRLFS,GTC-BASE,TRUE,
+2016-05-02 14:00:00,DRLFS_M[connect_mach],DRLFS,            [connection interface],,,,,,GTC-SUB,TRUE,New class (repl. S/GP)
+2016-05-02 21:00:00,DRLFD,DRLF,        drilling Insert,        Drill with drilling insert,,,,DRLFD,GTC-BASE,TRUE,New class
+2016-05-02 21:00:00,DRLFD_W[insert_concept],DRLFD,            [insert concept],,,,,,GTC-SUB,TRUE,New class
+2016-05-02 21:00:00,DRLFD_W[insert_concept]_M[connect_mach],DRLFD_W[insert_concept],              [connection interface],,,,,,GTC-SUB,TRUE,New class
+2013-04-04 12:00:00,DRLSC,DRL,      Step and chamfer drill,      Step drill,112348,,,,gtc-root,,
+2013-04-04 12:00:00,DRLSCI,DRLSC,        indexable,       Step drill - indexable,,,,DRLSCI,GTC-BASE,TRUE,
+2016-05-02 14:00:00,DRLSCI_W[insert_concept],DRLSCI,            [insert concept],,,,,,GTC-SUB,TRUE,New class (repl. A/S/GP)
+2016-05-02 14:00:00,DRLSCI_W[insert_concept]_M[connect_mach],DRLSCI_W[insert_concept],              [connection interface],,,,,,GTC-SUB,TRUE,New class (repl. A/S/GP)
+2013-04-04 12:00:00,DRLSCS,DRLSC,        solid,       Step drill - solid,,,,DRLSCS,GTC-BASE,TRUE,
+2016-05-02 14:00:00,DRLSCS_M[connect_mach],DRLSCS,            [connection interface],,,,,,GTC-SUB,TRUE,New class (repl. Sym.)
+2016-05-02 21:00:00,DRLSCD,DRLSC,        drilling Insert,       Step Drill with drilling insert,,,,DRLSCD,GTC-BASE,TRUE,New class
+2016-05-02 21:00:00,DRLSCD_W[insert_concept],DRLSCD,            [insert concept],,,,,,GTC-SUB,TRUE,New class
+2016-05-02 21:00:00,DRLSCD_W[insert_concept]_M[connect_mach],DRLSCD_W[insert_concept],              [connection interface],,,,,,GTC-SUB,TRUE,New class
+2013-04-04 12:00:00,DRLCON,DRL,      Conical hole drill,      Conical hole drill,,,,,gtc-root,,
+2013-04-04 12:00:00,DRLCONI,DRLCON,        indexable,        Conical hole drill - indexable,,,,DRLCONI,GTC-BASE,TRUE,
+2013-04-04 12:00:00,DRLCONI_W[insert_concept],DRLCONI,          [insert concept],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,DRLCONI_W[insert_concept]_M[connect_mach],DRLCONI_W[insert_concept],            [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,DRLCONS,DRLCON,        solid,        Conical hole drill - solid,,,,DRLCONS,GTC-BASE,TRUE,
+2016-05-02 14:00:00,DRLCONS_M[connect_mach],DRLCONS,            [connection interface],,,,,,GTC-SUB,TRUE,New class (repl. Sym.)
+2013-04-04 12:00:00,DRLCTR,DRL,      Center drill,      Center drill,,,,,gtc-root,,
+2013-04-04 12:00:00,DRLCTRS,DRLCTR,        solid,        Center drill - solid,,,,,gtc-root,,
+2013-04-04 12:00:00,DRLCTRSA,DRLCTRS,          Form A DIN/ISO,          Center drill - form A DIN/ISO - solid,,,,DRLCTRSA,GTC-BASE,TRUE,
+2013-04-04 12:00:00,DRLCTRSA_M[connect_mach],DRLCTRSA,            [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,DRLCTRSB,DRLCTRS,          Form B DIN/ISO,          Center drill - form B DIN/ISO - solid,,,,DRLCTRSB,GTC-BASE,TRUE,
+2013-04-04 12:00:00,DRLCTRSB_M[connect_mach],DRLCTRSB,            [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,DRLCTRSR,DRLCTRS,          Form R DIN/ISO,          Center drill - form R DIN/ISO - solid,,,,DRLCTRSR,GTC-BASE,TRUE,
+2013-04-04 12:00:00,DRLCTRSR_M[connect_mach],DRLCTRSR,            [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,DRLCTRSNS,DRLCTRS,          Non standard form,          Center drill - non standard form - solid,,,,DRLCTRSNS,GTC-BASE,TRUE,
+2013-04-04 12:00:00,DRLCTRSNS_M[connect_mach],DRLCTRSNS,            [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,DRLSPT,DRL,      Spot drill,      Spot drill,,,,,gtc-root,,
+2014-02-07 12:00:00,DRLSPTI,DRLSPT,        indexable,        Spot drill - indexable,,,,DRLSPTI,GTC-BASE,TRUE,New class
+2014-02-07 12:00:00,DRLSPTI_W[insert_concept],DRLSPTI,          [insert concept],,,,,,GTC-SUB,TRUE,New class
+2014-02-07 12:00:00,DRLSPTI_W[insert_concept]_M[connect_mach],DRLSPTI_W[insert_concept],          [connection interface],,,,,,GTC-SUB,TRUE,New class
+2013-04-04 12:00:00,DRLSPTS,DRLSPT,        solid,        Spot drill - solid,,,,DRLSPTS,GTC-BASE,TRUE,
+2013-04-04 12:00:00,DRLSPTS_M[connect_mach],DRLSPTS,          [connection interface],,,,,,GTC-SUB,TRUE,
+2014-02-07 12:00:00,DRLCOR,DRL,      Core Drill ,      Core drill ,,,,,gtc-root,,New class
+2014-02-07 12:00:00,DRLCORS,DRLCOR,         solid,        Core drill - solid,,,,DRLCORS,GTC-BASE,TRUE,New class
+2016-05-02 14:00:00,DRLCORS_M[connect_mach],DRLCORS,            [connection interface],,,,,,GTC-SUB,TRUE,New class (repl. A/S/GP)
+2014-02-07 12:00:00,DRLCORI,DRLCOR,         indexable,        Core drill - indexable,,,,DRLCORI,GTC-BASE,TRUE,New class (repl. A/S/GP)
+2016-05-02 14:00:00,DRLCORI_W[insert_concept],DRLCORI,            [insert concept],,,,,,GTC-SUB,TRUE,New class (repl. A/S/GP)
+2016-05-02 14:00:00,DRLCORI_W[insert_concept]_M[connect_mach],DRLCORI_W[insert_concept],              [connection interface],,,,,,GTC-SUB,TRUE,New class (repl. A/S/GP)
+2013-04-04 12:00:00,DRLI,DRL,      Drill with internal chip evacuation,      Drill with internal chip evacuation,122792,,,,gtc-root,,
+2013-04-04 12:00:00,DRLII,DRLI,        indexable,        Drill with internal chip evacuation - indexable,122792,,,DRLII,GTC-BASE,TRUE,
+2013-04-04 12:00:00,DRLII_W[insert_concept],DRLII,          [insert concept],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,DRLII_W[insert_concept]_M[connect_mach],DRLII_W[insert_concept],            [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,DRLIS,DRLI,        solid,        Drill with internal chip evacuation - solid,,,,DRLIS,GTC-BASE,TRUE,
+2013-04-04 12:00:00,DRLIS_M[connect_mach],DRLIS,          [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,DRLTP,DRL,      Trepanning tool,      Trepanning tool,,,,,gtc-root,,
+2013-04-04 12:00:00,DRLTPI,DRLTP,        indexable,        Trepanning tool - indexable,,,,DRLTPI,GTC-BASE,TRUE,
+2013-04-04 12:00:00,DRLTPI_W[insert_concept],DRLTPI,          [insert concept],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,DRLTPI_W[insert_concept]_M[connect_mach],DRLTPI_W[insert_concept],            [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,DRLTPS,DRLTP,        solid,        Trepanning tool - solid,,,,DRLTPS,GTC-BASE,TRUE,
+2013-04-04 12:00:00,DRLTPS_M[connect_mach],DRLTPS,          [connection interface],,,,,,GTC-SUB,TRUE,
+2016-05-02 21:00:00,DRLCSK,DRL,    Countersink,    Countersink,,,,,gtc-root,,New class (base on CSI)
+2016-05-02 21:00:00,DRLCSKI,DRLCSK,       indexable,        Countersink - indexable,,,,DRLCSKI,GTC-BASE,TRUE,New class (base on CSI)
+2016-05-02 21:00:00,DRLCSKI_W[insert_concept],DRLCSKI,          [insert concept],,,,,,GTC-SUB,TRUE,New class (base on CSI)
+2016-05-02 21:00:00,DRLCSKI_W[insert_concept]_M[connect_mach],DRLCSKI_W[insert_concept],            [connection interface],,,,,,GTC-SUB,TRUE,New class (base on CSI)
+2016-05-02 21:00:00,DRLCSKS,DRLCSK,       solid,        Countersink - solid,,,,DRLCSKS,GTC-BASE,TRUE,New class (base on CSI)
+2016-05-02 21:00:00,DRLCSKS_M[connect_mach],DRLCSKS,          [connection interface],,,,,,GTC-SUB,TRUE,New class (base on CSI)
+2016-06-23 16:00:00,DRLCSKST,DRLCSK,    Countersink step,    Countersink step,,,,,gtc-root,,New class (base on CSIST)
+2016-06-23 16:00:00,DRLCSKSTI,DRLCSKST,       indexable,        Countersink step - indexable,,,,DRLCSKSTI,GTC-BASE,TRUE,New class (base on CSIST)
+2016-06-23 16:00:00,DRLCSKSTI_W[insert_concept],DRLCSKSTI,          [insert concept],,,,,,GTC-SUB,TRUE,New class (base on CSIST)
+2016-06-23 16:00:00,DRLCSKSTI_W[insert_concept]_M[connect_mach],DRLCSKSTI_W[insert_concept],            [connection interface],,,,,,GTC-SUB,TRUE,New class (base on CSIST)
+2016-06-23 16:00:00,DRLCSKSTS,DRLCSKST,       solid,        Countersink step - solid,,,,DRLCSKSTS,GTC-BASE,TRUE,New class (base on CSIST)
+2016-06-23 16:00:00,DRLCSKSTS_M[connect_mach],DRLCSKSTS,          [connection interface],,,,,,GTC-SUB,TRUE,New class (base on CSIST)
+2016-05-02 21:30:00,DRLCBR,DRL,    Counterbore,    Counterbore,,,,,gtc-root,,New class
+2016-05-02 21:30:00,DRLCBRI,DRLCBR,       indexable,        Counterbore - indexable,,,,DRLCBRI,GTC-BASE,TRUE,New class
+2016-05-02 21:30:00,DRLCBRI_W[insert_concept],DRLCBRI,          [insert concept],,,,,,GTC-SUB,TRUE,New class
+2016-05-02 21:30:00,DRLCBRI_W[insert_concept]_M[connect_mach],DRLCBRI_W[insert_concept],            [connection interface],,,,,,GTC-SUB,TRUE,New class
+2016-05-02 21:30:00,DRLCBRS,DRLCBR,       solid,        Counterbore - solid,,,,DRLCBRS,GTC-BASE,TRUE,New class
+2016-05-02 21:30:00,DRLCBRS_M[connect_mach],DRLCBRS,          [connection interface],,,,,,GTC-SUB,TRUE,New class
+2013-04-04 12:00:00,REA,TL,    Reamer,    Reamer,113301,,,,gtc-root,,
+2013-04-04 12:00:00,REASCYL,REA,      cylindrical hole,      Reamer for cylindrical hole,113301,,,,gtc-root,,
+2013-04-04 12:00:00,REASCYLI,REASCYL,        indexable,        Reamer for cylindrical hole - indexable,,,,REASCYLI,GTC-BASE,TRUE,
+2013-04-04 12:00:00,REASCYLI_W[insert_concept],REASCYLI,          [insert concept],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,REASCYLI_W[insert_concept]_M[connect_mach],REASCYLI_W[insert_concept],            [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,REASCYLS,REASCYL,        solid,        Reamer for cylindrical hole - solid,113301,,,REASCYLS,GTC-BASE,TRUE,
+2013-04-04 12:00:00,REASCYLS_M[connect_mach],REASCYLS,          [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,REASCON,REA,      conical hole,      Reamer for conical hole,,,,,gtc-root,,
+2013-04-04 12:00:00,REASCONI,REASCON,        indexable,        Reamer for conical hole - indexable,,,,REASCONI,GTC-BASE,TRUE,
+2013-04-04 12:00:00,REASCONI_W[insert_concept],REASCONI,          [insert concept],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,REASCONI_W[insert_concept]_M[connect_mach],REASCONI_W[insert_concept],            [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,REASCONS,REASCON,        solid,        Reamer for conical hole - solid,,,,REASCONS,GTC-BASE,TRUE,
+2013-04-04 12:00:00,REASCONS_M[connect_mach],REASCONS,          [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,REASSTP,REA,      stepped hole,      Reamer for stepped hole,,,,,gtc-root,,
+2013-04-04 12:00:00,REASSTPI,REASSTP,        indexable,        Reamer for stepped hole - indexable,,,,REASSTPI,GTC-BASE,TRUE,
+2013-04-04 12:00:00,REASSTPI_W[insert_concept],REASSTPI,          [insert concept],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,REASSTPI_W[insert_concept]_M[connect_mach],REASSTPI_W[insert_concept],            [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,REASSTPS,REASSTP,        solid,        Reamer for stepped hole - solid,,,,REASSTPS,GTC-BASE,TRUE,
+2013-04-04 12:00:00,REASSTPS_M[connect_mach],REASSTPS,          [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,BOR,TL,    Rotating Boring tool,    Rotating Boring tool,122627,,,,gtc-root,,Adjusted class name
+2016-06-23 16:00:00,BORT,BOR,        Boring tool,        Boring tool,,,,BORT,GTC-BASE,TRUE,New class
+2016-06-23 16:00:00,BORT_M[connect_mach],BORT,          [connection interface],,,,,,GTC-SUB,TRUE,New class
+2016-06-23 16:00:00,BORCE,BOR,        Boring tool with internal chip evacuation,        Boring tool with internal chip evacuation,,,,BORCE,GTC-BASE,TRUE,New class
+2016-06-23 16:00:00,BORCE_M[connect_mach],BORCE,          [connection interface],,,,,,GTC-SUB,TRUE,New class
+2013-04-04 12:00:00,TAP,TL,    Tap,    Tap,,,,,gtc-root,,
+2016-09-22 12:00:00,TAPC,TAP,        Cutting tap,        Cutting tap,112818,,,TAPC,GTC-BASE,TRUE,New class
+2016-09-22 12:00:00,TAPC_M[connect_mach],TAPC,          [connection interface],,,,,,GTC-SUB,TRUE,New class
+2016-09-22 12:00:00,TAPD,TAP,        Drilling tap,        Drilling tap,,,,TAPD,GTC-BASE,TRUE,New class
+2016-09-22 12:00:00,TAPD_M[connect_mach],TAPD,          [connection interface],,,,,,GTC-SUB,TRUE,New class
+2016-09-22 12:00:00,TAPG,TAP,        Gun nose,        Gun nose,113305,,,TAPG,GTC-BASE,TRUE,New class
+2016-09-22 12:00:00,TAPG_M[connect_mach],TAPG,          [connection interface],,,,,,GTC-SUB,TRUE,New class
+2016-09-22 12:00:00,TAPF,TAP,        Forming tap,        Forming tap,113352,,,TAPF,GTC-BASE,TRUE,New class
+2016-09-22 12:00:00,TAPF_M[connect_mach],TAPF,          [connection interface],,,,,,GTC-SUB,TRUE,New class
+2013-04-04 12:00:00,DIE,TL,    Die,    Die,,,,,gtc-root,,
+2013-04-04 12:00:00,DIECYL,DIE,      Die for cylindrical threads,      Die for cylindrical threads,,,,DIECYL,GTC-BASE,TRUE,
+2013-04-04 12:00:00,DIECYL_M[connect_mach],DIECYL,        [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,DIECON,DIE,      Die for conical threads,      Die for conical threads,,,,DIECON,GTC-BASE,TRUE,
+2013-04-04 12:00:00,DIECON_M[connect_mach],DIECON,        [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,BRO,TL,    Broaching tool,    Broaching tool,,,,,gtc-root,,
+2013-04-04 12:00:00,BROT,BRO,      Turn broach,      Turn broaching tool,,,,,gtc-root,,
+2013-04-04 12:00:00,BROTI,BROT,        indexable,       Turn broaching tool - indexable,,,,BROTI,GTC-BASE,TRUE,
+2013-04-04 12:00:00,BROTI_W[insert_concept],BROTI,          [insert concept],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,BROTI_W[insert_concept]_M[connect_mach],BROTI_W[insert_concept],            [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,BROTS,BROT,        solid,        Turn broaching tool -solid,,,,BROTS,GTC-BASE,TRUE,
+2013-04-04 12:00:00,BROTS_M[connect_mach],BROTS,          [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,BROTT,BRO,      Turn turn broach,      Turn turn broaching tool,,,,,gtc-root,,
+2013-04-04 12:00:00,BROTTI,BROTT,        indexable,        Turn turn broaching tool - indexable,,,,BROTTI,GTC-BASE,TRUE,
+2013-04-04 12:00:00,BROTTI_W[insert_concept],BROTTI,          [insert concept],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,BROTTI_W[insert_concept]_M[connect_mach],BROTTI_W[insert_concept],            [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,BROTTS,BROTT,        solid,        Turn turn broaching tool - solid,,,,BROTTS,GTC-BASE,TRUE,
+2013-04-04 12:00:00,BROTTS_M[connect_mach],BROTTS,          [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,BROF,BRO,      Flat broach,      Flat broaching tool,,,,,gtc-root,,
+2013-04-04 12:00:00,BROFI,BROF,        indexable,        Flat broaching tool - indexable,,,,BROFI,GTC-BASE,TRUE,
+2013-04-04 12:00:00,BROFI_W[insert_concept],BROFI,          [insert concept],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,BROFI_W[insert_concept]_M[connect_mach],BROFI_W[insert_concept],            [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,BROFS,BROF,        solid,        Flat broaching tool - solid,,,,BROFS,GTC-BASE,TRUE,
+2013-04-04 12:00:00,BROFS_M[connect_mach],BROFS,          [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,HOB,MIL,      Hob,      Hob,,,,,gtc-root,,
+2013-04-04 12:00:00,HOBI,HOB,      indexable,      Hob - indexable,,,,HOBI,GTC-BASE,TRUE,
+2013-04-04 12:00:00,HOBI_W[insert_concept],HOBI,        [insert concept],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,HOBI_W[insert_concept]_M[connect_mach],HOBI_W[insert_concept],          [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,HOBS,HOB,      solid,      Hob - solid,,,,HOBS,GTC-BASE,TRUE,
+2013-04-04 12:00:00,HOBS_M[connect_mach],HOBS,        [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MULT,TL,    Multi tool,    Multi function tool,,,,,gtc-root,,
+2013-04-04 12:00:00,MULTT,MULT,      Multi turning,      Multi function turning tool,,,,,gtc-root,,
+2013-04-04 12:00:00,MULTTI,MULTT,        indexable,        Multi function turning tool - indexable,,,,MULTTI,GTC-BASE,TRUE,
+2013-04-04 12:00:00,MULTTI_W[insert_concept],MULTTI,          [insert concept],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MULTTI_W[insert_concept]_M[connect_mach],MULTTI_W[insert_concept],            [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MULTTS,MULTT,        solid,        Multi function turning tool - solid,,,,MULTTS,GTC-BASE,TRUE,
+2013-04-04 12:00:00,MULTTS_M[connect_mach],MULTTS,          [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MULTMT,MULT,      Multi mill-turn,      Multi function mill-turn tool,,,,,gtc-root,,
+2013-04-04 12:00:00,MULTMTI,MULTMT,        indexable,        Multi function mill-turn tool - indexable,,,,MULTMTI,GTC-BASE,TRUE,
+2013-04-04 12:00:00,MULTMTI_W[insert_concept],MULTMTI,          [insert concept],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MULTMTI_W[insert_concept]_M[connect_mach],MULTMTI_W[insert_concept],            [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,MULTMTS,MULTMT,        solid,        Multi function mill-turn tool - solid,,,,MULTMTS,GTC-BASE,TRUE,
+2013-04-04 12:00:00,MULTMTS_M[connect_mach],MULTMTS,          [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,BLT,TL,    Cartridge,    Cartridge,,,,,gtc-root,,
+2013-04-04 12:00:00,BLTGT,BLT,      Cartridge for turning,      Cartridge for turning,,,,,gtc-root,,
+2013-04-04 12:00:00,BLTGTI,BLTGT,        indexable,        Cartridge for turning - indexable,,,,BLTGTI,GTC-BASE,TRUE,
+2013-04-04 12:00:00,BLTGTI_W[insert_concept],BLTGTI,          [insert concept],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,BLTGTI_W[insert_concept]_M[connect_mach],BLTGTI_W[insert_concept],            [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,BLTGTS,BLTGT,        solid,        Cartridge for turning - solid,,,,BLTGTS,GTC-BASE,TRUE,
+2013-04-04 12:00:00,BLTGTS_M[connect_mach],BLTGTS,          [connection interface],,,,,,GTC-SUB,TRUE,
+2015-03-01 10:00:00,BLTP,BLT,  Cartridge for Parting and grooving tool,  Cartridge for Parting and grooving tool,,,,,gtc-root,,New class
+2016-09-22 12:00:00,BLTPI,BLTP,      indexable,    Cartridge for Parting and grooving tool - indexable,,,,BLTPI,GTC-BASE,TRUE,New class
+2016-09-22 12:00:00,BLTPI_W[insert_concept],BLTPI,          [insert concept],,,,,,GTC-SUB,TRUE,New class
+2016-09-22 12:00:00,BLTPI_W[insert_concept]_M[connect_mach],BLTPI_W[insert_concept],            [connection interface],,,,,,GTC-SUB,TRUE,New class
+2016-09-22 12:00:00,BLTPS,BLTP,        solid,    Cartridge for Parting and grooving tool - solid,,,,BLTPS,GTC-BASE,TRUE,New class
+2016-09-22 12:00:00,BLTPS_W[insert_concept],BLTPS,          [connection interface],,,,,,GTC-SUB,TRUE,New class
+2013-04-04 12:00:00,BLTTT,BLT,      Cartridge for thread turning,      Cartridge for thread turning,,,,,gtc-root,,
+2013-04-04 12:00:00,BLTTTI,BLTTT,        indexable,        Cartridge for thread turning - indexable,,,,BLTTTI,GTC-BASE,TRUE,
+2013-04-04 12:00:00,BLTTTI_W[insert_concept],BLTTTI,          [insert concept],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,BLTTTI_W[insert_concept]_M[connect_mach],BLTTTI_W[insert_concept],            [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,BLTTTS,BLTTT,        solid,        Cartridge for thread turning - solid,,,,BLTTTS,GTC-BASE,TRUE,
+2013-04-04 12:00:00,BLTTTS_M[connect_mach],BLTTTS,          [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,BLTM,BLT,      Cartridge for milling,      Cartridge for milling,,,,,gtc-root,,
+2013-04-04 12:00:00,BLTMI,BLTM,        indexable,        Cartridge for milling - indexable,,,,BLTMI,GTC-BASE,TRUE,
+2013-04-04 12:00:00,BLTMI_W[insert_concept],BLTMI,          [insert concept],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,BLTMI_W[insert_concept]_M[connect_mach],BLTMI_W[insert_concept],            [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,BLTMS,BLTM,        solid,        Cartridge for milling - solid,,,,BLTMS,GTC-BASE,TRUE,
+2013-04-04 12:00:00,BLTMS_M[connect_mach],BLTMS,          [connection interface],,,,,,GTC-SUB,TRUE,
+2015-03-01 10:00:00,BLTD,BLT,      Cartridge for drilling,      Cartridge for drilling,,,,,gtc-root,,New class
+2015-03-01 10:00:00,BLTDI,BLTD,        indexable,      Cartridge for drilling -         indexable,,,,BLTDI,GTC-BASE,TRUE,New class
+2015-03-01 10:00:00,BLTDI_W[insert_concept],BLTDI,          [insert concept],,,,,,GTC-SUB,TRUE,New class
+2015-03-01 10:00:00,BLTDI_W[insert_concept]_M[connect_mach],BLTDI_W[insert_concept],            [connection interface],,,,,,GTC-SUB,TRUE,New class
+2015-03-01 10:00:00,BLTDS,BLTD,        solid,      Cartridge for drilling -         solid,,,,BLTDS,GTC-BASE,TRUE,New class
+2015-03-01 10:00:00,BLTDS_W[insert_concept],BLTDS,          [connection interface],,,,,,GTC-SUB,TRUE,New class
+2013-04-04 12:00:00,BLTB,BLT,      Built in tool for boring,      Built in tool for boring,,,,,gtc-root,,
+2013-04-04 12:00:00,BLTBC,BLTB,        Cartridge,        Cartridge for boring tool,,,,,gtc-root,,
+2013-04-04 12:00:00,BLTBCI,BLTBC,          indexable,          Cartridge for boring tool - indexable,,,,BLTBCI,GTC-BASE,TRUE,
+2013-04-04 12:00:00,BLTBCI_W[insert_concept],BLTBCI,            [insert concept],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,BLTBCI_W[insert_concept]_M[connect_mach],BLTBCI_W[insert_concept],              [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,BLTBCS,BLTBC,          solid,          Cartridge for boring tool - solid,,,,BLTBCS,GTC-BASE,TRUE,
+2013-04-04 12:00:00,BLTBCS_M[connect_mach],BLTBCS,            [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,BLTBB,BLTB,        Bar for boring tool,        Bar for boring tool,,,,,gtc-root,,
+2013-04-04 12:00:00,BLTBBI,BLTBB,          indexable,          Bar for boring tool - indexable,,,,BLTBBI,GTC-BASE,TRUE,
+2013-04-04 12:00:00,BLTBBI_W[insert_concept],BLTBBI,            [insert concept],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,BLTBBI_W[insert_concept]_M[connect_mach],BLTBBI_W[insert_concept],              [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,BLTBBS,BLTBB,          solid,          Bar for boring tool - solid,,,,BLTBBS,GTC-BASE,TRUE,
+2013-04-04 12:00:00,BLTBBS_M[connect_mach],BLTBBS,            [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,BLTBF,BLTB,        Fine boring unit,        Fine boring unit,,,,,gtc-root,,
+2013-04-04 12:00:00,BLTBFI,BLTBF,          indexable,          Fine boring unit - indexable,,,,BLTBFI,GTC-BASE,TRUE,
+2013-04-04 12:00:00,BLTBFI_W[insert_concept],BLTBFI,            [insert concept],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,BLTBFI_W[insert_concept]_M[connect_mach],BLTBFI_W[insert_concept],              [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,BLTBFS,BLTBF,          solid,          Fine boring unit - solid,,,,BLTBFS,GTC-BASE,TRUE,
+2013-04-04 12:00:00,BLTBFS_M[connect_mach],BLTBFS,            [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,ADP,CTL,  Adaptive item,  Adaptive item,111017,,,,gtc-root,,
+2013-04-04 12:00:00,ADPRS,ADP,    Rotation symmetrical adaptor,    Rotation symmetrical adaptor,111017,,,ADPRS,GTC-BASE,TRUE,
+2013-04-04 12:00:00,ADPRS_M[connect_mach],ADPRS,      Machine side [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,ADPRS_M[connect_mach]_W[connect_wkps],ADPRS_M[connect_mach],        Workpiece side [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,ADPCL,ADP,    Collet,    Collet,101242,,,ADPCL,GTC-BASE,TRUE,
+2013-04-04 12:00:00,ADPCL_M[connect_mach],ADPCL,      Machine side [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,ADPCL_M[connect_mach]_W[connect_wkps],ADPCL_M[connect_mach],        Workpiece side [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,ADPNR,ADP,    Non-rotating adaptor,    Non-rotating adaptor,110510,,,ADPNR,GTC-BASE,TRUE,
+2013-04-04 12:00:00,ADPNR_M[connect_mach],ADPNR,      Machine side [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,ADPNR_M[connect_mach]_W[connect_wkps],ADPNR_M[connect_mach],        Workpiece side [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,ADPSL,ADP,    Sleeve,    Sleeve,,,,ADPSL,GTC-BASE,TRUE,
+2013-04-04 12:00:00,ADPSL_M[connect_mach],ADPSL,      Machine side [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,ADPSL_M[connect_mach]_W[connect_wkps],ADPSL_M[connect_mach],        Workpiece side [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,ADPTURR,ADP,    Mini turret,    Mini turret,,,,ADPTURR,GTC-BASE,TRUE,
+2013-04-04 12:00:00,ADPTURR_M[connect_mach],ADPTURR,      Machine side [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,ADPTURR_M[connect_mach]_W[connect_wkps],ADPTURR_M[connect_mach],        Workpiece side [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,ADPMIL,ADP,    Adaptor for milling cutter,    Adaptor for milling cutter,,,,,gtc-root,,
+2013-04-04 12:00:00,ADPMILBC,ADPMIL,      Body for cartridge cutter,      Body for cartridge milling cutter,,,,ADPMILBC,GTC-BASE,TRUE,
+2013-04-04 12:00:00,ADPMILBC_M[connect_mach],ADPMILBC,        Machine side [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,ADPMILBC_M[connect_mach]_W[connect_wkps],ADPMILBC_M[connect_mach],          Workpiece side [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,ADPBOR,ADP,    Adaptor for boring tool,    Adaptive item for boring tool,,,,,gtc-root,,
+2013-04-04 12:00:00,ADPBORR,ADPBOR,      Rough boring,      Rough boring adaptor,,,,ADPBORR,GTC-BASE,TRUE,
+2013-04-04 12:00:00,ADPBORR_M[connect_mach],ADPBORR,        Machine side [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,ADPBORR_M[connect_mach]_W[connect_wkps],ADPBORR_M[connect_mach],          Workpiece side [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,ADPBORF,ADPBOR,      Fine boring,      Fine boring adaptor,,,,ADPBORF,GTC-BASE,TRUE,
+2013-04-04 12:00:00,ADPBORF_M[connect_mach],ADPBORF,        Machine side [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,ADPBORF_M[connect_mach]_W[connect_wkps],ADPBORF_M[connect_mach],          Workpiece side [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,ADPBORBR,ADPBOR,      Bridge,      Bridge for boring tool,,,,ADPBORBR,GTC-BASE,TRUE,
+2013-04-04 12:00:00,ADPBORBR_M[connect_mach],ADPBORBR,        Machine side [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,ADPBORBR_M[connect_mach]_W[connect_wkps],ADPBORBR_M[connect_mach],          Workpiece side [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,ADPBORSL,ADPBOR,      Slide,      Slide for boring tool,,,,ADPBORSL,GTC-BASE,TRUE,
+2013-04-04 12:00:00,ADPBORSL_M[connect_mach],ADPBORSL,        Machine side [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,ADPBORSL_M[connect_mach]_W[connect_wkps],ADPBORSL_M[connect_mach],          Workpiece side [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,ADPBOREX,ADPBOR,      Extension,      Extension for boring tool,,,,ADPBOREX,GTC-BASE,TRUE,
+2013-04-04 12:00:00,ADPBOREX_M[connect_mach],ADPBOREX,        Machine side [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,ADPBOREX_M[connect_mach]_W[connect_wkps],ADPBOREX_M[connect_mach],          Workpiece side [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,ADPBORSH,ADPBOR,      Shim,      Shim for boring tool,,,,ADPBORSH,GTC-BASE,TRUE,
+2013-04-04 12:00:00,ADPBORSH_M[connect_mach],ADPBORSH,        Machine side [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,ADPBORSH_M[connect_mach]_W[connect_wkps],ADPBORSH_M[connect_mach],          Workpiece side [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,ADPBORFH,ADPBOR,      Fine boring head,      Fine boring head for boring tool,,,,ADPBORFH,GTC-BASE,TRUE,
+2013-04-04 12:00:00,ADPBORFH_M[connect_mach],ADPBORFH,        Machine side [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,ADPBORFH_M[connect_mach]_W[connect_wkps],ADPBORFH_M[connect_mach],          Workpiece side [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,ADPBORCW,ADPBOR,      Cover and counterweight,      Cover and counterweight for boring tool,,,,ADPBORCW,GTC-BASE,TRUE,
+2013-04-04 12:00:00,ADPBORCW_M[connect_mach],ADPBORCW,        Machine side [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,ADPBORCW_M[connect_mach]_W[connect_wkps],ADPBORCW_M[connect_mach],          Workpiece side [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,ADPIC,ADP,    Adaptor for tool with int chip evac,    Adaptive item for tool with internal chip evacuation,,,,,gtc-root,,
+2013-04-04 12:00:00,ADPICT,ADPIC,      Tube,      Tube for tool with internal chip evacuation,,,,ADPICT,GTC-BASE,TRUE,
+2013-04-04 12:00:00,ADPICT_M[connect_mach],ADPICT,        Machine side [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,ADPICT_M[connect_mach]_W[connect_wkps],ADPICT_M[connect_mach],          Workpiece side [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,ADPICC,ADPIC,      Chuck,      Chuck for tool with internal chip evacuation,,,,ADPICC,GTC-BASE,TRUE,
+2013-04-04 12:00:00,ADPICC_M[connect_mach],ADPICC,        Machine side [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,ADPICC_M[connect_mach]_W[connect_wkps],ADPICC_M[connect_mach],          Workpiece side [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,ADPOU,ADP,    Oil supply unit,    Oil supply unit,,,,ADPOU,GTC-BASE,TRUE,
+2013-04-04 12:00:00,ADPOU_M[connect_mach],ADPOU,      Machine side [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,ADPOU_M[connect_mach]_W[connect_wkps],ADPOU_M[connect_mach],        Workpiece side [connection interface],,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,INS,CTL,  Insert,  Insert,120051,,,,gtc-root,,
+2013-04-04 12:00:00,INSI,INS,    ISO insert,    ISO defined insert,120066,,,INSI,GTC-BASE,TRUE,
+2013-04-04 12:00:00,INSI_M[insert_concept],INSI,       [insert concept],,,,,,GTC-SUB,TRUE,Adjusted class name
+2013-04-04 12:00:00,INSC,INS,    Concept insert,    Concept defined insert,111098,,,,gtc-root,,
+2013-04-04 12:00:00,INSCTRN,INSC,      Turning insert,      Turning insert,110328,,,INSCTRN,GTC-BASE,TRUE,
+2013-04-04 12:00:00,INSCTRN_M[insert_concept],INSCTRN,            [insert concept],,,,,,GTC-SUB,TRUE,Adjusted class name
+2013-04-04 12:00:00,INSCMIL,INSC,      Milling insert,      Milling insert,111098,,,INSCMIL,GTC-BASE,TRUE,
+2013-04-04 12:00:00,INSCMIL_M[insert_concept],INSCMIL,            [insert concept],,,,,,GTC-SUB,TRUE,Adjusted class name
+2013-04-04 12:00:00,INSCDRL,INSC,      Drilling insert,      Drilling insert,120605,,,INSCDRL,GTC-BASE,TRUE,
+2013-04-04 12:00:00,INSCDRL_M[insert_concept],INSCDRL,            [insert concept],,,,,,GTC-SUB,TRUE,Adjusted class name
+2013-04-04 12:00:00,INSCREA,INSC,      Reaming insert,      Reaming insert,,,,INSCREA,GTC-BASE,TRUE,
+2013-04-04 12:00:00,INSCREA_M[insert_concept],INSCREA,            [insert concept],,,,,,GTC-SUB,TRUE,Adjusted class name
+2013-04-04 12:00:00,INSCBRO,INSC,      Broaching insert,      Broaching insert,,,,INSCBRO,GTC-BASE,TRUE,
+2013-04-04 12:00:00,INSCBRO_M[insert_concept],INSCBRO,            [insert concept],,,,,,GTC-SUB,TRUE,Adjusted class name
+2013-04-04 12:00:00,INSCPRT,INSC,      Parting off insert,      Parting off insert,110380,,,INSCPRT,GTC-BASE,TRUE,
+2013-04-04 12:00:00,INSCPRT_M[insert_concept],INSCPRT,            [insert concept],,,,,,GTC-SUB,TRUE,Adjusted class name
+2013-04-04 12:00:00,INSCPRF,INSC,      Profiled insert,      Profile insert,110618,,,,gtc-root,,
+2013-04-04 12:00:00,INSCPRFG,INSCPRF,        Groove profile,        Groove profile insert,110458,,,INSCPRFG,GTC-BASE,TRUE,
+2013-04-04 12:00:00,INSCPRFG_M[insert_concept],INSCPRFG,            [insert concept],,,,,,GTC-SUB,TRUE,Adjusted class name
+2013-04-04 12:00:00,INSCPRFTH,INSCPRF,        Thread profile,        Thread profile insert,110618,,,,gtc-root,,
+2013-04-04 12:00:00,INSCPRFTHF,INSCPRFTH,          full profile,          Full thread profile insert,110618,,,INSCPRFTHF,GTC-BASE,TRUE,
+2013-04-04 12:00:00,INSCPRFTHF_M[insert_concept],INSCPRFTHF,            [insert concept],,,,,,GTC-SUB,TRUE,Adjusted class name
+2013-04-04 12:00:00,INSCPRFTHP,INSCPRFTH,          partial profile,          Partial thread profile insert,,,,INSCPRFTHP,GTC-BASE,TRUE,
+2013-04-04 12:00:00,INSCPRFTHP_M[insert_concept],INSCPRFTHP,            [insert concept],,,,,,GTC-SUB,TRUE,Adjusted class name
+2013-04-04 12:00:00,INSCPRFX,INSCPRF,        Specific profiled insert,        Specific profile insert,110843,,,INSCPRFX,GTC-BASE,TRUE,
+2013-04-04 12:00:00,INSCPRFX_M[insert_concept],INSCPRFX,            [insert concept],,,,,,GTC-SUB,TRUE,Adjusted class name
+2013-04-04 12:00:00,ASY,CTL,  Assembly item,  Assembly item,,,,ASY,GTC-BASE,TRUE,
+2013-04-04 12:00:00,ASY?,ASY,    (children to be defined),,,,,,GTC-SUB,TRUE,
+2013-04-04 12:00:00,ACC,CTL,  Accessory item,  Accessory item,,,,ACC,GTC-BASE,TRUE,
+2015-05-20 12:00:00,ACCRN,ACC,    Retention Knob,    Retention Knob,,,,,GTC-SUB,TRUE,New class (Proposal)
+2013-04-04 12:00:00,ACC?,ACC,    (children to be defined),,,,,,GTC-SUB,TRUE,

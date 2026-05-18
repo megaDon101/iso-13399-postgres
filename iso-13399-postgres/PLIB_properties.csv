@@ -1,0 +1,322 @@
+plib_code,mnemonic,full_name,description,bsu_version,owner_entity_type
+71E03063ABD6E,drvs,drive size,size of the portion of an item that is used to lock or unlock the item or transferring torque between items,002,NON_DEPENDENT_P_DET
+71FD1E2EDD973,ctx,cutting point translation X-direction,difference in the direction of the X-axis between the cutting reference point and the theoretical sharp point,001,NON_DEPENDENT_P_DET
+71CEAEC114603,tpt,thread profile type,identifier for how much of  the profile of a threading insert is used.,001,NON_DEPENDENT_P_DET
+71EF07D86AFD8,,tool handling,identifier for if a connection has a feature to enable its manipulation by an automatic device,002,NON_DEPENDENT_P_DET
+71CF299257986,oaw,overall width,largest dimension of an item in the direction of the X-axis including the master insert where applicable,002,NON_DEPENDENT_P_DET
+71EAC48EC5DE0,dn,neck diameter,diameter of that portion of a tool item body or adaptive item body that is smaller than the diameters on either side of it.,001,NON_DEPENDENT_P_DET
+71D07574A61E8,lh,head length,length of the head of a tool item ,001,NON_DEPENDENT_P_DET
+71E03062EC034,hdd,head diameter,the distance between two parallel tangents of the circular cross section of a head,001,NON_DEPENDENT_P_DET
+71EE070696F08,gep,guide element property,identifier for the existence of guide elements supporting the operation of the tool item or adaptive item,001,NON_DEPENDENT_P_DET
+71E01D92C41E8,dcb,connection bore diameter,diameter of the hole in the centre of  a tool or adaptive item used for making a connection.,001,DEPENDENT_P_DET
+71DF5C0761888,kyp,keyway property,possession of a keyway by either a tool item or an adaptive item,001,NON_DEPENDENT_P_DET
+71EAC4A2B6544,ta,taper angle,included angle between generatrixes in the axial plane section,002,NON_DEPENDENT_P_DET
+71EC659C9B3CE,tpd,tapered,indicator for whether an object becomes smaller in dimensions towards one end,002,NON_DEPENDENT_P_DET
+71DCCC62CD9EE,uldr,usable length diameter ratio,ratio between usable length maximum and cutting diameter ,001,NON_DEPENDENT_P_DET
+71EBC1E026769,ln,neck length,length of that portion of a tool item body or adaptive item body where the diameter is smaller than the diameters on either side of it,001,NON_DEPENDENT_P_DET
+71EAC48CAD407,cbdp,connection bore depth,depth of the hole in the centre of  a tool or adaptive item used for making a connection.,001,DEPENDENT_P_DET
+71ED6AA478A3D,lb,body length,"distance measured along the Z-axis from that point of the item closest to the workpiece, including the cutting item for a tool item but excluding a protruding locking mechanism for an adaptive item, to a defined change in the external form of a tool item or an adaptive item",002,NON_DEPENDENT_P_DET
+71EAC81F88336,bcdp,body clearance depth,the radial distance from the leading edge of the land to the portion of a fluted land reduced in diameter to provide diameter clearance.,001,NON_DEPENDENT_P_DET
+71DCCC5A4FD18,phd,premachined hole diameter,minimum allowed hole diameter to avoid interference between the tool body and workpiece.,001,NON_DEPENDENT_P_DET
+71DF1538E7378,zadj,insert adjustable count,number of inserts whose position at their location can be adjusted,001,NON_DEPENDENT_P_DET
+71CEAEC0139BB,pdy,profile distance ey,distance measured in the XY-plane from the profile point of a threading insert to a plane parallel to the XZ-plane that passes through the theoretical sharp corner of the sides of the insert.,001,NON_DEPENDENT_P_DET
+71CE7A9F0C79F,sc,insert shape code,identifier for the shape of a regular insert.,001,NON_DEPENDENT_P_DET
+71CEAEBF2A69F,ssc,insert seat size code,identifier for the size of a replaceable cutting item and the seat on a tool item or an assembly item.,001,NON_DEPENDENT_P_DET
+71EBB339ED2BD,lscn,clamping length minimum,smallest portion of the connection feature that is necessary to ensure that no damage is caused neither to the tool item nor to the adaptive item,001,NON_DEPENDENT_P_DET
+71EBC1EA293DC,tcpd,tap chamfer point diameter ,diameter of the cutting edge of the leading end of the chamfered  section of a threading tap,002,NON_DEPENDENT_P_DET
+71EC65A21E9D4,scty,section style,description of the shape of the cross section of an object or feature,002,NON_DEPENDENT_P_DET
+71CEAE9B489F4,cedc,cutting edge count,number of edges of a cutting profile that can participate in the cutting process,001,NON_DEPENDENT_P_DET
+71D0846570977,maximum internal cutting diame,cutting diameter internal maximum,largest  adjustable internal diameter of a circle created by a cutting reference point revolving around the tool axis of a rotating tool item . ,001,NON_DEPENDENT_P_DET
+71D084655A2F7,minimum internal cutting diame,cutting diameter internal minimum,smallest adjustable internal diameter of a circle created by a cutting reference point revolving around the tool axis of a rotating tool item. ,001,NON_DEPENDENT_P_DET
+71D0846545C4E,internal cutting diameter,cutting diameter internal,diameter of a circle created by a cutting reference point revolving around the tool axis of a rotating tool item ,001,NON_DEPENDENT_P_DET
+71EAC0F0EFDB6,asp,adjusting screw protrusion,Distance from the body of the tool item or adaptive item to the end of the adjusting screw,001,NON_DEPENDENT_P_DET
+71EAC82313165,wbthk,web thickness,dimension of the web measured normal to the axis at the front end of a fluted tool item,001,NON_DEPENDENT_P_DET
+71EAC8210DF36,flw,fluted land width,distance between the leading edge of the margin and the heel ,001,NON_DEPENDENT_P_DET
+71EAC823D95A7,wbtp,web taper,the increase in web thickness from the front end of a fluted tool item towards the shank expressed by the ratio of the reduction in diameter and the length of measurement,001,NON_DEPENDENT_P_DET
+71DF151D6E547,sta,step included angle,angle between a major cutting edge on a step of a stepped tool and the same cutting edge rotated 180 degrees about its tool axis,002,NON_DEPENDENT_P_DET
+71DCCC47221E0,sd,step distance,distance on stepped tools from a plane parallel to the XY-plane through the point on the cutting edge that is furthest from the origin of the coordinate system along the Z-axis to the cutting reference point of the corresponding step diameter,002,NON_DEPENDENT_P_DET
+71DCCC3DFA23A,sdl,step diameter length,length of a portion of a stepped tool that is related to a corresponding cutting diameter measured from the cutting reference point  of that cutting diameter to the point on the next cutting edge at which the diameter start to change,001,NON_DEPENDENT_P_DET
+71DCCC3BD1B96,nos,step count,total number of different cutting diameters performed by the same tool in the same operation,002,NON_DEPENDENT_P_DET
+71CE7AA0972DB,m,m-dimension,distance between the nominal inscribed circle and the corner of an insert that has the primary included angle,001,NON_DEPENDENT_P_DET
+71CF2985AA87C,cnd,coolant entry diameter,dimension of the opening through which coolant can enter the machine side of a tool item or an adaptive item.,001,NON_DEPENDENT_P_DET
+71FD1E2F66B38,cty,cutting point translation Y-direction,difference in the direction of the Y-axis between the cutting reference point and the theoretical sharp point,001,NON_DEPENDENT_P_DET
+71CE7AA02C1CC,krins,cutting edge angle major,angle between the major cutting edge and the wiper edge,001,NON_DEPENDENT_P_DET
+71CF298870946,ls,shank length,dimension of the length of a shank,001,NON_DEPENDENT_P_DET
+71CE7A9DFA23A,insl,insert length,distance between two sides of an insert when the inscribed circle cannot be used because of the shape of the insert,001,NON_DEPENDENT_P_DET
+71CED022114EC,wep,wiper edge property,possession of a wiper edge on a cutting item.,002,NON_DEPENDENT_P_DET
+71CE7A9936610,iic,insert interface code,identifier for the condition that a particular replaceable cutting item can be mounted on a particular tool item ,001,NON_DEPENDENT_P_DET
+71DF153A691F2,rpmx,rotational speed maximum,maximum rotational speed allowed for an item,002,NON_DEPENDENT_P_DET
+71CF2998A1609,side rake angle,rake angle radial ,angle between the tool rake plane and a plane parallel to the XZ-plane measured in a plane parallel to the XY-plane,003,NON_DEPENDENT_P_DET
+71CF29990C41F,back rake angle,rake angle axial,angle between the tool rake plane and a plane parallel to the XZ-plane measured in a plane parallel to the YZ-plane,003,NON_DEPENDENT_P_DET
+71DCD394BB20E,projection length,protruding length,dimension from the XY-plane to the furthest point of the tool item or adaptive item measured in the Z direction,002,NON_DEPENDENT_P_DET
+71CEAEBD5A66A,cdx,cutting depth maximum,maximum penetration of a cutting edge on the first infeed motion measured parallel to the feed direction ,001,NON_DEPENDENT_P_DET
+71DF153FA5F85,tctr,thread tolerance class ,identifier for the tolerances of a thread,001,NON_DEPENDENT_P_DET
+71EBBAA3BCA70,tdz,thread diameter size,descriptor to identify the diameter of a threaded portion of an item,001,NON_DEPENDENT_P_DET
+71D07569F8BC3,cwx,cutting width maximum,maximum width of the cut made by  a particular combination of a tool item and cutting item(s),001,NON_DEPENDENT_P_DET
+71CF29862B277,dmm,shank diameter,dimension of the diameter of a cylindrical portion of a tool item or an adaptive item that can participate in a connection,001,NON_DEPENDENT_P_DET
+71E02C679DC6D,tcs,tap chamfer style,identifer for the shape of the chamfer of a threading type,002,NON_DEPENDENT_P_DET
+71DCD00CBBC2A,nce,cutting end count,label that defines whether a tool item has cutting capabilities on one or both ends.,001,NON_DEPENDENT_P_DET
+71DCD39338974,,functional length,"distance from the gauge plane or from the end of the shank, if a gauge plane does not exist, to the cutting reference point determined by the main function of the tool",001,NON_DEPENDENT_P_DET
+71D07576C0558,apmx,depth of cut maximum,maximum engagement of the cutting edge or edges with the workpiece measured perpendicular to the feed motion.,001,NON_DEPENDENT_P_DET
+71EBDBF5060E6,dcon,connection diameter,nominal dimension of the diameter of a cylindrical portion of a tool item or an adaptive item that can participate in a connection,001,DEPENDENT_P_DET
+71E02C5C2EED3,td,thread diameter,diameter of an imaginary cylindrical surface tangential to the crests of an external thread or to the roots of an internal thread,001,NON_DEPENDENT_P_DET
+71DF153B4ABCD,ttpid,tap type identifier,identifier for the type of a tapping tool,001,NON_DEPENDENT_P_DET
+71DCCFEBB883E,nof,flute count,number of chip removal paths on a item,001,NON_DEPENDENT_P_DET
+71EAC472BD116,bhta,body half taper angle,angle of the transition between two diameters of the body of a tool item or adaptive item measured from the item axis,001,NON_DEPENDENT_P_DET
+71EBB332C60EB,htb,body height,the distance measured along the Y-axis between the extremes of the body excluding any protrusion of the locking mechanisms,002,NON_DEPENDENT_P_DET
+71EBB33490FDA,lu,usable length,recommended length of a cutting tool that can be used in a particular cutting operation ,001,NON_DEPENDENT_P_DET
+71CF2992BDBCC,,usable length maximum,maximum length of a cutting tool that can be used in a particular cutting operation ,001,NON_DEPENDENT_P_DET
+71DCD3B16750B,lbx,body length maximum,"the distance measured along the Z axis from that point of the item closest to the workpiece, including the cutting item for a tool item but excluding a protruding locking mechanism for an adaptive item, to either the front of the flange on a flanged body or the beginning of the connection interface feature on the machine side for cylindrical or prismatic shanks.",002,NON_DEPENDENT_P_DET
+71CE7A9751A90,bw,insert body width,width of the portion of the cutting item which is mounted on the tool item,001,NON_DEPENDENT_P_DET
+71CED04F3300A,adc,adaptor clamp,method of retaining an adaptor,001,NON_DEPENDENT_P_DET
+71CE7E6520B87,ral,relief angle left hand,angle measured in the xy-plane in a negative direction (clockwise) between a plane parallel to the Y-axis and the left hand relief edge of the profile of a cutting item ,002,NON_DEPENDENT_P_DET
+71CE7AA1E3D75,tce,tipped cutting edge code,identifier for the style and the numbers of modified cutting edges composed of materials other than the main body of the cutting item.,001,NON_DEPENDENT_P_DET
+71CE7AA3440B4,psirl,cutting edge angle major left hand,angle in the XY-plane between the X-axis and the major cutting edge measured in a negative direction (clockwise),001,NON_DEPENDENT_P_DET
+71D075633189D,cxt,coolant exit thread size,identifier for the thread at the coolant exit on the workpiece side.,001,NON_DEPENDENT_P_DET
+71CEAEBED837E,par,profile angle right hand,angle measured in the XY-plane in a negative direction (clockwise) between a plane parallel to the Y-axis and the right hand cutting edge of the profile of a cutting item ,002,NON_DEPENDENT_P_DET
+71CE7AA78C2F0,psirr,cutting edge angle major right hand, angle in the XY-plane between the X-axis and the major cutting edge measured in a positive direction (counter clockwise),001,NON_DEPENDENT_P_DET
+71CEAEBEAB020,pal,profile angle left hand,angle measured in the XY-plane in a positive direction (counter clockwise) between a plane parallel to the Y-axis and the left hand cutting edge of the profile of a cutting item ,003,NON_DEPENDENT_P_DET
+71CE7AA215888,tc,tolerance class insert,"identifier for the tolerances of the inscribed circle, the insert thickness and the m-dimension on a replaceable cutting item ",002,NON_DEPENDENT_P_DET
+71D0841ADC9E0,kww,keyway width,nominal width of a keyway in a tool item and an adaptive item,001,NON_DEPENDENT_P_DET
+71CE7AA249F88,bs,wiper edge length,measure of the length of a wiper edge of a cutting item,001,NON_DEPENDENT_P_DET
+71CE7E6569AB5,rar,relief angle right hand,angle measured in the xy-plane in a positive direction (counter clockwise) between a plane parallel to the Y-axis and the right hand relief edge of the profile of a cutting item ,002,NON_DEPENDENT_P_DET
+71DF1526AC952,lcb,overlapping capabilty,identifier for the capability to form assemblies of tool items that position cutting edges in sequence along a line or curve,002,NON_DEPENDENT_P_DET
+71CEAE9B67E4C,cnc,corner count,number of corners that participate in the cutting process,001,NON_DEPENDENT_P_DET
+71CEAEBF8A68E,nt,tooth count,number of teeth per cutting edge on a threading insert,001,NON_DEPENDENT_P_DET
+71CF298751FCF,b,shank width,dimension of the width of a shank,001,NON_DEPENDENT_P_DET
+71CEAEBDE5798,pfs,profile style code,identifier for the profile of an irregular insert.,001,NON_DEPENDENT_P_DET
+71CEAEBF0C234,pna,profile included angle,angle subtended by the cutting edges of an irregular insert ,001,NON_DEPENDENT_P_DET
+71D1C82A5036D,inclp,inscribed circle property,possession by a cutting insert type of an inscribed circle,001,NON_DEPENDENT_P_DET
+71CEAEBE2B825,cw,cutting width,width of the cut made by  the cutting item(s) as it (they) penetrates into the work surface.,001,NON_DEPENDENT_P_DET
+71DD6C950E7CC,cecv,cutting edge curvature,curvature of the major cutting edge measured in the xy-plane,001,DEPENDENT_P_DET
+71CED05149532,mxc,clamping force maximum,greatest force that can be applied by an assembly item,001,NON_DEPENDENT_P_DET
+72550E143C993,,insert thickness total,"distance between the bottom and the top surface of a replaceable cutting item, if the top of the surface is above or below the cutting edge",001,NON_DEPENDENT_P_DET
+72550DF97C965,ccp,chamfer corner  property,possession of a chamfered corner,001,NON_DEPENDENT_P_DET
+71CEAEBFEF1B4,pdx,profile distance ex,distance measured in the XY-plane from the profile point of a threading insert to the side of the insert  that is parallel to the YZ-plane.,001,NON_DEPENDENT_P_DET
+71CF29872F0AB,hand,hand,identifier used for the direction of rotation of rotating tool items and rotating adaptive items and for the position of the cutting edge of a stationary tool item and for the position of the connection used for a tool item or adaptive item with respect to the axis of the item and for the orientation of a replaceable cutting item with respect to the insert reference system and for the orientation of  a clamp,001,NON_DEPENDENT_P_DET
+71DD7011A3D86,rcp,rounded corner property,possession of a corner with a constant radius,002,DEPENDENT_P_DET
+71CE7A9FB11C3,w1,insert width,distance between two sides of an insert when the inscribed circle cannot be used because of the shape of the insert.,001,NON_DEPENDENT_P_DET
+72550A75A58F9,gacirp,gauge circle property,possession of a measuring device such as gauge roll or gauge ball to control dimensions of an item,001,NON_DEPENDENT_P_DET
+71CE7AA1998FF,noi,insert index count,number of equivalent positions in which a replaceable cutting item can be used.,001,NON_DEPENDENT_P_DET
+71CE7A9F5308C,s,insert thickness,distance between the bottom and the cutting edge of a replaceable cutting item.,001,NON_DEPENDENT_P_DET
+71D1C829BC044,fxhlp,fixing hole property,possession by a cutting insert type of a hole through the body of the insert that is used for attaching the insert to a tool item,002,NON_DEPENDENT_P_DET
+71CE7A96BC122,epsr,insert included angle,angle between the major and the minor cutting edges of a cutting item,001,NON_DEPENDENT_P_DET
+71CE7A85CC4F9,cb,chip breaker face count,number of faces of a cutting item that have chipbreakers,001,NON_DEPENDENT_P_DET
+71E019EBAE1B1,prfrad,profile radius,radius of curvature of a cutting profile,001,NON_DEPENDENT_P_DET
+72550E426D771,thl,threading length,length of the portion of a tool item or cutting item that can be used to produce a thread,001,NON_DEPENDENT_P_DET
+71CEAEC08D4B0,tp,thread pitch,axial distance between a point on a thread flank and the equivalent point of the immediately adjacent and corresponding flank,001,NON_DEPENDENT_P_DET
+71D1A6AAC8707,tpi,threads per inch,number of threads in a one inch length of a thread,001,NON_DEPENDENT_P_DET
+71D1A6AB8F739,tpix,threads per inch maximum,maximum number of threads in a one inch length of a threaded work piece that can be produced by a cutting item,001,NON_DEPENDENT_P_DET
+71D1A6AB6FB19,tpin,threads per inch minimum,minimum number of threads in a one inch length of a threaded work piece that can be produced by a cutting item,001,NON_DEPENDENT_P_DET
+71D1A6A16E6ED,ttp,thread type,identifier for whether a thread is internal or external ,001,NON_DEPENDENT_P_DET
+71CE7A979F41C,ih,insert hand,identifier for the orientation of a replaceable cutting item with respect to the insert reference system,001,NON_DEPENDENT_P_DET
+71D1A6A283836,tpx,thread pitch maximum,maximum thread pitch that a cutting item can produce,001,NON_DEPENDENT_P_DET
+71D1A6A247E1F,tpn,thread pitch minimum,minimum thread pitch which a cutting item can produce,001,NON_DEPENDENT_P_DET
+71D1A69F60053,thft,thread form type,identifier for the cross section shape of a thread profile ,001,NON_DEPENDENT_P_DET
+71CEAEC02FEBD,tg,taper gradient,ratio of the difference between the diameters of two sections to the distance between these sections,001,NON_DEPENDENT_P_DET
+71CED04867743,rid,row identifier,identifer for whether a tool item has cutting edges on one  level or on multiple levels,001,NON_DEPENDENT_P_DET
+71CED04F920EC,atc,adaptor tool clamp,method of holding a tool item in an adaptive item,001,NON_DEPENDENT_P_DET
+71CF2985FC5FC,cxsc,coolant exit style code,identifier for the arrangement for the exit of the coolant supply ,002,NON_DEPENDENT_P_DET
+71CF298963036,crnt,coolant radial entry thread size,identifier for the thread at the radial coolant entry on the machine side.,001,NON_DEPENDENT_P_DET
+71CF29869CA0F,dcp,data chip provision,indication of provision for a data chip on a tool item or an an adaptive item,001,NON_DEPENDENT_P_DET
+71CED03D70452,dpc,damping property,ability to reduce the amplitude of  vibrations,001,NON_DEPENDENT_P_DET
+71EBBA9E78025,adjby,adjustability,indicator for if an item is adjustable,002,NON_DEPENDENT_P_DET
+71CF298F4E487,hbl,head bottom offset length,dimension of the length of the reinforced portion of the bottom of the head of a tool item measured from the cutting point.,001,NON_DEPENDENT_P_DET
+71CF298AA8D1F,cxd,coolant exit diameter,dimension of the opening through which coolant can exit the workpiece side of a tool item or an adaptive item,001,NON_DEPENDENT_P_DET
+71EAC0CAB861F,bbd,balanced by design,Identifier whether the tool item or adaptive item is designed with its center of gravity on the rotational center line or not.,001,NON_DEPENDENT_P_DET
+71CE7AA2E50BE,bsr,wiper edge radius,measure of the radius of a curved wiper edge.,001,NON_DEPENDENT_P_DET
+71CF298EEB4F5,mtp,clamping type code,identifier for the type of clamping mechanism to hold the replaceable insert on the tool item,001,NON_DEPENDENT_P_DET
+71CE7A968C8FE,d1,fixing hole diameter,diameter of the hole through the body of an insert ,001,NON_DEPENDENT_P_DET
+71DF5BE5BCEBE,ha,thread height theoretical,distance along the axis of symmetry of the thread cutting profile from the theoretical sharp point to the point where a normal to this axis meets the cutting profile at the maximum usable cutting edge length,001,NON_DEPENDENT_P_DET
+71DF5BE617131,hb,thread height difference,distance along the axis of symmetry of the thread cutting profile from the theoretical sharp point to the actual cutting edge,001,NON_DEPENDENT_P_DET
+71DF5BE65F86F,hc,thread height actual,distance along the axis of symmetry of the thread cutting profile from the actual cutting edge to the point where a normal to this axis meets the cutting profile at the maximum usable cutting edge length,001,NON_DEPENDENT_P_DET
+71DF154901E44,ztt,taper thread count,number of incomplete threads in the tapered section of a threading tool,001,NON_DEPENDENT_P_DET
+71E033FCBB61C,thdh,thread hand,direction of the screwing motion of a screw thread,002,NON_DEPENDENT_P_DET
+71DD9D00193A7,ra,relief angle,angle measured in the xy-plane between a plane parallel to the Y-axis and the relief edge of the profile of a cutting item,002,NON_DEPENDENT_P_DET
+71CE7A97711B8,ifs,insert mounting style code,identifer for the method of holding a cutting item onto a tool item.,001,NON_DEPENDENT_P_DET
+71DD7031A98E9,as,clearance angle wiper edge,angle of the flank of the wiper edge of the insert measured from a plane tangential to the wiper edge and perpendicular to the XY-plane of the coordinate system,001,DEPENDENT_P_DET
+71D08096F930C,drva,drive angle,angle between the driving mechanism locator on a tool item and the main cutting edge,001,NON_DEPENDENT_P_DET
+71EBC1EBC839F,srn,stock removal minimum,least thickness of material that can be removed in a reaming operation,001,NON_DEPENDENT_P_DET
+71DF151EA5CF1,blq,balance quality code,identifier for the residual out-of-balance effect of a rotating tool,001,NON_DEPENDENT_P_DET
+71CF298A3A99A,dix,tool changer interference diameter maximum,"maximum diameter of a portion of a tool item or adaptive item body,  that will not interfere with the tool changing operation.",001,NON_DEPENDENT_P_DET
+71CF2989AF0E0,lin,tool changer interference length minimum,minimum length of a portion of a tool item or adaptive item body  that will not interfere with the tool changing operation.,001,NON_DEPENDENT_P_DET
+71DF1523EE184,casc,cartridge size code,identifier for the size of a cartridge,001,NON_DEPENDENT_P_DET
+71D075730A82B,hbkl,head back offset length,dimension of the length of the reinforced portion of the back of the head of a tool item measured from the cutting point.,001,NON_DEPENDENT_P_DET
+71EAC83CD450B,alp,clearance angle axial,angle between the flank of the major or minor cutting edge and a plane parallel to the XY-plane passing through that cutting edge measured in the YZ-plane,002,NON_DEPENDENT_P_DET
+71DCCFF75E485,zefp,peripheral effective cutting edge count,number of cutting edges that are effective around the periphery of the tool item,001,NON_DEPENDENT_P_DET
+71DCD00054F65,znp,peripheral mounted insert count,total number of inserts mounted on the periphery of the cutting profile,001,NON_DEPENDENT_P_DET
+71DCD00239812,zeff,face effective cutting edge count,number of cutting edges that are effective on the face of a tool item,001,NON_DEPENDENT_P_DET
+71DCD0029BBE7,znf,face mounted insert count,total number of inserts mounted on the face of the tool item,001,NON_DEPENDENT_P_DET
+71CF298A76B66,crks,connection retention knob thread size,identifer for the size of the thread size of the device that pulls a cutting tool into the machine tool,001,DEPENDENT_P_DET
+71D087D97FCE3,dcsfms,contact surface diameter machine side,diameter of the surface on the machine side forming the contact between a tool item and an adaptor item ,001,NON_DEPENDENT_P_DET
+71DF152D8CF7D,cpdf,cutting pitch differential,identifier for if the spacing of a sequence of cutting edges is not-equal,001,NON_DEPENDENT_P_DET
+71ED6A9AF7D1D,bd,body diameter,distance between parallel tangents on the circular cross section of a tool item or an adaptive item,001,NON_DEPENDENT_P_DET
+71EBC1EC0BB22,srx,stock removal maximum,greatest thickness of material that can be removed in a reaming operation,001,NON_DEPENDENT_P_DET
+71D08462F8185,bdx,body diameter maximum,largest diameter of the body of a tool item or an adaptive item,001,NON_DEPENDENT_P_DET
+71EAC83B73825,alf,clearance angle radial,angle between the flank of the major or minor cutting edge and a plane parallel to the YZ-plane passing through that cutting edge measured in the XY-plane,002,NON_DEPENDENT_P_DET
+71DF15283219C,cpdn,cutting pitch density,identifier for the density of inserts in a cutter,001,NON_DEPENDENT_P_DET
+71D084653E57F,external cutting diameter,cutting diameter,diameter of a circle created by a cutting reference point revolving around the tool axis of a rotating tool item ,001,NON_DEPENDENT_P_DET
+71D084656CE32,max ext cutting diameter,cutting diameter maximum,largest  diameter of a circle created by a cutting edge revolving around the tool axis of a rotating tool item ,001,NON_DEPENDENT_P_DET
+71EBC1EC3E8B6,srr,stock removal recommended,thickness of material that is recommended to be removed in a reaming operation,001,NON_DEPENDENT_P_DET
+71D0846556288,min ext cutting diameter,cutting diameter minimum,smallest diameter of a circle created by a cutting edge revolving around the tool axis of a rotating tool item ,001,NON_DEPENDENT_P_DET
+71D08418C3B4D,alo,clearance angle orthogonal ,angle between the major flank of the master insert and the tool cutting edge plane measured in a plane perpendicular to the tool cutting edge plane,001,NON_DEPENDENT_P_DET
+71DD701175021,iep,interupted edge property,possession by a cutting item of an interupted cutting edge,001,DEPENDENT_P_DET
+71D08099F1DDC,,plunge depth maximum,that portion of the maximum depth of cut that can be achieved without interference between the tool item and the workpiece when the plunging direction is perpendicular to the primary feed direction.,001,NON_DEPENDENT_P_DET
+71DD7030E0A00,ann,clearance angle minor,angle of the minor flank of the insert measured from a plane tangential to the minor cutting edge and perpendicular to the XY-plane of the coordinate system,001,DEPENDENT_P_DET
+71D0845C77193,adjar,runout axial adjustment,magnitude of the range of adjustment parallel to the Z-axis to align cutting edges into the same axial position,002,NON_DEPENDENT_P_DET
+71CE7A96D9F7D,ic,inscribed circle diameter,diameter of a circle to which all edges of an equilateral insert are tangental.,001,NON_DEPENDENT_P_DET
+71CF30F9DFE37,psirins,insert lead angle,angle between the major edge and a plane that is perpendicular to the wiper edge ,001,NON_DEPENDENT_P_DET
+71DD703B84298,ctp,coating property,possession of a coating by a cutting item type,001,NON_DEPENDENT_P_DET
+71EEF5387E914,flgw,flange width,the least of the two largest dimensions across a rectangular  projecting rim or edge ,001,NON_DEPENDENT_P_DET
+71CF2993DC583,dcc,design configuration style code,identifier for the composition and features of a tool item,001,NON_DEPENDENT_P_DET
+71D102AE8A5A9,ccws,connection code workpiece side,identifier for the capability to connect a component to another component of a cutting tool on the workpiece side,001,NON_DEPENDENT_P_DET
+71D102AE3B252,ccms,connection code machine side,identifier for the capability to connect a component of a cutting tool to another component on the machine side,001,NON_DEPENDENT_P_DET
+71EAC828C8308,mw,margin width,dimension of the cylindrical leading edge of the fluted land measured perpendicular to the leading edge,001,NON_DEPENDENT_P_DET
+71CF29883E014,h,shank height,dimension of the height of a shank,001,NON_DEPENDENT_P_DET
+71EBAF896BE9A,lsc,clamping length,dimension of the length of that portion of a tool item or an adaptive item that can participate in a connection,001,NON_DEPENDENT_P_DET
+71EBC1E8857BE,oaln,overall length minimum,least allowable length of an item after regrinding,001,NON_DEPENDENT_P_DET
+71ED6E54B15C4,lscx,clamping length maximum,greatest portion of the connection feature that is necessary to ensure the normal function of the tool item or the adaptive item,001,NON_DEPENDENT_P_DET
+71D07543367C5,dmin,minimum bore diameter,minimum diameter that can be cut without interference between the workpiece and any part of the cutting tool.,001,NON_DEPENDENT_P_DET
+71EBC1EB8456A,lfn,functional length minimum,"least distance from the gauge plane or from the end of the shank, if a gauge plane does not exist, to the cutting reference point determined by the main function of the tool",001,NON_DEPENDENT_P_DET
+71DD6C95DA49B,l,cutting edge length,theoretical length of the cutting edge of a cutting item over sharp corners,001,DEPENDENT_P_DET
+71DD6C958C615,le,cutting edge effective length,portion of the length of a cutting edge of a cutting item that is intended to perform the cutting operation,001,DEPENDENT_P_DET
+71CE7AA05C819,m2,m2-dimension,distance between the nominal inscribed circle and the corner of an insert that has the secondary included angle,001,NON_DEPENDENT_P_DET
+71CED0217FA18,cbp,chip breaker property,possession by a profile of a chip breaker ,001,NON_DEPENDENT_P_DET
+71DD6C90953D8,cecc,cutting edge condition code,identifier for the state of a cutting edge,001,DEPENDENT_P_DET
+71D193F495583,wf2,functional width 2,distance between the cutting reference point and the front  seating surface of a turning tool,001,NON_DEPENDENT_P_DET
+71EBC1E1074AB,dg,gauge diameter,dimension of a measuring device such as a cylinder or a ball,001,NON_DEPENDENT_P_DET
+71D087D3F5E07,thub,hub thickness,total through thickness of the hub of a disc tool item.,001,NON_DEPENDENT_P_DET
+71D20799C721A,insd,insert diameter,distance between two parallel tangents to the cutting edge of a round insert,001,NON_DEPENDENT_P_DET
+71D087D3B17B0,dhub,hub diameter,diameter of the hub portion of a tool body,001,NON_DEPENDENT_P_DET
+71DCCFEC20115,fha,flute helix angle,angle of the flute measured through...to be defined.,001,NON_DEPENDENT_P_DET
+71DCCC27DEF53,lcf,length chip flute,length of the chip flute measured from the spot point to the end of the flute.,001,NON_DEPENDENT_P_DET
+71DCCFD064042,pl,point length,"distance from the front point or chisel edge of the cutting tool to the point that forms the full cutting diameter, measured parallel to the tool axis",001,NON_DEPENDENT_P_DET
+71DCCC4FEF366,sig,point angle,angle between the major cutting edge and the same cutting edge rotated 180 degrees about its tool axis,002,NON_DEPENDENT_P_DET
+71DD6C9394F40,bn,face land width,projected length of the face land measured from a plane that is orthogonal to the xy- plane and passes through the cutting edge ,001,DEPENDENT_P_DET
+71DCCFD24119E,ppl,pilot protruding length,distance from the outer most point of the pilot to the cutting reference point that forms the cutting diameter measured in a plane parallel to the tool feed plane,001,NON_DEPENDENT_P_DET
+71DCD0033973E,znc,cutting edge centre count,number of cutting edges that are able to cut across the center of the tool item axis,001,NON_DEPENDENT_P_DET
+71DD70308D3E3,an,clearance angle major,angle of the major flank of the insert measured from a plane tangential to the cutting edge and perpendicular to the XY-plane of the coordinate system,001,DEPENDENT_P_DET
+71CE7A870948A,lbb,chip breaker width,width of a chip breaker measured at the mid-point of its length,001,NON_DEPENDENT_P_DET
+71DD6C88F9210,kch,corner chamfer angle,angle of a chamfer on a corner measured from the major cutting edge,001,DEPENDENT_P_DET
+71DD6C895C25B,bch,corner chamfer length,nominal length of a chamfered corner measured in the XY-plane,001,DEPENDENT_P_DET
+71EAC496E7425,tmins,tangentially mounted insert,identifier whether the replaceable insert is tangentially mounted or not,001,NON_DEPENDENT_P_DET
+71CE7A9EDACA1,gan,insert rake angle,angle of the rake measured from the XY-plane perpendicular to the cutting edge,001,NON_DEPENDENT_P_DET
+71CE7A86A4264,cbmd,chip breaker manufacturers designation,,001,NON_DEPENDENT_P_DET
+71DD6C9332D2C,gb,face land angle,angle of the face land measured from the xy-plane ,001,DEPENDENT_P_DET
+71DD6C9371B86,flsc,face land size code,identifer for the width and the angle of a face land,001,DEPENDENT_P_DET
+71DD6C8ACA503,re,corner radius,nominal radius of a rounded corner measured in the XY-plane ,001,DEPENDENT_P_DET
+71DD6C89A120F,chw,corner chamfer width,projected length of the chamfer on a corner of a cutting item measured in the XY-plane parallel to the X-axis,001,DEPENDENT_P_DET
+71DF1538632D9,rmpx,ramping angle maximum,maximum angle for infeeding of a tool item to avoid interference with the workpiece,002,NON_DEPENDENT_P_DET
+71EBB342CC751,csp,coolant supply property,identification for whether a tool item or an adaptive item has a coolant supply,001,NON_DEPENDENT_P_DET
+71D078EB7C086,oal,overall length,largest dimension of an item in the direction of the Z-axis,002,NON_DEPENDENT_P_DET
+71ED6E16D5978,cub,connection unit basis,label to identify the system of units in which the design of the connection is defined.,001,NON_DEPENDENT_P_DET
+71FC193318002,czc,connection size code,"identifer for the size of the connection between items of a cutting tool, excluding cutting items",001,DEPENDENT_P_DET
+71DF8C52B8926,cict,cutting item count,number of cutting items on a working face,001,NON_DEPENDENT_P_DET
+71CF298FDE0EF,miid,master insert identification,identifier for a nominal replaceable cutting item used for defining the dimensions of a cutting tool.,001,NON_DEPENDENT_P_DET
+71D078FBF6C68,tsyc,tool style code,identifier for the main design or shape of tool item or adaptive item.,001,NON_DEPENDENT_P_DET
+71EBBA9ED6C0A,ust,unit system,description of the system of units in which the characteristics of an item are defined,001,NON_DEPENDENT_P_DET
+71DF1523224D8,bmc,body material code,identifer for the main material constituent of the tool item or adaptive item,001,NON_DEPENDENT_P_DET
+71EBBE67E4BD6,adjdvl,adjustment deviation lower,algebraic difference between a minimum limit of adjustment and the adjustment datum,001,NON_DEPENDENT_P_DET
+71D07543FD182,daxx,axial groove outside diameter maximum,"maximum diameter of an axial groove that can be cut without interference between the workpiece and any part of the tool item on the first cut, measured on that point of the cutting edge that creates the outside diameter of the groove.",001,NON_DEPENDENT_P_DET
+71D075731F172,hbkw,head back offset width,dimension of the width of the reinforced portion of the back of the head of a tool item measured from the rear backing surface,001,NON_DEPENDENT_P_DET
+71CF299874B1E,wfs,functional width secondary,distance between the YZ-plane and a plane tangential to the secondary cutting corner as determined by the main function of the tool,002,NON_DEPENDENT_P_DET
+71D0808F8F719,gamo,rake angle orthogonal,angle between the tool rake plane and a plane parallel to the XZ-plane measured in a plane perpendicular to the tool cutting edge plane,003,NON_DEPENDENT_P_DET
+71CF2998EBD46,gamn,rake angle normal ,"angle between the tool rake plane and a plane parallel to the XZ-plane, measured in a plane whose normal is the major cutting edge of the tool",003,NON_DEPENDENT_P_DET
+71D0756A28B42,cwn,cutting width minimum,minimum width of the cut made by  a particular combination of a tool item and cutting item(s).,001,NON_DEPENDENT_P_DET
+71CF29994E737,cutting height,functional height,distance from the XZ-plane of the tool item to the cutting point,002,NON_DEPENDENT_P_DET
+71EBB33230236,wb,body width,the distance measured along the X-axis between the extremes of the body excluding any protrusion of the locking mechanisms,002,NON_DEPENDENT_P_DET
+71ED6E5CD0DAE,aln,clearance angle normal,angle between the major flank of the master insert and the tool cutting edge plane measured in a plane whose normal is parallel to the main cutting edge,001,NON_DEPENDENT_P_DET
+71D078F683C9B,kapr,tool cutting edge angle,angle between the tool cutting edge plane and the tool feed plane measured in a plane parallel the XZ-plane,002,NON_DEPENDENT_P_DET
+71CF2988A5874,sx,shank cross section shape code,identifer for the cross sectional shape of the shank of the tool item and the number and location of flats on a cylindrical shank.,002,NON_DEPENDENT_P_DET
+71D078F5BEDBE,lfs,functional length secondary,distance from the XY-plane to a plane tangential to the secondary cutting corner as determined by the main function of the tool,002,NON_DEPENDENT_P_DET
+71CF2992DBC44,blrad,blade reinforcement radius,measure of the curve of the reinforced section of a tool item that determines the maximum diameter of a workpiece that can be parted or cut off.,001,NON_DEPENDENT_P_DET
+71CF299354332,daxn,axial groove outside diameter minimum,"minimum diameter of an axial groove that can be cut without interference between the workpiece and any part of the tool item on the first cut, measured on that point of the cutting edge that creates the outside diameter of the groove.",001,NON_DEPENDENT_P_DET
+71D0793ECEF9A,lfa,a dimension on lf,dimension from the cutting reference point in the direction of the lf dimension to the plane perpendicular to the feed direction and tangential to the secondary corner of the main cutting edge,001,NON_DEPENDENT_P_DET
+71CF299431CAC,wfa,a dimension on wf,dimension from the cutting reference point in the direction of the f dimension to the plane perpendicular to the feed direction and tangential to the secondary corner of the main cutting edge,001,NON_DEPENDENT_P_DET
+71D078F77616B,,tool lead angle,angle between the tool cutting edge plane and a plane perpendicular to the tool feed plane measured in a plane parallel the XZ-plane,002,NON_DEPENDENT_P_DET
+71D078EB73E87,oah,overall height,"largest dimension of an item in the direction of the Y-axis that would cause interference, including the master insert and clamping where applicable",002,NON_DEPENDENT_P_DET
+71CF29984CDA7,f dimension,functional width,distance between the cutting reference point and the rear  backing surface of a turning tool or the axis of a boring bar,001,NON_DEPENDENT_P_DET
+71D0757C787B8,cutdia,work piece parting diameter maximum,maximum diameter of solid work piece in a cut-off operation that can be cut without interference with any part of the tool item.,001,NON_DEPENDENT_P_DET
+71D075754F8A3,lams,inclination angle,angle between the tool rake plane and a plane parallel to the XZ-plane measured in the tool cutting edge plane,002,NON_DEPENDENT_P_DET
+71CF298F073D3,hbh,head bottom offset height,distance from the XZ-plane of a tool item or adaptive item to the bottom of the head,002,NON_DEPENDENT_P_DET
+71D078F6E9893,ceatc,tool cutting edge angle type code,identifer for the direction of the cutting edge angle.,002,NON_DEPENDENT_P_DET
+71D078FD4E7BE,thsc,tool holder shape code,identifer for whether a tool item has a straight shank or an offset shank,001,NON_DEPENDENT_P_DET
+71EAC0E9FA4CD,mhd,mounting hole distance,"Dimension measured from the end of a tool item, including any adjusting screw, to the center of the mounting hole ",001,NON_DEPENDENT_P_DET
+71EAC0EF68BB7,mhd2,mounting hole distance 2,Dimension measured from the center of the first mounting hole to the center of the second mounting hole,001,NON_DEPENDENT_P_DET
+71EAC0EFA1BF3,mhh,mounting hole height,distance from the base of the tool item to the intersection of the center of the mounting hole with the rear backing surface of the tool item ,001,NON_DEPENDENT_P_DET
+71EAC0F064E2D,mha,mounting hole angle,angle between the XZ-plane and the center of the mounting hole measured in the YZ-plane,002,NON_DEPENDENT_P_DET
+71EBAF85006BD,wsc,clamping width,dimension of the width of that portion of a tool item or an adaptive item that can participate in a connection,001,NON_DEPENDENT_P_DET
+71DF5C078FF46,hbp,hub property,possession of a hub by a tool item,001,NON_DEPENDENT_P_DET
+71E0306423B2A,drvct,drive count,number of drives that are on an assembly item,001,NON_DEPENDENT_P_DET
+71ED6E4B254E5,rho,rho,rotation angle for the xyw-plane counterclockwise about the x-axis ,002,NON_DEPENDENT_P_DET
+71ED6E4FA83F6,yzwd,yzw plane distance,displacement of the yzw-plane from the origin of the coordinate reference system,001,NON_DEPENDENT_P_DET
+71DF8C660035E,total indicator runout,runout radial,total variation of all cutting reference points from the Z-axis measured perpendicular to the Z-axis in a defined plane of rotation,002,NON_DEPENDENT_P_DET
+71ED6E4F7A8CF,xzwd,xzw plane distance,displacement of the xzw-plane from the origin of the coordinate reference system,001,NON_DEPENDENT_P_DET
+71ED6E4A7EFBA,kapr,kappa,rotation angle for the yzw-plane counterclockwise about the y-axis,002,NON_DEPENDENT_P_DET
+71EBBE66AA8A3,adjdm,adjustment datum,theoretically exact plane to which the adjustment deviations or the adjustment limits are referred,001,NON_DEPENDENT_P_DET
+71FAD51836C93,dinn,diameter inner,distance between parallel tangents to the inner surface of a cylindrical object,001,NON_DEPENDENT_P_DET
+71ED6A7A6E6A2,gpd,guide pilot diameter,diameter of the portion of a cylindrical tool in front of the cutting portion that acts to limit the sideways movement of the tool in operation,001,NON_DEPENDENT_P_DET
+71ED6E4F42626,xywd,xyw plane distance,displacement of the xyw-plane from the origin of the coordinate reference system,001,NON_DEPENDENT_P_DET
+71ED6E4AE850B,phi,phi,rotation angle for the xzw-plane counterclockwise about the z-axis,002,NON_DEPENDENT_P_DET
+71ED6A70807F7,rna,runout axial,total variation of all cutting reference points from the XY-plane measured in the direction of the Z-axis in a defined plane of rotation,002,NON_DEPENDENT_P_DET
+71CF298FB10E4,gdmb,groove depth minimum bore diameter,maximum groove depth that can be cut at the minimum bore diameter.,001,NON_DEPENDENT_P_DET
+71EBBE682E490,adjdvu,adjustment deviation upper,algebraic difference between a maximum limit of adjustment and the adjustment datum,001,NON_DEPENDENT_P_DET
+71EBBE6A5BF09,adjdr,adjustment direction,direction of movement of an item measured with respect to the functional dimensions,001,NON_DEPENDENT_P_DET
+71EBBE7266DA2,adjin,adjustment increment,smallest step by which a movement can be made,001,NON_DEPENDENT_P_DET
+71EAC49030828,pdp,pilot drill protrusion,distance from the cutting reference point of a pilot drill to cutting edges that form the bottom of the hole measured along the tool axis.,001,NON_DEPENDENT_P_DET
+71EBBE72A6287,adjrg,adjustment range,distance between the adjustment limit minimum and the adjustment limit maximum,001,NON_DEPENDENT_P_DET
+71EBBE664BCBD,adjlx,adjustment limit maximum,greatest permissible movement from the adjustment datum,001,NON_DEPENDENT_P_DET
+71EBBE668A8F3,adjln,adjustment limit minimum,least permissible movement from the adjustment datum,001,NON_DEPENDENT_P_DET
+71EEF5384E141,flgh,flange height,greatest dimension across a rectangular projecting rim or edge,001,NON_DEPENDENT_P_DET
+71EDD2C17746F,cconws,connection count workpiece side,"effective numbers of connections that can participate in a connection between any component of a cutting tool, except cutting items and assembly items, on the workpiece side",001,NON_DEPENDENT_P_DET
+71D0846298D19,adjrr,runout radial adjustment,magnitude of the range of adjustment perpendicular to the Z-axis to align cutting edges to the same radial position,002,NON_DEPENDENT_P_DET
+71EEF53809764,,flange thickness,dimension through the body of a projecting rim or edge,001,NON_DEPENDENT_P_DET
+71F90EA1ED67E,flgl,flange location,distance from the designated coordinate system to the front of a projecting rim or edge,002,NON_DEPENDENT_P_DET
+71DF153B14F02,tq,torque,rotational force applied to an item,001,NON_DEPENDENT_P_DET
+71EBBA9BCB5F2,lam,actuation method,description of how the locking mechanism is actuated,001,NON_DEPENDENT_P_DET
+71EBBA9B56D06,lmaf,actuation force,linear force needed to actuate a locking mechanism,001,NON_DEPENDENT_P_DET
+71EBDBF22CF58,cecid,coolant entry centre line distance,dimension between the tool item axis or the adaptive item axis and the axis of the coolant entry supply feature measured radially perpendicular to the item axis,001,NON_DEPENDENT_P_DET
+71EBDBF2CEE6A,ceia,coolant entry inclination angle,angle between the tool item axis or the adaptive item axis and the coolant entry supply feature measured in a plane that is colinear with the coolant entry rotation angle and perpendicular to the XY-plane,002,NON_DEPENDENT_P_DET
+71EBDBF289BB9,cera,coolant entry rotation angle,angle between the XZ-plane and a line between the axis of the coolant entry supply feature and either the tool item axis or the adaptive item axis measured in the negative direction (clockwise),002,NON_DEPENDENT_P_DET
+71CF2985DCED3,cnsc,coolant entry style code,identifier for the arrangement for the entry of the coolant supply ,001,NON_DEPENDENT_P_DET
+71D07558CEF8A,cnt,coolant entry thread size,identifier for the thread at the axial coolant entry on the machine side.,001,NON_DEPENDENT_P_DET
+71EAC478A4164,cp,coolant pressure,pressure of the coolant media at the entry of the tool item or adaptive item,001,NON_DEPENDENT_P_DET
+71CF298EB6D72,crw,coolant ring seat width,space needed to mount a coolant ring.,001,NON_DEPENDENT_P_DET
+71EBBE32903BD,fmt,form type,identifer for whether a connection surface is internal or external,002,NON_DEPENDENT_P_DET
+71DF1527D828C,dcsc,cutting diameter size code,identifer for the cutting diameter of a tool item,002,NON_DEPENDENT_P_DET
+71DCCFEC645BD,fdc,flute design code,identifier for the design of the flute,001,NON_DEPENDENT_P_DET
+71DCCFF654756,fhh,flute helix hand,identifier for the direction of the flute helix.,001,NON_DEPENDENT_P_DET
+71DCCFF6A1A13,fhp,flute helix pitch,distance between equivalent points on the periphery of the tool item by revolving one turn.,001,NON_DEPENDENT_P_DET
+71FAD53253A1B,pnfx,pin fixing method,mechanism for securing a rigid centre pin in a tool item,002,NON_DEPENDENT_P_DET
+71ED6E58E5A62,bhcc,bolt hole circle count,number of bolt hole circles on a connection interface feature,001,NON_DEPENDENT_P_DET
+71CF30F02C968,cdi,insert cutting diameter,diameter of a drilling insert used for making a hole.,001,NON_DEPENDENT_P_DET
+71EAC82B2A50E,cea,chisel edge angle,the obtuse angle between the chisel edge and a line from the cutting reference point to the corresponding chisel edge corner. The angle is measured in a plane perpendicular to the tool item axis.,001,NON_DEPENDENT_P_DET
+71D078ED2C21E,qtc,qualified tool code,identifer for a tool with dimensions F and LF or F2 and LF having tolerances of +/-0.08 mm,001,NON_DEPENDENT_P_DET
+71EC61D6B66E6,lth,length,distance between the ends of an object or feature,001,NON_DEPENDENT_P_DET
+71EBDBF49F96C,dcbn,connection bore diameter minimum,least internal diameter of an adaptive item that can participate in a connection,001,DEPENDENT_P_DET
+71FAE074D2EBD,shian,shim inclination angle,angle between the top and bottom surfaces of a shim,002,NON_DEPENDENT_P_DET
+71CF299287FD3,clmbd,cutting length at minimum bore diameter,distance on a cutting tool that defines how far the tool can cut from the start of the minimum bore diameter of a workpiece  ,001,NON_DEPENDENT_P_DET
+71FAD52C3FC9E,,shaft length,longitudinal dimension of the main functional portion of a cylindrical object,001,NON_DEPENDENT_P_DET
+71EADEA2BF8DF,btel,body taper end length,dimension from the front of a tool item or adaptive item to the end of the tool body taper measured along the tool item axis or adaptive item axis,001,NON_DEPENDENT_P_DET
+71CED03C97AAB,wt,weight of item,force exerted by the mass of an item,001,NON_DEPENDENT_P_DET
+71ED6E53C690D,lscx,clamping length maximum,greatest portion of the connection feature that is necessary to ensure the function of  the tool item or the adaptive item,001,NON_DEPENDENT_P_DET
+71FAE06BBB597,spcf,spring coefficient,ratio between the applied force and the reciprocal of the deflection,001,NON_DEPENDENT_P_DET
+71FAD52B8F653,sfdm,shaft diameter,width of the main functional portion of a cylindrical object,001,NON_DEPENDENT_P_DET
+71EAC82ADE5EA,cel,chisel edge length,length of the edge formed by the intersection of the flanks,001,NON_DEPENDENT_P_DET
+71EC61D8A1771,df,flange diameter,dimension between two parallel tangents on the outside edge of a flange,001,NON_DEPENDENT_P_DET
+71EAC81AD9AE1,dbt,drill back taper ,the reduction in diameter from the outer corners towards the shank expressed by the ratio of the reduction in diameter and the length of measurement,001,NON_DEPENDENT_P_DET
+71DF8C5D91804,prspc,profile specification,identifer for formal definition of the shape of a working face or cutting profile,001,NON_DEPENDENT_P_DET
+71EC5E54A9B4F,pnes,pin end shape,identifier for the form of the top termination of a rigid centre pin,001,NON_DEPENDENT_P_DET
+71EBDBF4D0F49,dcbx,connection bore diameter maximum,greatest internal diameter of an adaptive item that can participate in a connection,001,DEPENDENT_P_DET
+71EC5E1ECC776,dkty,driving key type,form of a driving key,001,NON_DEPENDENT_P_DET
+71EAC0DD5D650,dcsfws,contact surface diameter workpiece side,diameter of the surface on the workpiece side forming the contact between a tool item and an adaptor item ,001,NON_DEPENDENT_P_DET
+71FC06ABEA7D3,thsts,thread starts,number of starting points for a screw thread,001,NON_DEPENDENT_P_DET
+71FAD51880679,diout,diameter outer,distance between parallel tangents to the outer surface of a cylindrical object,001,NON_DEPENDENT_P_DET
+71DF1523869EE,btc,burr type code,identifier for a type of burr ,001,NON_DEPENDENT_P_DET
+71EBB2F865924,dah,diameter access hole,dimension of a hole through an item to provide access to a screw or other feature,001,NON_DEPENDENT_P_DET
+71EAC0DECE78F,dbc,diameter bolt circle,the diameter of a circle on which the centers of cylindrical or threaded holes are placed to form a connection between a tool and an adaptive item,001,NON_DEPENDENT_P_DET
+71EC61D7F2071,dfin,flange diameter internal,largest dimension across the inside edge of an internal flange aperture,001,NON_DEPENDENT_P_DET
+71EC61D8F250D,hth,height,largest dimension of an object above a base level,001,NON_DEPENDENT_P_DET
+72550E3BD998C,gdsc,grind style code,"identifier for the general form of the cutting edges of a drilling profile, a drilling insert or a drill",001,NON_DEPENDENT_P_DET
+71FC209CD4A91,thlgth,thread length,distance between the ends of a portion of an item that includes the full profile of a thread,001,NON_DEPENDENT_P_DET
+72550A78BC664,gads,gauge distance,distance between the gauge diameter and the corner of an insert that has the primary included angle,001,NON_DEPENDENT_P_DET

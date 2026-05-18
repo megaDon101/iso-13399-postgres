@@ -1,0 +1,221 @@
+property_symbol,property_name,PLIB_property_code,property_class_name,item_type,GTCapplication_id
+-,-,-,-,-,-
+ADJLN,adjustment limit minimum,71EBBE668A8F3,adjustment radial,adaptive item,ADPBORBR
+ADJLX,adjustment limit maximum,71EBBE664BCBD,adjustment radial,adaptive item,ADPBORBR
+ALP,axial clearance angle,71EAC83CD450B,tool item type,tool item -indexable,TRNTHEI
+AN,clearance angle major,71DD70308D3E3,flank major,cutting item,INSCDRL
+ANL,clearance angle major left,7272127EBE942,flank major,cutting item,INSCPRFG
+ANN,minor clearance angle,71DD7030E0A00,flank minor,cutting item,INSCPRFG
+ANR,clearance angle major right,7272127FC0C98,flank major,cutting item,INSCPRFG
+APMX,depth of cut maximum,71D07576C0558,tool item type,cutting item,INSCPRFG
+AS,wiper edge clearance angle,71DD7031A98E9,flank wiper edge,cutting item,INSCMIL
+AZ,plunge depth maximum,71D08099F1DDC,class defining the item,tool item -indexable,MILBNSI
+B,shank width,71CF298751FCF,connection interface feature,adaptive item,ADPNR
+BBD,balanced by design,71EAC0CAB861F,adaptive item type,adaptive item,ADPRS
+BCH,corner chamfer length,71DD6C895C25B,chamfered corner,cutting item,INSCDRL
+BD,body diameter,71ED6A9AF7D1D,adaptive item type,adaptive item,ADPCL
+BHTA,body half taper angle,71EAC472BD116,adaptive item type,adaptive item,ADPCL
+BLQ,balance quality code,71DF151EA5CF1,adaptive item type,adaptive item,ADPRS
+BMC,body material code,71DF1523224D8,adaptive item type,adaptive item,ADPRS
+BN,face land width,71DD6C9394F40,cutting edge major,cutting item,INSCDRL
+BRAND,brand,,organization,accessory-item,ACC
+BS,wiper edge length,71CE7AA249F88,wiper edge,cutting item,INSCDRL
+BSR,wiper edge radius,71CE7AA2E50BE,wiper edge,cutting item,INSCDRL
+CBMD,chip breaker manufacturer's designation,71CE7A86A4264,chip breaker,cutting item,INSCDRL
+CCFMS,connection code form type machine side,726E3E84DD902 ,connection interface feature,adaptive item,ADPCL
+CCFWS,connection code form type workpiece side,726E3E8558953 ,connection interface feature,adaptive item,ADPCL
+CCMS,machine side connection code,71D102AE3B252,connection interface feature,adaptive item,ADPCL
+CCTMS,connection code type machine side,726E3E82E53A6 ,connection interface feature,adaptive item,ADPCL
+CCTWS,connection code type workpiece side,726E3E83D7357 ,connection interface feature,adaptive item,ADPCL
+CCWS,workpiece side connection code,71D102AE8A5A9,connection interface feature,adaptive item,ADPCL
+CDSC,cutting diameter size code,71DF1527D828C,tool item type,cutting item,INSCDRL
+CDX,cutting depth maximum,71CEAEBD5A66A,grooving parting profile,cutting item,INSCPRFG
+CEATC,Tool Cutting Edge Angle Type Code,71D078F6E9893,tool item type,tool item -indexable,TRNGEI
+CECC,cutting edge condition code,71DD6C90953D8,cutting edge condition,cutting item,INSCDRL
+CECV,cutting edge curvature,71DD6C950E7CC,cutting edge major,cutting item,INSCMIL
+CEDC,cutting edge count,71CEAE9B489F4,cutting item type,cutting item,INSCDRL
+CEMR,cutting edge major radius,non ISO Plib,cutting item type,cutting item,INSCMIL
+CF,spot chamfer,non ISO Plib,grooving parting profile,cutting item,INSCPRFG
+CHBA,chamfer body angle,non ISO Plib,adaptive item type,adaptive item,ADPNR
+CHBL,chamfer body length,non ISO Plib,adaptive item type,adaptive item,ADPNR
+CHW,corner chamfer width,71DD6C89A120F,wiper edge,cutting item,INSCMIL
+CHWL,chamfer width left hand,727233F2FE845,chamfered corner,cutting item,INSCPRFG
+CHWR,chamfer width right hand,727233F34CCF7,chamfered corner,cutting item,INSCPRFG
+CICT,cutting item count,71DF8C52B8926,tool item type,tool item -indexable,DRLFIA
+CNC,corner count,71CEAE9B67E4C,cutting item type,cutting item,INSCMIL
+CNSC,coolant entry style code,71CF2985DCED3,coolant supply,adaptive item,ADPCL
+CNT,coolant entry thread size,71D07558CEF8A,coolant supply,adaptive item,ADPNR
+COATING,coating,,cutting item coating,cutting item,INSCDRL
+CP,coolant pressure,71EAC478A4164,coolant supply,adaptive item,ADPCL
+CPDF,cutting pitch differential,71DF152D8CF7D,tool item type,tool item -indexable,MILFI
+CUB,connection unit basis,71ED6E16D5978,connection interface feature,adaptive item,ADPCL
+CUTDIA,work piece parting diameter maximum,71D0757C787B8,adaptive item type,adaptive item,ADPNR
+CW,cutting width,71CEAEBE2B825,grooving parting profile,cutting item,INSCPRFG
+CWX,maximum cutting width,71D07569F8BC3,tool item type,tool item -indexable,MILFI
+CXSC,coolant exit style code,71CF2985FC5FC,coolant supply,adaptive item,ADPCL
+CZC,connection size code,71FC193318002,connection interface feature,adaptive item,ADPCL
+D1,fixing hole diameter,71CE7A968C8FE,fixing hole,cutting item,INSCDRL
+DAH,diameter access hole,71EBB2F865924,connection interface feature,tool item -indexable,MILPRAPI
+DAXN,minimum axial groove outside diameter,71CF299354332,cutting item type,cutting item,INSCPRFG
+DAXX,maximum axial groove outside diameter,71D07543FD182,cutting item type,cutting item,INSCPRFG
+DBC,diameter bolt circle,71EAC0DECE78F,bolt hole circle,adaptive item,ADPNR
+DC,cutting diameter,71D084653E57F,tool item type,cutting item,INSCDRL
+DCBN,connection bore diameter minimum,71EBDBF49F96C,connection interface feature,adaptive item,ADPRS
+DCBX,connection bore diameter maximum,71EBDBF4D0F49,connection interface feature,adaptive item,ADPRS
+DCCB,counterbore diameter connection bore,726E2FCF353DE ,tool item type,tool item -indexable,MILFI
+DCN,minimum cutting diameter,71D0846556288 ,tool item type,tool item -indexable,BORIMI
+DCON,connection diameter,71EBDBF5060E6,connection interface feature,adaptive item,ADPCL
+DCX,maximum cutting diameter,71D084656CE32,tool item type,tool item -indexable,BORIMI
+DHD,drop head design,71EAC49F75413,tool item type,tool item -indexable,TRNTHEI
+DIX,maximum tool changer interference diameter,71CF298A3A99A,adaptive item type,adaptive item,ADPNR
+DMIN,minimum bore diameter,71D07543367C5,tool item type,tool item -indexable,TRNGEI
+DN,neck diameter,71EAC48EC5DE0,tool item type,tool item -indexable,MILFI
+DPC,damping property,71CED03D70452,adaptive item type,adaptive item,ADPRS
+DRAW_CHAR,characteristics drawing,,documentation,accessory-item,ACC
+DRAW_DIM_FIXED_SCALE,dimension drawing fixed scale,,documentation,accessory-item,ACC
+EAN,EAN,,identification,accessory-item,ACC
+EPSR,insert included angle,71CE7A96BC122,cutting item type,cutting item,INSCDRL
+FDC,flute design code,71DCCFEC645BD,chip management,tool item -indexable,DRLFIA
+FHA,flute helix angle,71DCCFEC20115,chip management,tool item -indexable,DRLFIA
+FHH,flute helix hand,71DCCFF654756,chip management,tool item -indexable,DRLFIA
+FMT,form type,71EBBE32903BD,connection interface feature,adaptive item,ADPCL
+GAMF,radial rake angle,71CF2998A1609,tool item type,tool item -indexable,MILTHGI
+GAMO,orthogonal rake angle,71D0808F8F719,tool item type,cutting item,INSCDRL
+GAMP,axial rake angle,71CF29990C41F,tool item type,tool item -indexable,BLTGTI
+GAN,insert rake angle,71CE7A9EDACA1,chip breaker,cutting item,INSCDRL
+GB,face land angle,71DD6C9332D2C,cutting edge major,cutting item,INSCDRL
+GEP,guide element property,71EE070696F08,tool item type,tool item -solid,REASCYLS
+GRADE,grade,,cutting item material,cutting item,INSCDRL
+H,shank height,71CF29883E014,connection interface feature,adaptive item,ADPCL
+HA,theoretical thread height,71DF5BE5BCEBE,threading profile,cutting item,INSCPRFTHF
+HAND,hand,71CF29872F0AB,adaptive item type,adaptive item,ADPNR
+HB,thread height difference,71DF5BE617131,threading profile,cutting item,INSCPRFTHF
+HBH,head bottom offset height,71CF298F073D3,tool item type,tool item -indexable,TRNGEI
+HF,functional height,71CF29994E737,adaptive item type,adaptive item,ADPNR
+HRY,lowest point from reference plain,non ISO Plib,adaptive item type,adaptive item,ADPNR
+IC,inscribed circle diameter,71CE7A96D9F7D,cutting item type,cutting item,INSCDRL
+IEP,interupted edge property,71DD701175021,cutting edge,tool item -indexable,MILTHGI
+IFS,insert mounting style code,71CE7A97711B8,fixing hole,tool item -indexable,MILPRAPI
+IH,insert hand,71CE7A979F41C,cutting item type,cutting item,INSCDRL
+IIC,insert interface code,71CE7A9936610,cutting item type,cutting item,INSCDRL
+INSL,insert length,71CE7A9DFA23A,cutting item type,cutting item,INSCDRL
+ITEM_DESCRIPTION,item description,,identification,adaptive item,ADPBORBR
+ITEM_ID,item id,,identification,adaptive item,ADPBORBR
+KAP,kappa (z-axis rot),71ED6E4A7EFBA,xzw-plane,adaptive item,ADPCL
+KAPR,tool cutting edge angle,71D078F683C9B,tool item type,cutting item,INSCPRFG
+KCH,corner chamfer,71DD6C88F9210,chamfered corner,cutting item,INSCDRL
+KCHL,corner chamfer left hand,72724DF0F6A58,chamfered corner,cutting item,INSCPRFG
+KCHR,corner chamfer right hand,72724DF15A080,chamfered corner,cutting item,INSCPRFG
+KRINS,major cutting edge angle,71CE7AA02C1CC,wiper edge,cutting item,INSCMIL
+KWW,keyway width,71D0841ADC9E0,keyway,tool item -indexable,MILPRAPI
+L,cutting edge length,71DD6C95DA49B,cutting edge major,cutting item,INSCDRL
+LAMS,inclination angle,71D075754F8A3,tool item type,tool item -indexable,DRLFIA
+LB,body length,71ED6AA478A3D,adaptive item type,adaptive item,ADPCL
+LCCB,counterbore depth connection bore,726E2FCE0826C ,tool item type,tool item -indexable,MILFI
+LCF,chip flute length,71DCCC27DEF53,chip management,tool item -indexable,DRLFIA
+LE,cutting edge effective length,71DD6C958C615,cutting edge major,cutting item,INSCDRL
+LF,functional length,71DCD39338974,adaptive item type,adaptive item,ADPCL
+LFA,a dimension on lf,71D0793ECEF9A,tool item type,tool item -indexable,TRNGEI
+LFCIRP,length to cutting item reference point,non ISO Plib,tool item type,tool item -indexable,TRNPAI
+LH,head length,71D07574A61E8,tool item type,tool item -indexable,TRNGEI
+LPR,protruding length,71DCD394BB20E,adaptive item type,adaptive item,ADPNR
+LS,shank length,71CF298870946,connection interface feature,adaptive item,ADPCL
+LSC,clamping length,71EBAF896BE9A,connection interface feature,adaptive item,ADPCL
+LU,usable length,71EBB33490FDA,tool item type,tool item -indexable,DRLFIA
+LUCIRP,usable length to cutting item reference point,non ISO Plib,tool item type,tool item -indexable,TRNPII
+MHD,mounting hole distance,71EAC0E9FA4CD,connection interface feature,tool item -indexable,MILBNSI
+MIID,master insert identification,71CF298FDE0EF,master insert,tool item -indexable,BORIMI
+MODDATE,modified date,,data structure,accessory-item,ACC
+MODEL_SIMUL_ANTICOLL,3D anti-collision model,,documentation,accessory-item,ACC
+NOF,flute count,71DCCFEBB883E,tool item type,tool item -indexable,DRLFIA
+NOI,insert index count,71CE7AA1998FF,tool item type,tool item -indexable,DRLFIA
+NOS,step count,71DCCC3BD1B96,tool item type,tool item -indexable,DRLSCIS
+NT,tooth count,71CEAEBF8A68E,threading profile,cutting item,INSCPRFTHF
+OAH,overall height,71D078EB73E87,adaptive item type,adaptive item,ADPNR
+OAL,overall length,71D078EB7C086,adaptive item type,adaptive item,ADPCL
+OAW,overall width,71CF299257986,adaptive item type,adaptive item,ADPNR
+OHN,minimum overhang,non ISO Plib,adaptive item type,adaptive item,ADPRS
+OHX,maximum overhang,non ISO Plib,adaptive item type,adaptive item,ADPCL
+ORDCODE,Ordering code,,identification,accessory-item,ACC
+PAL,left hand profile angle,71CEAEBEAB020,threading profile,cutting item,INSCPRFTHF
+PAR,right hand profile angle,71CEAEBED837E,threading profile,cutting item,INSCPRFTHF
+PDESCR,Product Description,,identification,accessory-item,ACC
+PDX,profile distance ex,71CEAEBFEF1B4,threading profile,cutting item,INSCPRFTHF
+PDY,profile distance ey,71CEAEC0139BB,threading profile,cutting item,INSCPRFTHF
+PFS,profile style code,71CEAEBDE5798,grooving parting profile,cutting item,INSCPRFG
+PHD,premachined hole diameter,71DCCC5A4FD18,class defining the item,tool item -indexable,DRLSCIS
+PHI,phi (x-axis rot),71ED6E4AE850B,feed direction primary,adaptive item,ADPCL
+PICT_3D_VIEW,3D view picture,,documentation,adaptive item,ADPBORBR
+PL,point length,71DCCFD064042,drill point,cutting item,INSCDRL
+PNA,profile included angle,71CEAEBF0C234,threading profile,cutting item,INSCPRFTHF
+PRFRAD,profile radius,71E019EBAE1B1,concave mill profile,tool item -indexable,MILBNSI
+PRODDES,Product Designation,,identification,accessory-item,ACC
+PRODFAM,product family,,identification,accessory-item,ACC
+PRSPC,profile specification,71DF8C5D91804,master insert,tool item -indexable,MILPRAPI
+PSIR,tool lead angle,71D078F77616B ,tool item type,tool item -indexable,MILFI
+PSIRL,major left hand cutting edge angle,71CE7AA3440B4,cutting edge major,cutting item,INSCPRFG
+PSIRR,major right hand cutting edge angle,71CE7AA78C2F0,cutting edge major,cutting item,INSCPRFG
+RADH,radial body height,726E3E86B5284,adaptive item type,adaptive item,ADPNR
+RADW,radial body width,726E3E8DA5589,adaptive item type,adaptive item,ADPNR
+RAL,left hand relief angle,71CE7E6520B87,grooving parting profile,cutting item,INSCPRFG
+RAR,right hand relief angle,71CE7E6569AB5,grooving parting profile,cutting item,INSCPRFG
+RE,Corner radius,71DD6C8ACA503,rounded corner,cutting item,INSCDRL
+REL,corner radius left,726E3E65CBE4E,rounded corner,cutting item,INSCPRFG
+RER,corner radius right,non ISO Plib,rounded corner,cutting item,INSCPRFG
+RHO,rho (y-axis rot),71ED6E4B254E5,yzw-plane,adaptive item,ADPCL
+RID,row identifier,71CED04867743,tool item type,tool item -indexable,MILSQI
+RMPX,maximum ramping angle,71DF1538632D9,tool item type,cutting item,INSCPRFG
+RPMX,rotational speed maximum,71DF153A691F2,adaptive item type,adaptive item,ADPRS
+S,insert thickness,71CE7A9F5308C,cutting item type,cutting item,INSCDRL
+S1,Insert thickness total,72550E143C993,cutting item type,cutting item,INSCDRL
+SC,insert shape code,71CE7A9F0C79F,cutting item type,cutting item,INSCDRL
+SDL,step diameter length,71DCCC3DFA23A,tool item type,tool item -indexable,DRLSCIS
+SIDE,side,71EBDBF130AE6,connection interface feature,adaptive item,ADPCL
+SIG,point angle,71DCCC4FEF366,drill point,cutting item,INSCDRL
+SSC,insert seat size code,71CEAEBF2A69F,cutting item type,cutting item,INSCDRL
+STA,step included angle,71DF151D6E547,tool item type,tool item -indexable,DRLSCIS
+SUBSTRATE,Substrate,,cutting item material,cutting item,INSCDRL
+SUPPLIER_ID,id of item supplier,,organization,adaptive item,ADPBORBR
+SUPPLIER_NAME,name of item supplier,,organization,adaptive item,ADPBORBR
+TC,tolerance class insert,71CE7AA215888,cutting item type,cutting item,INSCDRL
+TCDC,tolerance class cutting diameter,non ISO Plib,tool item type,cutting item,INSCDRL
+TCDCONMS,connection diameter tolerance,72719B2BD8041,connection interface feature,adaptive item,ADPCL
+TCDCONWS,connection diameter tolerance,727ED91B5AA66,connection interface feature,adaptive item,ADPCL
+TCE,tipped cutting edge code,71CE7AA1E3D75,cutting item type,cutting item,INSCDRL
+TCL,tap chamfer length,non ISO Plib,threading profile,tool item -solid,TAPCCONF
+TCPD,tap chamfer plug diameter,non ISO Plib,threading profile,tool item -solid,TAPCCONF
+TCTR,thread tolerance class,71DF153FA5F85,threading profile,cutting item,INSCPRFTHF
+TD,thread diameter,71E02C5C2EED3,tool thread internal,adaptive item,ADPNR
+TDZ,thread diameter size,71EBBAA3BCA70,connection interface feature,tool item -indexable,DRLSCIS
+TG,taper gradient,71CEAEC02FEBD,threading profile,cutting item,INSCPRFTHF
+THDH,thread hand,71E033FCBB61C,threading profile,cutting item,INSCPRFTHF
+THFT,thread form type,71D1A69F60053,threading profile,cutting item,INSCPRFTHF
+THL,threading length,non ISO Plib,threading profile,tool item -solid,TAPCCONF
+THLGTH,thread length,71FC209CD4A91,tool thread internal,tool item -solid,TAPCCONF
+THSTS,thread starts,71FC06ABEA7D3,threading profile,tool item -solid,TAPCCONF
+TP,thread pitch,71CEAEC08D4B0,threading profile,cutting item,INSCMIL
+TPI,threads per inch,71D1A6AAC8707,threading profile,cutting item,INSCPRFTHF
+TPN,thread pitch minimum,71D1A6A247E1F,threading profile,cutting item,INSCPRFTHF
+TPT,thread profile type,71CEAEC114603,threading profile,cutting item,INSCPRFTHF
+TPX,thread pitch maximum,71D1A6A283836,threading profile,cutting item,INSCPRFTHF
+TQ,torque,71DF153B14F02,locking mechanism,adaptive item,ADPNR
+TSYC,tool style code,71D078FBF6C68,adaptive item type,adaptive item,ADPCL
+TTP,thread type,71D1A6A16E6ED,threading profile,cutting item,INSCPRFTHF
+TTPID,tap type identifier,71DF153B4ABCD,tool item type,tool item -solid,TAPCCONF
+ULDR,usable length diameter ratio,71DCCC62CD9EE,tool item type,tool item -indexable,DRLFIA
+VAT,VAT number,,organization,accessory-item,ACC
+W1,Insert width,71CE7A9FB11C3,cutting item type,cutting item,INSCDRL
+WB,body width,71EBB33230236,adaptive item type,adaptive item,ADPNR
+WEB,web address,,organization,accessory-item,ACC
+WEP,wiper edge property,71CED022114EC,cutting item type,cutting item,INSCDRL
+WF,functional width,71CF29984CDA7,adaptive item type,adaptive item,ADPNR
+WFA,a dimension on wf,71CF299431CAC,tool item type,tool item -indexable,TRNGEI
+WFCIRP,width to cutting item reference point,non ISO Plib,tool item type,tool item -indexable,TRNPAI
+WSC,clamping width,71EBAF85006BD,connection interface feature,adaptive item,ADPCL
+WT,weight of item,71CED03C97AAB,class defining the item,accessory-item,ACC
+XYWD,xyw-plane distance,71ED6E4F42626,xyw-plane,adaptive item,ADPCL
+XZWD,xzw-plane distance,71ED6E4F7A8CF,xzw-plane,adaptive item,ADPCL
+YZWD,yzw-plane distance,71ED6E4FA83F6,yzw-plane,adaptive item,ADPCL
+ZADJ,insert adjustable count,71DF1538E7378,tool item type,tool item -indexable,MILFI
+ZEFF,face effective cutt edge count,71DCD00239812,tool item type,cutting item,INSCDRL
+ZEFP,peripheral effective cutting edge count,71DCCFF75E485,tool item type,tool item -indexable,MILFI
