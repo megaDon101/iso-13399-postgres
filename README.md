@@ -4,7 +4,7 @@
 
 If you're building manufacturing software — CAM systems, ERP integrations, MES tooling, custom shop-floor tools — and you've ever stared at a STEP file containing PLIB hex codes like `71D08096F930C` and asked "what *is* that?", this repo is for you. It loads the codes, the cross-walks, and the validation queries you need to make sense of them.
 
-This project is the open-source dictionary layer underneath [CarbideIQ](https://carbideiq.app/), a commercial carbide tool recommendation engine. The standards work is not the commercial product — it's the foundation. Releasing it publicly because the manufacturing-software community needs a shared, queryable starting point for this data, and right now there isn't one.
+This project is the open-source dictionary layer underneath [CarbideIQ](https://www.carbideiq.com/), a commercial carbide tool recommendation engine. The standards work is not the commercial product — it's the foundation. Releasing it publicly because the manufacturing-software community needs a shared, queryable starting point for this data, and right now there isn't one.
 
 ## What's inside
 
@@ -39,7 +39,7 @@ This repo is the bridge. Load it, and any of these become a one-line query:
 createdb iso13399
 
 # Clone and load
-git clone https://github.com/g28works/iso-13399-postgres.git
+git clone https://github.com/megaDon101/iso-13399-postgres.git
 cd iso-13399-postgres
 bash sql/run_all.sh
 ```
@@ -95,7 +95,7 @@ iso-13399-postgres/
 
 This repo is **not** a tool recommendation engine, not a cutting-parameter database, and not a vendor catalog. It contains zero proprietary vendor data — no Sandvik grade tables, no Kennametal cutting parameters, no ISCAR chipformer specs. Those live in the commercial CarbideIQ product. What's here is the standards infrastructure that *underlies* such products and that nobody has previously made available as a working, loadable database.
 
-If you want the commercial layer on top, reach out: [carbideiq.app](https://carbideiq.app/).
+If you want the commercial layer on top, reach out: [carbideiq.com](https://www.carbideiq.com/).
 
 ## Contributing
 
@@ -124,7 +124,7 @@ See [docs/standards-reference.md](docs/standards-reference.md) for full attribut
 
 ## About
 
-Built by Don Fite at [G28 Works](https://g28works.com/), founder of [CarbideIQ](https://carbideiq.app/). Over a decade in CNC; this is the part of the toolbox the industry should share.
+Built by Don Fite at [G28 Works](https://g28works.com/), founder of [CarbideIQ](https://www.carbideiq.com/). Over a decade in CNC; this is the part of the toolbox the industry should share.
 
 This is one person working through a lot of fragmented standards documentation and manufacturer reference material. Mistakes are mine, and there will be some — corrections, additions, and pull requests are genuinely welcome. More eyes catch more errors than mine alone.
 
